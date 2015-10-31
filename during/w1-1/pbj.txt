@@ -1,0 +1,17 @@
+Open Bread
+Open all jars
+Until everyone who wants a sandwich has one
+  if student wants sandwich
+    JELLY = ask student for jelly preference
+    Take out two slices
+    Pick up knife
+    Pick up JELLY with knife
+    Spread JELLY on one slice of bread
+    Pick up pb with knife
+    Spread pb on other slice of bread
+    Put bread together
+    Give to student
+  else
+    Guilt trip student
+  end
+end
