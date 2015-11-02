@@ -112,7 +112,7 @@ Helpful Links:
 
 #### Assignment
 
-[CSS Reverse Engineering](https://github.com/tiyd-rails-2015-08/css_reverse_engineering)
+[CSS Reverse Engineering](https://github.com/tiyd-rails-2016-01/css_reverse_engineering)
 
 
 ## Tuesday - Rails Views and Forms
@@ -150,7 +150,7 @@ Helpful Links:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/4me1mOWT-sY)
-* [Time Zone Code from Class](https://github.com/tiyd-rails-2015-08/time_zone)
+* [Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/time_zone)
 * [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
@@ -162,14 +162,14 @@ Helpful Links:
 
 #### Assignment
 
-[Recreate GitHub Profile](https://github.com/tiyd-rails-2015-08/github_profile)
+[Recreate GitHub Profile](https://github.com/tiyd-rails-2016-01/github_profile)
 
 
 ## Wednesday - REST, Scaffold
 
 <!--**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
 
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)-->
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)-->
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
@@ -200,14 +200,14 @@ Helpful Links:
 
 #### Assignment
 
-[Wallet](https://github.com/tiyd-rails-2015-08/wallet)
+[Wallet](https://github.com/tiyd-rails-2016-01/wallet)
 
 
 ## Thursday - Helpers/Partials, Heroku/Production
 
 **Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
 
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
 
 <!-- **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md) -->
 
@@ -243,7 +243,7 @@ Helpful Links:
 
 * [Class Video](https://youtu.be/qeGD6-jOUrM)
 * [Mini-lecture Video](https://youtu.be/6pDnLJll0Qw)
-* [Code Built in Class](https://github.com/tiyd-rails-2015-08/wallet_example)
+* [Code Built in Class](https://github.com/tiyd-rails-2016-01/wallet_example)
 * [Rails helpers tutorial](http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers?utm_source=rubyweekly&utm_medium=email)
 * [Heroku docs on installing Rails 4 apps](https://devcenter.heroku.com/articles/rails4)
 * [Heroku docs on setting up Puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
@@ -255,4 +255,4 @@ Helpful Links:
 
 ## Weekend Assignment - IN PAIRS
 
-[Health Tracker](https://github.com/tiyd-rails-2015-08/health_tracker)
+[Health Tracker](https://github.com/tiyd-rails-2016-01/health_tracker)

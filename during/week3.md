@@ -66,7 +66,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Time Entry Data Structure](https://github.com/tiyd-rails-2015-08/time_entry_data_structure)
+[Time Entry Data Structure](https://github.com/tiyd-rails-2016-01/time_entry_data_structure)
 
 
 ## Tuesday - SQL
@@ -131,7 +131,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Time Entry SQL Practice](https://github.com/tiyd-rails-2015-08/time_entry_sql_practice)
+[Time Entry SQL Practice](https://github.com/tiyd-rails-2016-01/time_entry_sql_practice)
 
 
 ## Wednesday - ActiveRecord and Unit Testing
@@ -169,7 +169,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/P1iKriKluio)
 * [Whiteboard - ActiveRecord's Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/032/original/db_migrations.jpg?1442425662)
-* [In-class ActiveRecord code](https://github.com/tiyd-rails-2015-08/first_active_record)
+* [In-class ActiveRecord code](https://github.com/tiyd-rails-2016-01/first_active_record)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
 
 #### Evening Reading
@@ -180,7 +180,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Employee Reviews with DB](https://github.com/tiyd-rails-2015-08/employee_reviews_with_db)
+[Employee Reviews with DB](https://github.com/tiyd-rails-2016-01/employee_reviews_with_db)
 
 
 ## Thursday - Associations and Validations
@@ -220,7 +220,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/ZWQA_mh2Ayc)
 * [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
-* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2015-08/database_solution)
+* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2016-01/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
 * [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)
 * [First Aid Git](http://ricardofilipe.com/projects/firstaidgit/#/)
@@ -235,4 +235,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - IN PAIRS
 
-[Legacy Associations and Validations](https://github.com/tiyd-rails-2015-08/legacy_associations_and_validations)
+[Legacy Associations and Validations](https://github.com/tiyd-rails-2016-01/legacy_associations_and_validations)

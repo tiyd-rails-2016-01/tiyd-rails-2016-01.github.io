@@ -15,7 +15,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
 * [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Restaurant Menu](https://github.com/tiyd-rails-2015-08/restaurant_menu)
+[Restaurant Menu](https://github.com/tiyd-rails-2016-01/restaurant_menu)
 
 
 ## Tuesday - Session and Authentication
@@ -101,7 +101,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Get started on [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).  This is a two-night assignment, so in the first night you should at least:
+Get started on [Gradebook](https://github.com/tiyd-rails-2016-01/gradebook).  This is a two-night assignment, so in the first night you should at least:
 
 * Build the data structure, models, and migrations that you'll need.
 * Allow teachers (and only teachers) to log in and log out.
@@ -157,9 +157,9 @@ Those requirements can be handled tomorrow night.  If you feel like you'll make 
 
 #### Assignment
 
-Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
+Complete [Gradebook](https://github.com/tiyd-rails-2016-01/gradebook).
 
-* Optionally, use [this as a starting point](https://github.com/tiyd-rails-2015-08/gradebook_day_2).
+* Optionally, use [this as a starting point](https://github.com/tiyd-rails-2016-01/gradebook_day_2).
 
 
 ## Thursday - Nested Attributes
@@ -179,7 +179,7 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/YYMdrzw4-jI)
-* [Zoo Code from Today](https://github.com/tiyd-rails-2015-08/zoo_example)
+* [Zoo Code from Today](https://github.com/tiyd-rails-2016-01/zoo_example)
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/047/original/nested_attributes.jpg?1444331523)
 * [Friday Mini-lecture Video](https://youtu.be/9nEBg9zvvOw)
 * [Whiteboard - form_for vs form_tag](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/048/original/form_tags.jpg?1444412714)
@@ -191,7 +191,7 @@ Complete [Gradebook](https://github.com/tiyd-rails-2015-08/gradebook).
 
 ## Weekend Assignment - IN PAIRS
 
-[Survey Opossum](https://github.com/tiyd-rails-2015-08/survey_opossum)
+[Survey Opossum](https://github.com/tiyd-rails-2016-01/survey_opossum)
 
 <!--
 Thursday afternoon to Friday morning:

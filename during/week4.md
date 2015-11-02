@@ -78,7 +78,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/7HBQ9G0rumI)
-* [Example Code from Class](https://github.com/tiyd-rails-2015-08/example_api_call)
+* [Example Code from Class](https://github.com/tiyd-rails-2016-01/example_api_call)
 * [Whiteboard - URLs and Formats](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/035/original/web_address.jpg?1442858121)
 * [How DNS Works](https://howdns.works/)
 
@@ -90,7 +90,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Assignment
 
-[Weather Report](https://github.com/tiyd-rails-2015-08/weather_report)
+[Weather Report](https://github.com/tiyd-rails-2016-01/weather_report)
 
 
 ## Tuesday - Rails and the Web
@@ -121,7 +121,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/0eadDCofW8Y)
 * [Whiteboard - MVC](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/036/original/rails_mvc.jpg?1442942971)
-* [Our First Rails Project!!](https://github.com/tiyd-rails-2015-08/first_rails_app)
+* [Our First Rails Project!!](https://github.com/tiyd-rails-2016-01/first_rails_app)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
 #### Evening Reading
@@ -131,7 +131,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-Get a start on [Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api):
+Get a start on [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api):
 
 * Review the requirements and create an ERD
 * Create a new Rails app
@@ -183,7 +183,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 * [Class Video](https://youtu.be/HGBqAr-X6Fk)
 * [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
-* [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2015-08/first_rails_app)
+* [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2016-01/first_rails_app)
 * [Postman](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm?hl=en)
 
 #### Evening Reading
@@ -194,7 +194,7 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 
 #### Assignment
 
-[Create a Voting API](https://github.com/tiyd-rails-2015-08/voting_api).  After you're done, reflect on your estimate from last night.
+[Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api).  After you're done, reflect on your estimate from last night.
 
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
@@ -221,8 +221,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/dL76vePFwbQ)
-* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/voting_api_homework_review)
-* [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2015-08/first_rails_app)
+* [Code from Homework Review](https://github.com/tiyd-rails-2016-01/voting_api_homework_review)
+* [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2016-01/first_rails_app)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](../notes/apis)
@@ -251,8 +251,8 @@ If you anticipate getting to hard or nightmare modes, read those modes before be
 #### Lecture Notes/Links
 
 * [Mini-lecture Video](https://youtu.be/otGT7JyIJrk)
-* [App about Routes (and unicorns)](https://github.com/tiyd-rails-2015-08/routes_app)
+* [App about Routes (and unicorns)](https://github.com/tiyd-rails-2016-01/routes_app)
 
 #### Assignment - IN PAIRS
 
-[Build Your Own API](https://github.com/tiyd-rails-2015-08/build_your_own_api)
+[Build Your Own API](https://github.com/tiyd-rails-2016-01/build_your_own_api)

@@ -1,4 +1,4 @@
-tiyd-rails-2015-08.github.io
+tiyd-rails-2016-01.github.io
 =============================
 
-Public site for the August 2015 Rails course at TIY Durham.
+Public site for the January 2016 Rails course at TIY Durham.

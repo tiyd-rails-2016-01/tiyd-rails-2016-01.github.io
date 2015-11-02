@@ -16,7 +16,7 @@ Cell: (919) 302-5139 (Only call after 5 PM for emergencies)
 
 ## Schedule
 
-The cohort runs from August 31st to November 20th.
+The cohort runs from January 25th to the end of April.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early.
 

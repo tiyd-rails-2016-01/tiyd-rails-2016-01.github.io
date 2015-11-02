@@ -14,7 +14,7 @@ Students should be comfortable with the following at the end of this week:
 
 ## Important Links
 
-* [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
 * [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
 * [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
 
@@ -23,7 +23,7 @@ Students should be comfortable with the following at the end of this week:
 
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2015-08/tabula_railsa)
+* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
 
 * Agile
   * ON BOARD: Style matters early (sadly)
@@ -64,7 +64,7 @@ Students should be comfortable with the following at the end of this week:
   * `document.getElementsByClassName()`
   * `.value` or `.value = "default"`
   * `.style.color` or `.style.color = "blue"`
-* JavaScript in a Rails app: [javascript_playground repository](https://github.com/tiyd-rails-2015-08/javascript_playground_starting_point)
+* JavaScript in a Rails app: [javascript_playground repository](https://github.com/tiyd-rails-2016-01/javascript_playground_starting_point)
   * `application.js`
   * `alert()` on every page
   * `console.log()` on every page
@@ -80,7 +80,7 @@ Students should be comfortable with the following at the end of this week:
 
 * [Class Video](https://youtu.be/ByI5Wtl0YNw)
 * [Mini-lecture Video](https://youtu.be/XdBCf74xzxQ)
-* [Example playground code](https://github.com/tiyd-rails-2015-08/javascript_playground)
+* [Example playground code](https://github.com/tiyd-rails-2016-01/javascript_playground)
 
 #### Evening Reading
 
@@ -89,8 +89,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Add Javascript](https://github.com/tiyd-rails-2015-08/add_javascript)
-  * [Starting Point](https://github.com/tiyd-rails-2015-08/coursyl)
+* [Add Javascript](https://github.com/tiyd-rails-2016-01/add_javascript)
+  * [Starting Point](https://github.com/tiyd-rails-2016-01/coursyl)
 
 
 ## Tuesday - jQuery
@@ -137,8 +137,8 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* [Add jQuery](https://github.com/tiyd-rails-2015-08/add_jquery)
-  * [Where we left off in class](https://github.com/tiyd-rails-2015-08/coursyl_with_some_jquery)
+* [Add jQuery](https://github.com/tiyd-rails-2016-01/add_jquery)
+  * [Where we left off in class](https://github.com/tiyd-rails-2016-01/coursyl_with_some_jquery)
 
 ## Wednesday - AJAX
 
@@ -170,7 +170,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/1lWjd2YPkB8)
-* [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2015-08/vegetable_garden)
+* [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2016-01/vegetable_garden)
 * [Undoing Git Messes](w7-4/git_messes)
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
@@ -182,7 +182,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Auction Site with AJAX](https://github.com/tiyd-rails-2015-08/auction_ajax)
+[Auction Site with AJAX](https://github.com/tiyd-rails-2016-01/auction_ajax)
 
 
 ## Thursday
@@ -195,4 +195,4 @@ Students should be comfortable with the following at the end of this week:
 
 ## Weekend Assignment - IN PAIRS
 
-[Todo List](https://github.com/tiyd-rails-2015-08/todo_app)
+[Todo List](https://github.com/tiyd-rails-2016-01/todo_app)

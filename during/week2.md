@@ -62,7 +62,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment - IN PAIRS
 
-Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 01-18 to pass.
+Begin [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get tests 01-18 to pass.
 
 
 ## Wednesday - Modules and Composition
@@ -98,7 +98,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 #### Lecture Notes/Links
 
 * [Class Video](http://youtu.be/JAIGsFSt5SY)
-* [Code from Homework Review](https://github.com/tiyd-rails-2015-08/battleship_day_one)
+* [Code from Homework Review](https://github.com/tiyd-rails-2016-01/battleship_day_one)
 * [Composition Example from Class](w2-2/car.rb)
 * [Module Example from Class](w2-2/vehicle.rb)
 
@@ -108,7 +108,7 @@ Begin [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests
 
 #### Assignment - IN PAIRS
 
-Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get tests 19-31 to pass.
+Continue [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get tests 19-31 to pass.
 
 
 ## Thursday - Regex, Enumerable, and Blocks
@@ -156,9 +156,9 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/00KwfUZTmaw)
-* [Battleship Review Code](https://github.com/tiyd-rails-2015-08/battleship_day_one)
-* [Monkey Patching from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/pig_latin.rb)
-* [Regex in Ruby from Class](https://github.com/tiyd-rails-2015-08/battleship_day_one/blob/master/clinton.rb)
+* [Battleship Review Code](https://github.com/tiyd-rails-2016-01/battleship_day_one)
+* [Monkey Patching from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/pig_latin.rb)
+* [Regex in Ruby from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/clinton.rb)
 * [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
 * [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
 * [Regular Expression Testing Site](http://www.rubular.com)
@@ -171,7 +171,7 @@ Continue [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get te
 
 #### Assignment - IN PAIRS
 
-Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get all tests to pass.
+Complete [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get all tests to pass.
 
 
 ## Friday - Test-Driven Development
@@ -248,4 +248,4 @@ Complete [Battleship](https://github.com/tiyd-rails-2015-08/battleship).  Get al
 
 ## Weekend Assignment
 
-[Employee Reviews](https://github.com/tiyd-rails-2015-08/employee_reviews)
+[Employee Reviews](https://github.com/tiyd-rails-2016-01/employee_reviews)

@@ -45,7 +45,7 @@ Students should be comfortable with the following at the end of this week:
 * [Primes Solution](w8-1/primes.rb)
 * [Whiteboard - Pseudocode for Primes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/052/original/pseudo_prime.JPG?1445287966)
 * [Whiteboard - Indices](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/053/original/index_binary_tree.JPG?1445287981)
-* [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
+* [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [AREL](https://github.com/rails/arel)
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Porting Validations to PostgreSQL](http://shuber.io/porting-activerecord-validations-to-postgres/)
@@ -61,7 +61,7 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-[Database Optimizations](https://github.com/tiyd-rails-2015-08/database_optimizations)
+[Database Optimizations](https://github.com/tiyd-rails-2016-01/database_optimizations)
 
 ## Tuesday - All Things Open Conference
 
@@ -100,7 +100,7 @@ Have fun!
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/loJEKuJRNHU)
-* [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
+* [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [Whiteboard - Stacks and Queues](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/054/original/stack_queue.JPG?1445448768)
 * [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
 * [DelayedJob](https://github.com/collectiveidea/delayed_job)
@@ -114,9 +114,9 @@ Have fun!
 
 #### Assignment
 
-* Path One - New Material: [Data File Import](https://github.com/tiyd-rails-2015-08/data_file_import)
-* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
-* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
+* Path One - New Material: [Data File Import](https://github.com/tiyd-rails-2016-01/data_file_import)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
 
 
 ## Thursday - Mailers
@@ -137,6 +137,6 @@ Have fun!
 
 ## Weekend Assignment
 
-[Stack Undertow](https://github.com/tiyd-rails-2015-08/stack_undertow)
+[Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow)
 
-<!-- [Gradebook Tickets](https://github.com/tiyd-rails-2015-08/gradebook_tickets) -->
+<!-- [Gradebook Tickets](https://github.com/tiyd-rails-2016-01/gradebook_tickets) -->

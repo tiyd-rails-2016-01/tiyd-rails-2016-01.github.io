@@ -41,7 +41,7 @@ Students should be comfortable with the following at the end of this week:
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/CMKYj0Jf85M)
-* [Bank app code from today](https://github.com/tiyd-rails-2015-08/bank_example)
+* [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [Mailgun](http://www.mailgun.com/)
 
@@ -52,9 +52,9 @@ Students should be comfortable with the following at the end of this week:
 
 #### Assignment
 
-* Path One - New Material: [Delayed Mailer](https://github.com/tiyd-rails-2015-08/delayed_mailer)
-* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
-* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
+* Path One - New Material: [Delayed Mailer](https://github.com/tiyd-rails-2016-01/delayed_mailer)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
 
 
 ## Tuesday - File Storage and S3
@@ -96,7 +96,7 @@ Code for `config/application.rb`:
 
 * [Class Video](https://youtu.be/z3mdgNHhAk0)
 * [Challenge Code](w9-1/double_loop.rb)
-* [Neonapster Code from Class](https://github.com/tiyd-rails-2015-08/neonapster)
+* [Neonapster Code from Class](https://github.com/tiyd-rails-2016-01/neonapster)
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://www.freeformatter.com/mime-types-list.html)
@@ -109,14 +109,14 @@ Code for `config/application.rb`:
 
 #### Assignment
 
-* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2015-08/delayed_mailer_with_s3)
-* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2015-08/overview_tic_tac_toe)
-* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2015-08/overview_time_tracking_app)
+* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2016-01/delayed_mailer_with_s3)
+* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
+* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
 
 
 ## Wednesday - d3.js
 
-[Code Repository for the Day](https://github.com/tiyd-rails-2015-08/d3_lesson)
+[Code Repository for the Day](https://github.com/tiyd-rails-2016-01/d3_lesson)
 
 **Exercise 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned.
 
