@@ -4,10 +4,10 @@ layout: default
 
 ## Daily Lesson Schedule
 
-### Useful Links
+These two links will be used for turning in assignments throughout the class.  Keep them around!
 
-* [Challenge Submission Form](http://goo.gl/forms/lAlRZpME2o)
 * [Homework Submission Form](http://goo.gl/forms/LlrLL85tFM)
+* [Challenge Submission Form](http://goo.gl/forms/lAlRZpME2o)
 
 ### Week 1 - Ruby
 
