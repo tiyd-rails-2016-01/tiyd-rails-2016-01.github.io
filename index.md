@@ -22,7 +22,7 @@ You'll need to complete all of these steps before January 17th.  If you have ANY
 * [Set up your Mac](/before/setup.html)
 * [Sign up for accounts](/before/accounts.html)
 
-* [Do the PREWORK](/before/exercises.html) - Complete this through the "Conclusion" survey by January 17th, one week before class begins.  This timing is both so that I can review and so that you can rest before class starts.
+* [Do the PREWORK](/before/exercises.html) - Complete this through the "Conclusion" survey by January 17th.  This timing is both so that I can review and so that you can rest before class starts.
 
 ### During
 

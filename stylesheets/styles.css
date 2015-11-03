@@ -1,12 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 html {
   background: #896C6C;
-  background: #896C6C -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #896C6C), color-stop(100%, #554343));
-  background: #896C6C -webkit-linear-gradient(#896C6C, #554343);
-  background: #896C6C -moz-linear-gradient(#896C6C, #554343);
-  background: #896C6C -o-linear-gradient(#896C6C, #554343);
-  background: #896C6C -ms-linear-gradient(#896C6C, #554343);
-  background: #896C6C linear-gradient(#896C6C, #554343);
 }
 
 body {
@@ -15,18 +9,17 @@ body {
   font: 14px/1.5 Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color: #555;
   font-weight: 300;
-  background: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAYAAABNChwpAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEgAACxIB0t1+/AAAABx0RVh0U29mdHdhcmUAQWRvYmUgRmlyZXdvcmtzIENTNXG14zYAAAAUdEVYdENyZWF0aW9uIFRpbWUAMy82LzEygrTcTAAAAFRJREFUSIljfPDggZRf5RIGGNjUHsNATz6jXmSL1Kb2GLiAX+USBnrymRgGGDCORgFmoNAXjEbBaBSMRsFoFIxGwWgUjEbBaBSMRsFoFIxGwWgUAABYNujumib3wAAAAABJRU5ErkJggg==');
 }
 
 .wrapper {
   width: 800px;
   margin: 0 auto;
   background: #DEDEDE;
-  -webkit-border-radius: 8px;
-  -moz-border-radius: 8px;
-  -ms-border-radius: 8px;
-  -o-border-radius: 8px;
-  border-radius: 8px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  border-radius: 5px;
   -webkit-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
@@ -52,18 +45,12 @@ strong {
 }
 
 header {
-  -webkit-border-radius: 8px 8px 0 0;
-  -moz-border-radius: 8px 8px 0 0;
-  -ms-border-radius: 8px 8px 0 0;
-  -o-border-radius: 8px 8px 0 0;
-  border-radius: 8px 8px 0 0;
+  -webkit-border-radius: 5px 5px 0 0;
+  -moz-border-radius: 5px 5px 0 0;
+  -ms-border-radius: 5px 5px 0 0;
+  -o-border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
   background: #FAC6C6;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #FCDDDD), color-stop(100%, #FAC6C6));
-  background: -webkit-linear-gradient(#FCDDDD, #FAC6C6);
-  background: -moz-linear-gradient(#FCDDDD, #FAC6C6);
-  background: -o-linear-gradient(#FCDDDD, #FAC6C6);
-  background: -ms-linear-gradient(#FCDDDD, #FAC6C6);
-  background: linear-gradient(#FCDDDD, #FAC6C6);
   position: relative;
   padding: 15px 20px;
   border-bottom: 1px solid #C29999;
@@ -186,11 +173,11 @@ section {
   background: -o-linear-gradient(#fafafa, #dedede 700px);
   background: -ms-linear-gradient(#fafafa, #dedede 700px);
   background: linear-gradient(#fafafa, #dedede 700px);
-  -webkit-border-radius: 0 0 8px 8px;
-  -moz-border-radius: 0 0 8px 8px;
-  -ms-border-radius: 0 0 8px 8px;
-  -o-border-radius: 0 0 8px 8px;
-  border-radius: 0 0 8px 8px;
+  -webkit-border-radius: 0 0 5px 5px;
+  -moz-border-radius: 0 0 5px 5px;
+  -ms-border-radius: 0 0 5px 5px;
+  -o-border-radius: 0 0 5px 5px;
+  border-radius: 0 0 5px 5px;
   position: relative;
 }
 

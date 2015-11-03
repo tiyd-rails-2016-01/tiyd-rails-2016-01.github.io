@@ -6,7 +6,7 @@ layout: default
 
 We don't believe you can really learn to program by watching a few videos and answering some questions (and if you believed that, you probably wouldn't be coming to The Iron Yard). However, skill acquisition takes a long time, and this work will help introduce you to some of the ideas and skills that will form the foundation of your in-person learning experience.
 
-Complete this through the "Conclusion" survey by January 17th, one week before class begins.  This timing is both so that I can review and so that you can rest before class starts.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
+Complete this through the "Conclusion" survey by January 17th.  This timing is both so that I can review and so that you can rest before class starts.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
 
 (Oh, but first, don't forget to [set up your Mac!](/before/setup.html))
 

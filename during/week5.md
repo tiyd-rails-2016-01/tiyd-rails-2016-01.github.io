@@ -89,6 +89,7 @@ Websites that are "static":
 Webapps that do processing on the server (and/or have a database):
 
 * [Is it Christmas](http://isitchristmas.com)
+* [Potato-counter](https://potato-counter.herokuapp.com/)
 * [How many people are in space right now](http://howmanypeopleareinspacerightnow.com)
 * [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
 * [Wikipedia](http://wikipedia.com)
