@@ -16,7 +16,7 @@ Cell: (919) 302-5139 (Only call after 5 PM for emergencies)
 
 ## Schedule
 
-The cohort runs from January 25th to the end of April.
+The cohort runs from the end of January/beginning of February to the end of April.
 
 Lecture is from 9 AM to 12:30 PM Monday-Thursday, with breaks during that time. Depending on the topic, we may end early.
 
@@ -24,11 +24,13 @@ Lab is from 1:30 PM to 5 PM Monday-Thursday and 9 AM to 5 PM on Friday.  On Frid
 
 ### Office hours and one-on-one instruction
 
-A teacher or TA will be available during lab times, at a minimum.  You can schedule one-on-one time with either of us. After hours, we may be available in the classroom or in Slack, which we use for group communication.
+A teacher or TA will be available during lab times.  You can schedule one-on-one time with either of us, but we'll also regularly reach out to you for homework review or other technical discussions.  After hours, we may be available in the classroom or in Slack, which we use for group communication.
+
+Short one-on-ones (15 minutes) are scheduled on a rotating basis with all students, and will occur for you once every three weeks.  These are not meant to be technical, but to seek your opinions on how the class is going.
 
 ### Holidays
 
-No classes will be held on Labor Day (Monday, September 7th).  Students will be welcome to continue to use the campus on holidays, however.
+No holidays are occurring during this cohort.
 
 ## Topics
 
@@ -36,117 +38,11 @@ Class topics are listed week-by-week below. However, this list is not definitive
 
 Each list of topics is a list of things students should be comfortable with at the end of that week.
 
-### Week 1 - Ruby
+### Weeks 1-9
 
-* Ruby Basics
-* Control Flow
-* Variables
-* Methods
-* Arrays and Hashes
-* Objects and Classes
+Detailed topics to be covered in class are listed on [the day-by-day topics pages](../during)
 
-Non-code discussions beginning this week:
-
-1. The process of human learning
-1. Git and GitHub
-
-### Week 2 - OOP and Testing
-
-* Agile Development
-* Testing and TDD
-* Blocks and Enumerable
-* Inheritance, Composition, and Modules
-
-We will also start discussing:
-
-1. Agile development practices
-1. Pair Programming
-
-### Week 3 - Databases and Rails Models
-
-* Database Basics
-* Migrations
-* SQL
-* ActiveRecord
-* Associations and Validations
-
-Non-code discussions beginning this week:
-
-1. Troubleshooting and debugging
-1. Working with legacy code
-
-### Week 4 - APIs and Rails Controllers
-
-* HTTP Verbs and Parameters
-* Consuming APIs
-* Creating APIs
-* Rails Fundamentals
-* Routing and Controllers
-
-Non-code discussions beginning this week:
-
-1. Software estimation
-1. Database and workflow diagramming
-
-### Week 5 - HTML and Rails Views
-
-* HTML and CSS
-* HTML Forms
-* Rails Views
-* REST
-* Heroku
-
-Non-code discussions beginning this week:
-
-1. Real-world GitHub workflows
-1. Marketing yourself/networking
-
-### Week 6 - Rails Features
-
-* The Asset Pipeline
-* SCSS
-* Session
-* Authentication and Authorization
-* Nested Attributes
-
-Non-code discussions beginning this week:
-
-1. Working on cross-technology teams
-
-### Week 7 - JavaScript
-
-* JavaScript
-* jQuery
-* Unobtrusive JavaScript
-* AJAX
-
-Non-code discussions beginning this week:
-
-1. Finding a good work environment
-
-### Week 8 - Web App Patterns
-
-* Indices and Runtime Optimizations
-* Mailers
-* Background Processing
-* File Uploads and S3
-
-Non-code discussions beginning this week:
-
-1. Technical debt mitigation
-
-### Week 9 - Web App Patterns
-
-* OAuth
-* Capybara
-* Visualizations with d3.js
-* Non-Rails Frameworks
-
-Non-code discussions beginning this week:
-
-1. Development on large teams
-
-Friday of this week will be Pitch Day.  You will pitch your project ideas to the entire cohort (all the classes will be together) and then vote on your preferences.  We will assign you to teams based on your preferences, and you can start work as soon as Friday evening.
+Friday of week 9 will be Pitch Day.  You will pitch your project ideas to the entire cohort (all the classes will be together) and then vote on your preferences.  We will assign you to teams based on your preferences, and you can start work as soon as Friday evening.
 
 ### Weeks 10-12
 
@@ -259,4 +155,4 @@ a viewpoint doesn't mean that they're wrong. Don't forget that it is human to
 err and blaming each other doesn't get us anywhere, rather offer to help
 resolving issues and to help learn from mistakes.
 
-*This text is taken from [the Django project](https://www.djangoproject.com/conduct/).*
+*This code of conduct is adapted from [the Django project](https://www.djangoproject.com/conduct/).*

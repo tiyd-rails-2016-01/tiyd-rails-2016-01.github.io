@@ -60,13 +60,16 @@ layout: default
   * From the command line
   * From irb
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
-* [Class Video](http://youtu.be/BCsjQ3s4r0Y)
-* [Whiteboard - Learning Zone](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/020/original/learning_zones.jpg?1442257338)
-* [Whiteboard - Folders](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/021/original/mac_dir_structure.jpg?1442257384)
-* [PB&J Pseudocode from Class](w1-1/pbj.txt)
-* [Palindrome code from Class](w1-1/palindrome.rb)
+* [Class Video]()
+* [Whiteboard - Learning Zone]()
+* [Whiteboard - Folders]()
+* [PB&J Pseudocode from Class]()
+* [Palindrome code from Class]()
+
+#### Useful Links
+
 * [Programming Language Family Tree](https://ccrma.stanford.edu/courses/250a-fall-2005/docs/ComputerLanguagesChart.png)
 * [Whitespace Language](http://en.wikipedia.org/wiki/Whitespace_%28programming_language%29#Sample_code)
 * [Hodor-lang](http://www.hodor-lang.org/)
