@@ -4,10 +4,10 @@ layout: default
 
 ## Daily Lesson Schedule
 
-### Important Links
+### Useful Links
 
-* [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
-* [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
+* [Challenge Submission Form](http://goo.gl/forms/lAlRZpME2o)
+* [Homework Submission Form](http://goo.gl/forms/LlrLL85tFM)
 
 <!-- * [Homework Feedback](during/feedback/) -->
 

@@ -19,5 +19,5 @@ Another possibility is to read a book called ["Seven Languages in Seven Weeks"] 
 Long-term, I'm a big fan of the Pragmatic Programmer approach: "learn" one new language each year. Obviously, this year is a different kind of year for you (you've already learned at least parts of three languages), but I'd suggest trying to live by this next year and beyond.
 
 Finally, I have two things to ask of you:
-* If you didn't fill out [my feedback survey](TBD) that I sent out during the last week of lecture, could you please do so now?
+* If you didn't fill out [my feedback survey](http://goo.gl/forms/g7htKCk8kD) that I sent out during the last week of lecture, could you please do so now?
 * Also, as you go out into the world and interview, could you let me know what questions you get asked?  I would love to improve my Challenges next time to keep up to date with current interview trends.
