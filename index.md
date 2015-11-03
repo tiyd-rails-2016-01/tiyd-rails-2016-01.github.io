@@ -26,16 +26,7 @@ You'll need to complete all of these steps before January 17th.  If you have ANY
 
 ### During
 
-* [Week 1](during/week1)
-* [Week 2](during/week2)
-* [Week 3](during/week3)
-* [Week 4](during/week4)
-* [Week 5](during/week5)
-* [Week 6](during/week6)
-* [Week 7](during/week7)
-* [Week 8](during/week8)
-* [Week 9](during/week9)
-
+* [Day-by-Day Lessons](during/)
 * [Homework Feedback](during/feedback/)
 
 ### After
