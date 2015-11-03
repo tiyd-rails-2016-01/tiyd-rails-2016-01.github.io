@@ -9,14 +9,12 @@ layout: default
 * [Challenge Submission Form](http://goo.gl/forms/lAlRZpME2o)
 * [Homework Submission Form](http://goo.gl/forms/LlrLL85tFM)
 
-<!-- * [Homework Feedback](during/feedback/) -->
-
 ### Week 1 - Ruby
 
 * [Monday - Control Flow and Variables](w1-1/index)
-* [Tuesday - Methods and Arrays](w1-2/index)
-* [Wednesday - Hashes and Nested Data Structures](w1-3/index)
-* [Thursday - Objects and Classes](w1-4/index)
+* Tuesday - Methods and Arrays
+* Wednesday - Hashes and Nested Data Structures
+* Thursday - Objects and Classes
 
 
 ### Week 2 - OOP and Testing
@@ -25,13 +23,6 @@ layout: default
 * Testing and TDD
 * Blocks and Enumerable
 * Inheritance, Composition, and Modules
-
-<!-- Daily Material:
-
-* [Monday - ](w2-1/index)
-* [Tuesday - ](w2-2/index)
-* [Wednesday - ](w2-3/index)
-* [Thursday - ](w2-4/index) -->
 
 
 ### Week 3 - Databases and Rails Models

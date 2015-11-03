@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Wk 1 - Tuesday - 
+## Wk 1 - Thursday - 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Week 1 Monday - Control Flow and Variables
+## Wk 1 - Monday - Control Flow and Variables
 
 * Class Logistics
   * Daily schedule
@@ -82,6 +82,7 @@ layout: default
 * Optional Reading to Help with Git: [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
 * Optional Reading to Help with Git: [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
 
-#### Assignment
+#### Homework
 
-[User Input Statistics](https://github.com/tiyd-rails-2016-01/input_statistics)
+* Assignment: [User Input Statistics](https://github.com/tiyd-rails-2016-01/input_statistics)
+* Feedback: <!-- [Homework Feedback](during/feedback/) -->
