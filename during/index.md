@@ -2,23 +2,14 @@
 layout: default
 ---
 
-## Week 1 - Ruby
+## Daily Lesson Schedule
 
-Students should be comfortable with the following at the end of this week:
-
-* Ruby Basics
-* Control Flow
-* Variables
-* Methods
-* Arrays and Hashes
-* Objects and Classes
-
-Daily Material:
+### Week 1 - Ruby
 
 * [Monday - Control Flow and Variables](w1-1/index)
 * [Tuesday - Methods and Arrays](w1-2/index)
 * [Wednesday - Hashes and Nested Data Structures](w1-3/index)
-* [Thursday - Classes](w1-4/index)
+* [Thursday - Objects and Classes](w1-4/index)
 
 
 ### Week 2 - OOP and Testing
