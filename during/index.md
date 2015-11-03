@@ -11,10 +11,10 @@ These two links will be used for turning in assignments throughout the class.  K
 
 ### Week 1 - Ruby
 
-* [Monday - Control Flow and Variables](w1-1/index)
-* Tuesday - Methods and Arrays
-* Wednesday - Hashes and Nested Data Structures
-* Thursday - Objects and Classes
+* [M - Control Flow and Variables](w1-1/index)
+* T - Methods and Arrays
+* W - Hashes and Nested Data Structures
+* Th - Objects and Classes
 
 
 ### Week 2 - OOP and Testing
