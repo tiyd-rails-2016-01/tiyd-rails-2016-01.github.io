@@ -16,8 +16,8 @@ As an alternative, you might be better off in future positions (and even in inte
 
 Another possibility is to read a book called ["Seven Languages in Seven Weeks"] (https://pragprog.com/book/btlang/seven-languages-in-seven-weeks).  It's a really good book and will give you an overview of a lot of languages (Prolog is the craziest in my opinion), but if you read it, don't count it as "learning" those seven languages.  Some are of the opinion that you reach "true" developer status when you know three languages, and you have to have taken a non-trivial app all the way from concept to deployed-in-production to "know" one.
 
-Long-term, I'm a big fan of the Pragmatic Programmer approach: "learn" one new language each year. Obviously, 2016 is a different kind of year for you, but I'd suggest trying to live by this in 2017 and beyond.
+Long-term, I'm a big fan of the Pragmatic Programmer approach: "learn" one new language each year. Obviously, this year is a different kind of year for you (you've already learned at least parts of three languages), but I'd suggest trying to live by this next year and beyond.
 
 Finally, I have two things to ask of you:
-* If you didn't fill out [my feedback survey](https://docs.google.com/forms/d/1JcjOU7YloElEQ7mKIpeQ4RJzhbSgNzp5B_CHaF7s2fA/viewform?usp=send_form) that I sent out during the last week of lecture, could you please do so now?
+* If you didn't fill out [my feedback survey](TBD) that I sent out during the last week of lecture, could you please do so now?
 * Also, as you go out into the world and interview, could you let me know what questions you get asked?  I would love to improve my Challenges next time to keep up to date with current interview trends.

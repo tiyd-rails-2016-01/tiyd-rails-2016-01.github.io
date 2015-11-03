@@ -4,6 +4,13 @@ layout: default
 
 ## Daily Lesson Schedule
 
+### Important Links
+
+* [Challenge Submission Form](http://goo.gl/forms/JhvP6hX7VN)
+* [Homework Submission Form](http://goo.gl/forms/2Gki2xhdO6)
+
+<!-- * [Homework Feedback](during/feedback/) -->
+
 ### Week 1 - Ruby
 
 * [Monday - Control Flow and Variables](w1-1/index)

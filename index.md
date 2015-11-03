@@ -27,10 +27,13 @@ You'll need to complete all of these steps before January 17th.  If you have ANY
 ### During
 
 * [Day-by-Day Lessons](during/)
-* [Homework Feedback](during/feedback/)
+
+<!--
 
 ### After
 
-* [My thoughts on next steps](/after/next_steps)
 * [Software development resources](/after/resources)
 * [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
+* [My thoughts on next steps](/after/next_steps)
+
+-->
