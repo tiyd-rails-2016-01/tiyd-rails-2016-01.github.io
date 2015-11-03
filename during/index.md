@@ -19,67 +19,63 @@ These two links will be used for turning in assignments throughout the class.  K
 
 ### Week 2 - OOP and Testing
 
-* Agile Development
-* Testing and TDD
-* Blocks and Enumerable
-* Inheritance, Composition, and Modules
+* M - Inheritance and Testing
+* T - Modules and Composition
+* W - Regex, Enumerable, and Blocks
+* Th - Test-Driven Development
 
 
 ### Week 3 - Databases and Rails Models
 
-* Database Basics
-* Migrations
-* SQL
-* ActiveRecord
-* Associations and Validations
+* M - Database Design and Migrations
+* T - SQL
+* W - ActiveRecord and Unit Testing
+* Th - Associations and Validations
 
 
 ### Week 4 - APIs and Rails Controllers
 
-* HTTP Verbs and Parameters
-* Consuming APIs
-* Creating APIs
-* Rails Fundamentals
-* Routing and Controllers
+* M - The Web and APIs
+* T - Rails and HTML Verbs
+* W - The Router and Controllers
+* Th - jBuilder
 
 
 ### Week 5 - HTML and Rails Views
 
-* HTML and CSS
-* HTML Forms
-* Rails Views
-* REST
-* Heroku
+* M - HTML and CSS
+* T - HTML Forms and ERB
+* W - REST and Scaffold
+* Th - Helpers, Partials, and Heroku
 
 
 ### Week 6 - Rails Features
 
-* The Asset Pipeline
-* SCSS
-* Session
-* Authentication and Authorization
-* Nested Attributes
+* M - Asset Pipeline and SCSS
+* T - Session and Authentication
+* W - Authorization and Integration Tests
+* Th - Multi-record Forms
 
 
 ### Week 7 - JavaScript
 
-* JavaScript
-* jQuery
-* Unobtrusive JavaScript
-* AJAX
+* M - JavaScript Basics
+* T - jQuery and Unobtrusive JavaScript
+* W - AJAX
+* Th - jQuery in Detail
 
 
 ### Week 8 - Web App Patterns
 
-* Indices and Runtime Optimizations
-* Mailers
-* Background Processing
-* File Uploads and S3
+* M - Indices and Runtime Optimizations
+* T - Background Processing
+* W - Mailers
+* Th - File Uploads and S3
 
 
 ### Week 9 - Web App Patterns
 
-* OAuth
-* Capybara
-* Visualizations with d3.js
-* Non-Rails Frameworks
+* M - Large Team Development
+* T - OAuth and DevOps
+* W - Visualizations with d3.js
+* Th - Non-Rails Frameworks
