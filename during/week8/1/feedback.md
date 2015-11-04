@@ -2,11 +2,7 @@
 layout: default
 ---
 
-# Week 8 Homework Feedback
-
-## Todo List
-
-## Database Optimizations
+## Database Optimizations Feedback
 
     @assembly = Assembly.find_by_name(params[:name])
     @assembly.sequences.each do |s|
@@ -25,5 +21,3 @@ layout: default
         end
       end
     end
-
-## Mailers and Jobs

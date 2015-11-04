@@ -44,6 +44,6 @@ layout: default
 
 #### Assignment
 
-* Path One - New Material: Begin [Ruby Koans](http://rubykoans.com/).  This will span three nights.
+* Path One - New Material: 
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
