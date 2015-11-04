@@ -29,11 +29,14 @@ layout: default
     * `$.ajax()`
     * `$.getScript()`
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/1lWjd2YPkB8)
 * [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2016-01/vegetable_garden)
-* [Undoing Git Messes](w7-4/git_messes)
+* [Undoing Git Messes](git_messes)
+
+#### Useful Links
+
 * [JQuery UI](http://jqueryui.com/)
 * [Ruby Toolbox](https://www.ruby-toolbox.com)
 

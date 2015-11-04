@@ -8,7 +8,7 @@ layout: default
 
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
-  * [12 Questions](w7-3/12questions.pdf)
+  * [12 Questions](12questions.pdf)
 * More JavaScript
   * Load order
   * `javascript:void(0)`
@@ -34,10 +34,13 @@ layout: default
   * `$(...).on("click", function(){...}` - this removes the need for `onclick` attributes in our HTML tags.
 * Unobtrusive Javascript
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/zqp50dcOj6c)
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
+
+#### Useful Links
+
 
 #### Evening Reading
 

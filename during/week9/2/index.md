@@ -16,7 +16,7 @@ layout: default
 * DevOps
   * Continuous Integration
   * Continuous Deployment
-  * Virtual Machines
+  * Virtual Machines (like Emulators)
   * Vagrant
 * The web
   * Domain Names
@@ -28,32 +28,19 @@ layout: default
   * Cucumber
   * Konacha
 * SimpleForm
-* Working as a Developer
-  * [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
-  * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
-  * [Which editors do Rubyists use?](http://www.sitepoint.com/editor-rubyists-use/)
-  * [XKCD on editors](http://xkcd.com/378/)
-  * Dvorak keyboards, ergonomic chairs, treadmill desks, etc.
-* [Other ruby frameworks](https://blog.engineyard.com/2015/life-beyond-rails-brief-look-alternate-web-frameworks-ruby).  Links in decreasing order of complexity:
-  * Rails
-  * [Sinatra](http://www.sinatrarb.com/)
-  * [Padrino](http://www.padrinorb.com/)
-  * [Camping](http://camping.io/)
+* Security
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/ytOKZluAW78)
 * [Testing and Continuous Integration Walkthrough - By David!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
 * [Instructions for Capybara - By Nate!](w9-1/capybara)
-* [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
-* [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
-* [Map of Rails knowledge](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
+
+#### Useful Links
+
 * [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [isitvulnerable.com](https://isitvulnerable.com/)
-* [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
-* [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
-* [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
 
 #### Assignment
 

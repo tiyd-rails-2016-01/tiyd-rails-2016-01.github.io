@@ -21,11 +21,14 @@ layout: default
 * Resources
 * REST
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/Yplp52K6uNA)
 * [Whiteboard - Retrospective and Gitflow](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/041/original/git_branch_2.jpg?1443636497)
 * [Whiteboard - Rails' Flavor of REST](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/042/original/REST.jpg?1443636537)
+
+#### Useful Links
+
 * [Rails Footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 * [Rails Guides for Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
 

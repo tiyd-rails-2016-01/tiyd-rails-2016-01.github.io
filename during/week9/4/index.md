@@ -25,17 +25,15 @@ layout: default
   * [Padrino](http://www.padrinorb.com/)
   * [Camping](http://camping.io/)
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/ytOKZluAW78)
-* [Testing and Continuous Integration Walkthrough - By David!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
-* [Instructions for Capybara - By Nate!](w9-1/capybara)
 * [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
+
+#### Useful Links
+
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [Map of Rails knowledge](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
-* [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
-* [SimpleForm](https://github.com/plataformatec/simple_form)
-* [isitvulnerable.com](https://isitvulnerable.com/)
 * [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
 * [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
 * [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
@@ -44,7 +42,7 @@ layout: default
 
 Continue work on [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
 
-#### Eventual Reading/Listening
+#### Eventual Reading/Listening - TODO: Move this to `\after` page?
 
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)

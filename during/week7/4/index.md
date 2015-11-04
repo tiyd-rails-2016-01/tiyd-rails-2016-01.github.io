@@ -10,6 +10,9 @@ layout: default
 * [Whiteboard - Todo List DB Database Design](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/060/original/todo_list_db_design.jpg?1446060347)
 * [Whiteboard - JQuery Functions](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/063/original/jquery_functions.jpg?1446061467)
 
+#### Useful Links
+
+
 ## Weekend Assignment - IN PAIRS
 
 [Todo List](https://github.com/tiyd-rails-2016-01/todo_app)

@@ -34,11 +34,14 @@ layout: default
   * ERB
   * `strftime()`
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/4me1mOWT-sY)
 * [Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/time_zone)
 * [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
+
+#### Useful Links
+
 * [`strftime()`](http://strftime.net/)
 * [ALL the Rails View Helpers](http://api.rubyonrails.org/classes/ActionView/Helpers.html)
 

@@ -37,11 +37,14 @@ Code for `config/application.rb`:
       }
     }
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/z3mdgNHhAk0)
 * [Challenge Code](w9-1/double_loop.rb)
 * [Neonapster Code from Class](https://github.com/tiyd-rails-2016-01/neonapster)
+
+#### Useful Links
+
 * [Paperclip](https://github.com/thoughtbot/paperclip)
 * [Paperclip and S3 on Heroku](https://devcenter.heroku.com/articles/paperclip-s3)
 * [List of common media types](http://www.freeformatter.com/mime-types-list.html)
@@ -61,10 +64,13 @@ Code for `config/application.rb`:
 
 ## Thursday - Project Prep
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/XkpuJL3oP0E)
 * [rack-cors gem](https://github.com/cyu/rack-cors)
+
+#### Useful Links
+
 * [jBuilder docs](https://github.com/rails/jbuilder)
 
 #### Evening Reading

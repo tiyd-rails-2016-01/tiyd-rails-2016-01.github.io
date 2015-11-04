@@ -27,11 +27,14 @@ layout: default
   * `assert_template "new"`
   * `assert_select "a[href=#{logout_path}]", 1`
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/nTgKPzwamLA)
 * [Example Integration Test from Class](w6-3/login_logout_test.rb)
 * [Whiteboard - Authorization Approaches](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/046/original/page_control.jpg?1444247820)
+
+#### Useful Links
+
 
 #### Evening Reading
 

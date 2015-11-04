@@ -57,10 +57,14 @@ layout: default
     * `transform`
   * Pseudo-selectors (learn for homework)
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
-* [Class Video]()
-* [Codepen](http://codepen.io)
+* [Class Video](https://youtu.be/ZHNDFYKbobg)
+* [Whiteboard - Status Codes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/038/original/response_codes.jpg?1443457513)
+* [Whiteboard - CSS Selectors](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/039/original/css_selectors.jpg?1443457544)
+* w3schools results are only okay.
+
+#### Example Links
 
 Websites that are "static":
 
@@ -77,12 +81,9 @@ Webapps that do processing on the server (and/or have a database):
 * [Ship Your Enemies Glitter](http://shipyourenemiesglitter.com/)
 * [Wikipedia](http://wikipedia.com)
 
-Helpful Links:
+#### Useful Links
 
-* [Class Video](https://youtu.be/ZHNDFYKbobg)
-* [Whiteboard - Status Codes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/038/original/response_codes.jpg?1443457513)
-* [Whiteboard - CSS Selectors](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/039/original/css_selectors.jpg?1443457544)
-* w3schools results are only okay.
+* [Codepen](http://codepen.io)
 * [MDN](https://developer.mozilla.org/en-US/) results are the best.
 * [Google Trends](https://trends.google.com)
 * [Palette Tool](http://paletton.com/#uid=13P0u0kllll70vXeaqEswg1G0aI)

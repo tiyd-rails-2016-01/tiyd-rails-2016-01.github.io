@@ -38,11 +38,14 @@ layout: default
   * `heroku run rake db:migrate`
   * `heroku run rake db:seed`
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/qeGD6-jOUrM)
 * [Mini-lecture Video](https://youtu.be/6pDnLJll0Qw)
 * [Code Built in Class](https://github.com/tiyd-rails-2016-01/wallet_example)
+
+#### Useful Links
+
 * [Rails helpers tutorial](http://mixandgo.com/blog/the-beginner-s-guide-to-rails-helpers?utm_source=rubyweekly&utm_medium=email)
 * [Heroku docs on installing Rails 4 apps](https://devcenter.heroku.com/articles/rails4)
 * [Heroku docs on setting up Puma](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)

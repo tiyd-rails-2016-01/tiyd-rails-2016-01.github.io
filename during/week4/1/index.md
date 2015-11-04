@@ -59,11 +59,14 @@ layout: default
   * API Calls
   * Time-based Results
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/7HBQ9G0rumI)
 * [Example Code from Class](https://github.com/tiyd-rails-2016-01/example_api_call)
 * [Whiteboard - URLs and Formats](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/035/original/web_address.jpg?1442858121)
+
+#### Useful Links
+
 * [How DNS Works](https://howdns.works/)
 
 #### Evening Reading

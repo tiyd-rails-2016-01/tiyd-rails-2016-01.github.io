@@ -27,6 +27,9 @@ layout: default
 
 * [Class Video](https://youtu.be/CMKYj0Jf85M)
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
+
+#### Useful Links
+
 * [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
 * [Mailgun](http://www.mailgun.com/)
 

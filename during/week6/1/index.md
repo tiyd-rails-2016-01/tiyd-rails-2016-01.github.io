@@ -29,10 +29,13 @@ layout: default
 * SCSS
 * Bootstrap
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/eLjKU24uPeQ)
 * [Whiteboard - Assets, etc](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/043/original/app_lib_vendor.jpg?1444071405)
+
+#### Useful Links
+
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)

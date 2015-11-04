@@ -20,11 +20,14 @@ layout: default
   * `json.array! @candidates, :id, :name, :party`
 * Non-ActiveRecord Models (don't `generate`!)
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/dL76vePFwbQ)
 * [Code from Homework Review](https://github.com/tiyd-rails-2016-01/voting_api_homework_review)
 * [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2016-01/first_rails_app)
+
+#### Useful Links
+
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](../notes/apis)

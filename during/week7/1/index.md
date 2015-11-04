@@ -59,11 +59,14 @@ layout: default
   * `.appendChild(copy)`
   * `<script>` tags to run the JavaScript when the page loads.
 
-#### Lecture Notes/Links
+#### Lecture Notes
 
 * [Class Video](https://youtu.be/ByI5Wtl0YNw)
 * [Mini-lecture Video](https://youtu.be/XdBCf74xzxQ)
 * [Example playground code](https://github.com/tiyd-rails-2016-01/javascript_playground)
+
+#### Useful Links
+
 
 #### Evening Reading
 
