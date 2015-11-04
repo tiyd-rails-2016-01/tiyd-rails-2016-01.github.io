@@ -43,24 +43,23 @@ layout: default
 
 #### Assignment
 
-Get a start on [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api):
-
-* Review the requirements and create an ERD
-* Create a new Rails app
-* Create migrations and models as needed
-* Add associations and validations
-* Push to GitHub
-* Create at least two unit tests for each model
-* Make sure that you can run `rake` successfully to run the tests
-* Make sure that you can run `rails server` and see the default page in your browser
-* Create the `candidates` controller with `index`, `show`, and `create` actions.
-* Make the index action return a JSON representation of all the candidates.
-* Make the show action return the first candidate.
-* Make the create action create a new candidate (in the database).  It can have any properties for now.
-* Make sure that you can access it in your browser
-* Create
-* Delete `README.rdoc` and make your own (filled in) `README.md`
-* Push to GitHub
-* Create an estimate for the number of hours you expect to need to complete this assignment tomorrow night
-
-If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
+* Assignment: Get a start on [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api):
+  * Review the requirements and create an ERD
+  * Create a new Rails app
+  * Create migrations and models as needed
+  * Add associations and validations
+  * Push to GitHub
+  * Create at least two unit tests for each model
+  * Make sure that you can run `rake` successfully to run the tests
+  * Make sure that you can run `rails server` and see the default page in your browser
+  * Create the `candidates` controller with `index`, `show`, and `create` actions.
+  * Make the index action return a JSON representation of all the candidates.
+  * Make the show action return the first candidate.
+  * Make the create action create a new candidate (in the database).  It can have any properties for now.
+  * Make sure that you can access it in your browser
+  * Create
+  * Delete `README.rdoc` and make your own (filled in) `README.md`
+  * Push to GitHub
+  * Create an estimate for the number of hours you expect to need to complete this assignment tomorrow night
+  * If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
+<!-- * Feedback: [Voting API Day 1 Feedback](feedback) -->

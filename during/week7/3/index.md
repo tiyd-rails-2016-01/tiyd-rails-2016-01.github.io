@@ -47,4 +47,5 @@ layout: default
 
 #### Assignment
 
-[Auction Site with AJAX](https://github.com/tiyd-rails-2016-01/auction_ajax)
+* Assignment: [Auction Site with AJAX](https://github.com/tiyd-rails-2016-01/auction_ajax)
+<!-- * Feedback: [Auction Site Feedback](feedback) -->

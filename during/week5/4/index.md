@@ -57,4 +57,5 @@ layout: default
 
 ## Weekend Assignment - IN PAIRS
 
-[Health Tracker](https://github.com/tiyd-rails-2016-01/health_tracker)
+* Assignment: [Health Tracker](https://github.com/tiyd-rails-2016-01/health_tracker)
+<!-- * Feedback: [Health Tracker Feedback](feedback) -->

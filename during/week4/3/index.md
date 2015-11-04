@@ -45,7 +45,7 @@ layout: default
 
 #### Assignment
 
-[Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api).  After you're done, reflect on your estimate from last night.
-
+* Assignment: [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api).  After you're done, reflect on your estimate from last night.
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
+<!-- * Feedback: [Voting API Day 2 Feedback](feedback) -->

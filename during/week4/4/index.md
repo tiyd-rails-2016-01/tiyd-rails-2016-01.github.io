@@ -60,4 +60,5 @@ layout: default
 
 #### Assignment - IN PAIRS
 
-[Build Your Own API](https://github.com/tiyd-rails-2016-01/build_your_own_api)
+* Assignment: [Build Your Own API](https://github.com/tiyd-rails-2016-01/build_your_own_api)
+<!-- * Feedback: [Build Your Own API Feedback](feedback) -->

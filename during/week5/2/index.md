@@ -52,4 +52,5 @@ layout: default
 
 #### Assignment
 
-[Recreate GitHub Profile](https://github.com/tiyd-rails-2016-01/github_profile)
+* Assignment: [Recreate GitHub Profile](https://github.com/tiyd-rails-2016-01/github_profile)
+<!-- * Feedback: [Recreate GitHub Profile Feedback](feedback) -->

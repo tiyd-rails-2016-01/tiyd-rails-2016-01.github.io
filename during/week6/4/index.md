@@ -34,7 +34,8 @@ layout: default
 
 ## Weekend Assignment - IN PAIRS
 
-[Survey Opossum](https://github.com/tiyd-rails-2016-01/survey_opossum)
+* Assignment: [Survey Opossum](https://github.com/tiyd-rails-2016-01/survey_opossum)
+<!-- * Feedback: [Survey Opossum Feedback](feedback) -->
 
 <!--
 Thursday afternoon to Friday morning:

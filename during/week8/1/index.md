@@ -49,4 +49,5 @@ layout: default
 
 #### Assignment
 
-[Database Optimizations](https://github.com/tiyd-rails-2016-01/database_optimizations)
+* Assignment: [Database Optimizations](https://github.com/tiyd-rails-2016-01/database_optimizations)
+<!-- * Feedback: [Database Optimizations Feedback](feedback) -->

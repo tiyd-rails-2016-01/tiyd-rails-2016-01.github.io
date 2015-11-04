@@ -83,4 +83,4 @@ layout: default
 
 #### Assignment
 
-Begin [Ruby Koans](http://rubykoans.com/).
+* Assignment: Continue work on [Ruby Koans](http://rubykoans.com/).

@@ -81,6 +81,6 @@ Code for `config/application.rb`:
 
 ## Weekend Assignment
 
-[Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow)
+* Assignment: [Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow)
 
 <!-- [Gradebook Tickets](https://github.com/tiyd-rails-2016-01/gradebook_tickets) -->

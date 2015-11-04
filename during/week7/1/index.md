@@ -75,5 +75,6 @@ layout: default
 
 #### Assignment
 
-* [Add Javascript](https://github.com/tiyd-rails-2016-01/add_javascript)
-  * [Starting Point](https://github.com/tiyd-rails-2016-01/coursyl)
+* Assignment: [Add Javascript](https://github.com/tiyd-rails-2016-01/add_javascript)
+* Starting Point: [Coursyl App](https://github.com/tiyd-rails-2016-01/coursyl)
+<!-- * Feedback: [Add Javascript Feedback](feedback) -->

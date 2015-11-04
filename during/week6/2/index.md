@@ -41,17 +41,14 @@ layout: default
 
 #### Assignment
 
-Get started on [Gradebook](https://github.com/tiyd-rails-2016-01/gradebook).  This is a two-night assignment, so in the first night you should at least:
-
-* Build the data structure, models, and migrations that you'll need.
-* Allow teachers (and only teachers) to log in and log out.
-* Allow teachers (and only teachers) to manage all teachers and all students.
-* Allow teachers (and only teachers) to manage grades for all students.
-
-This means that tonight you specifically do NOT have to worry about:
-
-* Entering/managing information about parents.
-* Allowing students or parents to log in.
-* Limiting teachers to only view and edit their own students and student grades.
-
-Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
+* Assignment: Get started on [Gradebook](https://github.com/tiyd-rails-2016-01/gradebook).  This is a two-night assignment, so in the first night you should at least:
+  * Build the data structure, models, and migrations that you'll need.
+  * Allow teachers (and only teachers) to log in and log out.
+  * Allow teachers (and only teachers) to manage all teachers and all students.
+  * Allow teachers (and only teachers) to manage grades for all students.
+* This means that tonight you specifically do NOT have to worry about:
+  * Entering/managing information about parents.
+  * Allowing students or parents to log in.
+  * Limiting teachers to only view and edit their own students and student grades.
+  * Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
+<!-- * Feedback: [Gradebook Day 1 Feedback](feedback) -->

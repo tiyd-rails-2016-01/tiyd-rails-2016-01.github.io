@@ -49,5 +49,6 @@ layout: default
 
 #### Assignment
 
-* [Add jQuery](https://github.com/tiyd-rails-2016-01/add_jquery)
-  * [Where we left off in class](https://github.com/tiyd-rails-2016-01/coursyl_with_some_jquery)
+* Assignment: [Add jQuery](https://github.com/tiyd-rails-2016-01/add_jquery)
+* Starting Point: [Where we left off in class](https://github.com/tiyd-rails-2016-01/coursyl_with_some_jquery)
+<!-- * Feedback: [Add jQuery Feedback](feedback) -->

@@ -2,4 +2,4 @@
 layout: default
 ---
 
-## Wk 9 - Monday - Project Regroup
+## Wk 9 - Monday - Large Team Development
