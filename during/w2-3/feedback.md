@@ -2,12 +2,7 @@
 layout: default
 ---
 
-# Week 2 Homework Feedback
-
-
-
-
-## Battleship
+## Battleship Feedback
 
 #### Doubly-defined Methods
 
@@ -187,4 +182,4 @@ This is on the Player class.  Without looking at the rest of the code, I'm guess
 
 #### Don't Forget the READMEs
 
-What else can I say about this one?
+Nuff said.

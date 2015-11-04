@@ -46,7 +46,7 @@ layout: default
 * Required Reading Needed for this Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
 * Preview Reading:
 
-## Weekend Assignment
+#### Weekend Assignment
 
 * Assignment: [Currency Converter](https://github.com/tiyd-rails-2016-01/currency_converter)
 <!-- * Feedback: [Currency Converter Feedback](feedback) -->
