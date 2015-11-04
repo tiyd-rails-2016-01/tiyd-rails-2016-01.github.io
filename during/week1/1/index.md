@@ -12,9 +12,9 @@ layout: default
 * Human Learning
   * Definition: Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.
   * ON BOARD: To learn, you should... Get related knowledge in advance
-  * Comfort, Learning, and Panic Zones
-  * DIAGRAM: Three Concentric Zones
-  * On BOARD: Expect to exert effort
+  * ON BOARD: Expect to exert effort
+  * 
+  * Three concentric circles
 * Programming Languages
   * What are they?
   * How many are there?
@@ -35,7 +35,7 @@ layout: default
 * Indentation
 * Variables
   * PB & J for the entire class, everyone wants a different jelly.
-* EXAMPLE: Write and execute Ruby code which asks the user for a word and tells the user whether the word is a palindrome.  Let it ask for a total of five words.
+  * EXAMPLE: Write and execute Ruby code which asks the user for a word and tells the user whether the word is a palindrome.  Let it ask for a total of five words.
 * Logical Statements
   * Concepts of `and` and `or`
   * While someone still wants a sandwich

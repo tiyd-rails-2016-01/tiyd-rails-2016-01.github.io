@@ -6,6 +6,8 @@ layout: default
 
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
+* Human Learning:
+  * Try before being taught
 * Data Structures
   * Ranges
   * Arrays
