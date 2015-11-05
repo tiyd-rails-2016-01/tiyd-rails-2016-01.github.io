@@ -12,7 +12,6 @@ layout: default
   * ON BOARD: Study concept over implementation
 * Random Topics
   * Bootstrap Grid System
-  * Accessibility
   * Nested Routes
   * Collection/Member Routes
 * Session
@@ -28,7 +27,6 @@ layout: default
 
 #### Useful Links
 
-* [Tota11y](http://khan.github.io/tota11y/)
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
 * [Character Encodings](http://www.joelonsoftware.com/articles/Unicode.html)

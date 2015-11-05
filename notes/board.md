@@ -1,32 +1,61 @@
 * Human Learning: To learn well, you should...
-  * 1-1 Get exposed in advance
-  * 1-1 Expect to exert effort
-  * 1-2 Try before being taught
-  * Interleave topics
-  * Refresh when memory is stale
-  * Retrieve rather than review
-  * Be aware of your scarring
-  * Elaborate rather than review
-  * Study concept over implementation
-  * Use short feedback loops
+  * 1.1 Get exposed in advance
+  * 1.1 Expect to exert effort
+  * 1.1 Interleave topics
+  * 1.2 Try before being taught
+  * 2.1 Study concept over implementation
+  * 2.2 Use short feedback loops
+  * 3.1 Refresh when memory is stale
+  * 3.1 Retrieve rather than review
+  * 4.1 Scar in moderation
+  * 5.1 Elaborate rather than review
 
-* Agile Practices
-  * Iterate often
-  * Incorporate feedback
-  * Debugging is everywhere
-  * Legacy code is everywhere
-  * Kill your baby ducks
-  * Style matters early
-  * Be aware of technical debt
-  * Balance hammer-user and shiny-object
-  * Balance DB-first and UI-first
+* Agile Principles
+  * 1.4 Start small (SKILL)
+  * 1.4 Debugging is everywhere (SKILL)
+  * 2.2 Iterate often
+  * 2.2 Incorporate feedback
+  * 3.3 Legacy code is everywhere
+  * 3.3 Balance hammer-user and shiny-object
+  * 6.1 Style matters early
+  * 6.1 Kill your baby ducks
+  * 6.1 Balance DB-first and UI-first
+  * 7.1 Be aware of technical debt
 
 * Agile Rituals
-  * Estimates
-  * Standups
-  * Sprints/Iterations
-  * Retrospectives
-  * Code Review Sessions
+  * 2.2 Retrospectives
+  * 2.2 Sprints/Iterations
+  * 2.2 Daily Standups
+  * 4.4 Pair Programming
+  * 5.3 Estimates
+  * 8.2 Code Review Sessions
+
+* Git Commands/Concepts
+  * 1.2 git init
+  * 1.2 git add
+  * 1.2 git commit
+  * 1.2 git push
+  * 1.2 git diff
+  * 2.1 Forking
+  * 2.1 git clone
+  * 2.1 git pull
+  * 2.1 .gitignore
+  * 3.4 git pull (again)
+  * 3.4 git branch
+  * 3.4 git checkout
+  * 3.4 git merge
+  * 3.4 git log
+  * 3.4 SHAs
+  * 3.4 git stash
+  * 3.4 git reset
+  * 5.4 Gitflow
+  * 5.4 Pull Requests
+  * 5.4 Code Review on Pull Requests
+  * 7.3 git reset (again)
+  * 7.3 git fetch (vs pull)
+  * 7.3 git rebase (vs merge)
+  * 7.3 git filter-branch
+
 
 * Ruby Error Classes
   * NameError
@@ -105,6 +134,8 @@
 NEW IDEAS
 
 * How to Google
+
+* Git commands
 
 * Response Codes
 

@@ -27,6 +27,8 @@ layout: default
   * Consolidation of stylesheets to decrease load time
   * The `lib` and `vendor` folders
 * SCSS
+* [Administrate](https://github.com/thoughtbot/administrate)
+* Accessibility
 * Bootstrap
 
 #### Lecture Notes
@@ -39,6 +41,8 @@ layout: default
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)
+* [Administrate](https://github.com/thoughtbot/administrate)
+* [Tota11y](http://khan.github.io/tota11y/)
 
 #### Evening Reading
 
