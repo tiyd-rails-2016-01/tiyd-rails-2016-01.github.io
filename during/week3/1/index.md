@@ -9,7 +9,8 @@ layout: default
 **Problem of the Day:** [Student Data Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_data_structure)
 
 * Human Learning
-  * ON BOARD: Review when memory is stale
+  * ON BOARD: Refresh when memory is stale
+  * ON BOARD: Retrieve rather than review
 * Files as permanent storage
   * `File.open`
   * `CSV.open`
@@ -35,20 +36,19 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/DogVKzWYzwo)
+* [Class Video]()
 * [Whiteboard - Testing Reasons](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/030/original/test_pros_cons.jpg?1442259979)
 * [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
 
 #### Useful Links
 
-* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
 * [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/)
+* Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
 
 #### Evening Reading
 
-* Required Git Reading: [Pro Git Ch. 2.3](http://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History)
-* Required Git Reading: [Pro Git Ch. 2.4](http://git-scm.com/book/en/v2/Git-Basics-Undoing-Things)
 * Preview Reading: [Codecademy SQL](https://www.codecademy.com/courses/learn-sql)
+* Listening: [Ruby Rogues - Coding Exercises, Quizzes, and Katas](https://devchat.tv/ruby-rogues/054-rr-coding-exercises-quizzes-and-katas)
 
 #### Assignment
 

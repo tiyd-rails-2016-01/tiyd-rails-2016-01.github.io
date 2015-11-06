@@ -8,13 +8,6 @@ layout: default
 
 **Problem of the Day:** [Phone Numbers SQL](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_sql)
 
-* Agile
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * Dissecting a book vs drinking from a fire hydrant
-  * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object
-  * ON BOARD: Hammer-user vs. shiny-object
 * Random Topics
   * Migrations
   * SQL Query Browser
@@ -45,13 +38,11 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/FiM874ihmYk)
+* [Class Video]()
 * [Whiteboard - SQL, Joins, Developer Spectrum](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/031/original/sql_commands.jpg?1442341280)
 
 #### Useful Links
 
-* [Ruby Weekly](http://rubyweekly.com/)
-* [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Teaching](https://www.sqlteaching.com/)
 * [SQL Primer](https://github.com/tiy-austin-ror/primers/blob/master/sql-primer.md)
@@ -63,7 +54,8 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Database Objects in Ruby](https://quickleft.com/blog/introduction-to-database-design-on-rails-part-ii/)
-* Optional Reading: [Ruby Rogues: Impostor Syndrome](http://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
+* Preview Reading: [SQL to Rails Queries](http://guides.rubyonrails.org/v3.2.13/active_record_querying.html)
+* Listening: [Ruby Rogues - What Makes Beautiful Code](https://devchat.tv/ruby-rogues/what-makes-beautiful-code)
 
 #### Assignment
 

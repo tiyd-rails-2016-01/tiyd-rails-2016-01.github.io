@@ -29,15 +29,19 @@ layout: default
 * Git
   * Reason: working with other developers on code
   * GitHub Organizations
-  * `git pull`
+  * `git pull` (again)
+  * `git log`
+  * SHAs
   * `git branch`
+  * `git checkout`
   * `git merge`
   * `git stash`
   * Merge Conflicts
+  * `git reset`
 
 #### Lecture Notes/Links
 
-* [Class Video](https://youtu.be/ZWQA_mh2Ayc)
+* [Class Video]()
 * [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
 * [Solution from Prior Night's HW](https://github.com/tiyd-rails-2016-01/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
@@ -54,6 +58,7 @@ layout: default
 
 * Preview Reading: [What is an API?](http://skillcrush.com/2012/07/04/api-2/)
 * Preview Reading: [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
+* Listening: [Ruby Rogues - Ruby Antipatterns](https://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
 
 ## Weekend Assignment - IN PAIRS
 

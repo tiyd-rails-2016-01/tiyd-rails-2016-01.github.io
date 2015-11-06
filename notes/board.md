@@ -15,8 +15,8 @@
   * 1.4 Debugging is everywhere (SKILL)
   * 2.2 Iterate often
   * 2.2 Gather and incorporate feedback
-  * 3.3 Legacy code is everywhere
   * 3.3 Balance hammer-user and shiny-object
+  * 3.3 Legacy code is everywhere
   * 6.1 Style matters early
   * 6.1 Kill your baby ducks
   * 6.1 Balance DB-first and UI-first
@@ -41,11 +41,11 @@
   * 2.1 git pull
   * 2.1 .gitignore
   * 3.4 git pull (again)
+  * 3.4 git log
+  * 3.4 SHAs
   * 3.4 git branch
   * 3.4 git checkout
   * 3.4 git merge
-  * 3.4 git log
-  * 3.4 SHAs
   * 3.4 git stash
   * 3.4 git reset
   * 5.4 Gitflow
