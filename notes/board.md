@@ -133,7 +133,7 @@
 
 NEW IDEAS
 
-* How to Google
+* How to Debug
 
 * Git commands
 

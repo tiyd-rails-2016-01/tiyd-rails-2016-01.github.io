@@ -7,7 +7,8 @@ layout: default
 **Problem of the Day:** [The 12 Days of Christmas](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas)
 
 * Human Learning:
-  * Try before being taught
+  * ON BOARD: Try before being taught
+  * Ruby Rogues as a way to stay up to date.  Listenings starting tonight.
 * Data Structures
   * Ranges
   * Arrays
@@ -35,7 +36,7 @@ layout: default
   * NoMethodError (`nil.reverse`)
   * ArgumentError
   * TypeError (`2+"1"`)
-* Git
+* Git (ON BOARD)
   * Reason: keep different versions over time
   * Reason: backups
   * `git init`

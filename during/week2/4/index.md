@@ -15,22 +15,6 @@ layout: default
     * Daily standups
     * Run code and tests often, ideally after every change.
     * Pair programming
-  * ON BOARD: Debugging is everywhere
-  * First: squint hard
-  * Second: read the error messages
-  * Third: Test your assumptions
-    * `puts` statements
-    * `byebug`
-  * Fourth: Break the problem into smaller problems and solve them individually
-  * Fifth: Google
-    * Two types of resources: tutorials and answers.
-    * Stackoverflow is great for answers.
-    * Blogs (and Rails Guides) are great for tutorials.
-    * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
-    * You can try questions (e.g. `How do I use ActiveRecord?`)
-    * Limit to last year
-    * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
-    * [XKCD on Old Forums](https://xkcd.com/979/)
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`

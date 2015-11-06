@@ -7,6 +7,25 @@ layout: default
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
 * Check-in on Readings
+* Agile Development
+  * ON BOARD: Start small (this is a skill)
+  * ON BOARD: Debugging is everywhere (this is a skill)
+* How to Debug:
+  * First: Squint hard
+  * Second: Read the error messages
+  * Third: Test your assumptions
+    * `puts` statements
+    * `byebug`
+  * Fourth: Break the problem into smaller problems and solve them individually
+  * Fifth: Google
+    * Two types of resources: tutorials and answers.
+    * Stackoverflow is great for answers.
+    * Blogs (and Rails Guides) are great for tutorials.
+    * Be as specific as you can about which technologies you're using.  `ActiveRecord::Base` is a better start to your search than `Rails`
+    * You can try questions (e.g. `How do I use ActiveRecord?`)
+    * Limit to last year
+    * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
+    * [XKCD on Old Forums](https://xkcd.com/979/)
 * Object Oriented Programming
   * In-Class Example: [Cell Phone Assignments](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/cell_phone_assignments)
   * What are objects?
@@ -29,7 +48,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](http://youtu.be/pldYPC3dJrs)
+* [Class Video]()
 * [phone.rb](w1-4/phone.rb)
 * [person.rb](w1-4/person.rb)
 * [code.rb](w1-4/code.rb)
@@ -43,8 +62,8 @@ layout: default
 
 #### Evening Reading
 
-* Required Reading Needed for this Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
-* Preview Reading:
+* Reading for Tonight's Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
+* Preview Reading: [Ruby Inheritance](http://rubylearning.com/satishtalim/ruby_inheritance.html)
 
 #### Weekend Assignment
 

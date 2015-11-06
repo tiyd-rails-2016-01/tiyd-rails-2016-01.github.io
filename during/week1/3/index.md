@@ -45,9 +45,9 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](http://youtu.be/q9qoNQiXTn8)
+* [Class Video]()
 * [Whiteboard - Side Effects vs. Return Values](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/023/original/side_effects_return.jpg?1442259389)
-* [Contact Directory Code](w1-3/contacts.rb)
+* [Contact Directory Code]()
 
 #### Useful Links
 
@@ -58,7 +58,8 @@ layout: default
 
 #### Evening Reading
 
-* Preview Reading:
+* Preview Reading: [Writing Classes in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
+* Listening: [Ruby Rogues - Impostor Syndrome](https://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
 
 #### Assignment
 
