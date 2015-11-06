@@ -30,7 +30,7 @@ Short one-on-ones (15 minutes) are scheduled on a rotating basis with all studen
 
 ### Holidays
 
-No holidays are occurring during this cohort.
+Staff will not be on campus for Good Friday.  Students are welcome to continue to use the lounge and classroom space during holidays, however.
 
 ## Topics
 
