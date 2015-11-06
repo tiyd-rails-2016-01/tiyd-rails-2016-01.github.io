@@ -81,9 +81,9 @@
   * Symbol
   * Regexp
 
+  * Range
   * Array
   * Set
-  * Range
   * Hash
 
 * Rails Folders

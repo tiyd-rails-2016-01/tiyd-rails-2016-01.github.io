@@ -43,14 +43,15 @@ layout: default
   * `git commit`
   * New repository on GitHub
   * `git push`
+  * `git diff`
 * Editors (and pros and cons of the default vim)
 * `rand`
 
 #### Lecture Notes
 
-* [Class Video](http://youtu.be/AE0fepVBMkg)
+* [Class Video]()
 * [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
-* [12 Days of Christmas Code](w1-2/12days.rb)
+* [12 Days of Christmas Code]()
 
 #### Useful Links
 
@@ -60,7 +61,8 @@ layout: default
 
 #### Evening Reading
 
-* Preview Reading:
+* Preview Reading: [Hashes in Ruby](https://rubymonk.com/learning/books/1-ruby-primer/chapters/10-hashes-in-ruby/lessons/46-introduction-to-ruby-hashes)
+* Listening: [Ruby Rogues - How to Learn](https://devchat.tv/ruby-rogues/131-rr-how-to-learn)
 
 #### Assignment
 

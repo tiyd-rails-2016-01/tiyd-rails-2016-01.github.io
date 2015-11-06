@@ -11,10 +11,10 @@ layout: default
   * Pair-question-asking
 * Human Learning
   * Definition: Acquiring knowledge and skills and having them readily available from memory so you can make sense of future problems and opportunities.
+  * Three concentric circles
   * ON BOARD: To learn, you should... Get related knowledge in advance
   * ON BOARD: Expect to exert effort
-  * 
-  * Three concentric circles
+  * ON BOARD: Interleave topics
 * Programming Languages
   * What are they?
   * How many are there?
@@ -63,8 +63,8 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [Whiteboard - Learning Zone]()
-* [Whiteboard - Folders]()
+* [Whiteboard - Learning Zone](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/020/original/learning_zones.jpg?1442257338)
+* [Whiteboard - Folders](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/021/original/mac_dir_structure.jpg?1442257384)
 * [PB&J Pseudocode from Class]()
 * [Palindrome code from Class]()
 
@@ -77,10 +77,10 @@ layout: default
 
 #### Evening Reading
 
-* Required Reading: [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
-* Optional Reading to Help with Git: [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
-* Optional Reading to Help with Git: [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
-* Optional Reading to Help with Git: [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+* Preview Reading: [Pro Git Ch. 1.3](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
+* Preview Reading: [Pro Git Ch. 2.1](http://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repository)
+* Preview Reading: [Pro Git Ch. 2.2](http://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository)
+* Listening: [How to ask for technical help](https://www.youtube.com/watch?v=hY14Er6JX2s)
 
 #### Assignment
 
