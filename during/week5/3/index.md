@@ -31,6 +31,7 @@ layout: default
 
 * [Rails Footnotes](https://github.com/josevalim/rails-footnotes) - `rails generate rails_footnotes:install`
 * [Rails Guides for Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+* [Estimating Games](w2-4/estimating_games.pdf)
 
 #### Evening Reading
 

@@ -2,14 +2,17 @@
 layout: default
 ---
 
-## W2 - Monday - Inheritance and Testing
+## Wk2 - Monday - Inheritance and Testing
 
 **Problem of the Day:** [Vehicle Inheritance](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/vehicle_inheritance)
 
+* Human Learning
+  * ON BOARD: Study concept over implementation
 * Random Items
-  * `attr_reader`, `attr_accessor`
-  * Splat operator (`*`)
+  * SHORTCUT: `attr_reader`
+  * SHORTCUT: `attr_accessor`
   * predicate methods `?`
+  * bang methods `!`
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
   * Begin in-class work on Vehicle exercise.
@@ -22,22 +25,22 @@ layout: default
 * Gems
   * `gem list`
   * `gem install`
-  * byebug
+  * `byebug`
 * Testing
   * Show tests for the Vehicle class. Use code already built.
   * Build out "12 Days of Christmas" for its test suite.
   * Sliming
 * Git
   * Reason: Sharing code with others
+  * Forking
   * `git clone`
   * `.gitignore` files
-  * Forking
   * GitHub collaborators
   * `git pull`
 
 #### Lecture Notes
 
-* [Class Video](http://youtu.be/-a4SJ6AMsZg)
+* [Class Video]()
 * [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/object_tree.jpg?1442259530)
 
 #### Useful Links
@@ -46,7 +49,9 @@ layout: default
 
 #### Evening Reading
 
-* Optional Reading: [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* Current Reading: [Pro Git Ch. 2.5](http://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes)
+* Preview Reading: [Composition & Inheritance](http://www.sitepoint.com/composition-inheritance/)
+* Listening: [Ruby Rogues - Diversity](https://devchat.tv/ruby-rogues/101-rr-diversity-with-ashe-dryden)
 
 #### Assignment - IN PAIRS
 

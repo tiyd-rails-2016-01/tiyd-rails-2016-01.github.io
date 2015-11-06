@@ -22,8 +22,8 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - Inheritance and Testing
 * T - Modules and Composition
-* W - Regex, Enumerable, and Blocks
-* Th - Test-Driven Development
+* W - Regex and Enumerable
+* Th - Blocks and TDD
 
 
 ### Week 3 - Databases and Rails Models

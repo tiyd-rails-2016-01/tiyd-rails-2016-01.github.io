@@ -2,11 +2,18 @@
 layout: default
 ---
 
-## W2 - Tuesday - Modules and Composition
+## Wk2 - Tuesday - Modules and Composition
 
-* Human Learning: Feedback Cycles and Agile Development
-  * ON BOARD: Iteration
+* Human Learning
+  * ON BOARD: Use short feedback loops
+* Agile Principles
+  * ON BOARD: Iterate often
+  * ON BOARD: Gather and incorporate feedback
   * DIAGRAM: Finding a path to a moving point
+* Agile Rituals
+  * ON BOARD: Retrospectives
+  * ON BOARD: Sprints/Iterations
+  * ON BOARD: Daily standups
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
@@ -34,8 +41,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](http://youtu.be/JAIGsFSt5SY)
-* [Code from Homework Review](https://github.com/tiyd-rails-2016-01/battleship_day_one)
+* [Class Video]()
 * [Composition Example from Class](w2-2/car.rb)
 * [Module Example from Class](w2-2/vehicle.rb)
 
@@ -43,7 +49,8 @@ layout: default
 
 #### Evening Reading
 
-* Optional Reading: [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+* Preview Reading: [Regex One](http://regexone.com/)
+* Listening: [Ruby Rogues - When to Use Modules](https://devchat.tv/ruby-rogues/022-rr-when-to-use-modules)
 
 #### Assignment - IN PAIRS
 

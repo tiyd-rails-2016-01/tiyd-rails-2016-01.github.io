@@ -8,6 +8,8 @@ layout: default
 
 **Problem of the Day:** [Assorted JSON](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/assorted_json/)
 
+* Agile Rituals
+  * ON BOARD: Pair programming
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
@@ -31,6 +33,7 @@ layout: default
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](../notes/apis)
+* [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
 #### Evening Reading
 

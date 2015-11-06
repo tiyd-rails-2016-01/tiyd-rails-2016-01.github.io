@@ -14,7 +14,7 @@
   * 1.4 Start small (SKILL)
   * 1.4 Debugging is everywhere (SKILL)
   * 2.2 Iterate often
-  * 2.2 Incorporate feedback
+  * 2.2 Gather and incorporate feedback
   * 3.3 Legacy code is everywhere
   * 3.3 Balance hammer-user and shiny-object
   * 6.1 Style matters early
@@ -134,11 +134,18 @@
 NEW IDEAS
 
 * How to Debug
+  * First: Squint hard
+  * Second: Read the error messages
+  * Third: Test your assumptions (`puts` and `byebug`)
+  * Fourth: Break the problem into smaller problems
+  * Fifth: Google
 
-* Git commands
+* Parts of a URL
 
 * Response Codes
 
 * REST
 
 * CSS Selectors
+
+* jQuery Commands

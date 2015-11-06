@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## W2 - Wednesday - Regex, Enumerable, and Blocks
+## Wk2 - Wednesday - Regex and Enumerable
 
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
@@ -46,12 +46,11 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/00KwfUZTmaw)
-* [Battleship Review Code](https://github.com/tiyd-rails-2016-01/battleship_day_one)
-* [Monkey Patching from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/pig_latin.rb)
-* [Regex in Ruby from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/clinton.rb)
+* [Class Video]()
 * [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
 * [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
+* [Monkey Patching from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/pig_latin.rb)
+* [Regex in Ruby from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/clinton.rb)
 
 #### Useful Links
 

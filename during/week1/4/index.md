@@ -62,8 +62,9 @@ layout: default
 
 #### Evening Reading
 
-* Reading for Tonight's Assignment: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
+* Current Reading: [A good blog post about creating your own error classes](http://www.skorks.com/2009/09/ruby-exceptions-and-exception-handling/)
 * Preview Reading: [Ruby Inheritance](http://rubylearning.com/satishtalim/ruby_inheritance.html)
+* Listening: [Ruby Rogues - Debugging Mindset](https://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher)
 
 #### Weekend Assignment
 
