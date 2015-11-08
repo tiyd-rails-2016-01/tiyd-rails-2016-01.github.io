@@ -74,6 +74,7 @@ layout: default
 * Current Topic Reading (too long to be required, but skimming is nice): [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/)
 * REALLY GOOD Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * Preview Reading: [Web App Development is Better](http://radar.oreilly.com/2014/01/web-application-development-is-different-and-better.html)
+* Listening: [Ruby Rogues - Barriers to New Developers](https://devchat.tv/ruby-rogues/180-rr-barriers-to-new-developers-with-kinsey-ann-durham)
 
 ## Assignment
 
