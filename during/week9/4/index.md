@@ -4,14 +4,13 @@ layout: default
 
 ## Wk 9 - Thursday - Development Environments, Non-Rails Frameworks
 
-<!--
+
 **Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 
 **Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
--->
 
 * Working as a Developer
   * [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
