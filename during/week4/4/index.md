@@ -24,7 +24,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/dL76vePFwbQ)
+* [Class Video]()
 * [Code from Homework Review](https://github.com/tiyd-rails-2016-01/voting_api_homework_review)
 * [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2016-01/first_rails_app)
 

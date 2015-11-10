@@ -29,7 +29,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/HGBqAr-X6Fk)
+* [Class Video]()
 * [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2016-01/first_rails_app)
 
