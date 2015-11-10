@@ -38,7 +38,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
-* Optional Reading: [Ruby Rogues: Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
+* Listening: [Ruby Rogues - Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
 
 ## Extra Mini-lecture
 
@@ -56,7 +56,7 @@ layout: default
   * OAuth - later
 * Testing Validations - not as important as I let on.
 
-#### Lecture Notes/Links
+#### Mini-lecture Notes
 
 * [Mini-lecture Video]()
 * [App about Routes (and unicorns)](https://github.com/tiyd-rails-2016-01/routes_app)

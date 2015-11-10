@@ -40,12 +40,15 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [JBuilder Railscast](http://railscasts.com/episodes/320-jbuilder)
-* Optional Git Reading: [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
-* Optional Git Reading: [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+* Preview Reading: [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
+* Preview Reading: [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
+* Listening: [Ruby Rogues - APIs That Don't Suck](https://devchat.tv/ruby-rogues/147-rr-apis-that-dont-suck-with-michele-titolo)
 
 #### Assignment
 
-* Assignment: [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api).  After you're done, reflect on your estimate from last night.
+* Assignment: Complete [Create a Voting API](https://github.com/tiyd-rails-2016-01/voting_api).  
+  * After you're done, reflect on your estimate from last night.
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
+* Starting Point: [Voting API Day 2](https://github.com/tiyd-rails-2016-01/voting_api_day_2)
 <!-- * Feedback: [Voting API Day 2 Feedback](feedback) -->
