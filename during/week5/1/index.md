@@ -59,7 +59,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/ZHNDFYKbobg)
+* [Class Video]()
 * [Whiteboard - Status Codes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/038/original/response_codes.jpg?1443457513)
 * [Whiteboard - CSS Selectors](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/039/original/css_selectors.jpg?1443457544)
 * w3schools results are only okay.

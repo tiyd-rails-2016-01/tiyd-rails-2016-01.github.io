@@ -40,8 +40,8 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/qeGD6-jOUrM)
-* [Mini-lecture Video](https://youtu.be/6pDnLJll0Qw)
+* [Class Video]()
+* [Mini-lecture Video]()
 * [Code Built in Class](https://github.com/tiyd-rails-2016-01/wallet_example)
 
 #### Useful Links

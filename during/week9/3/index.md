@@ -71,7 +71,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/NcojjI04QVw)
+* [Class Video]()
 
 #### Useful Links
 

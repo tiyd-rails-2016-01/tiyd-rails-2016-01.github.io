@@ -32,7 +32,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/ytOKZluAW78)
+* [Class Video]()
 * [Testing and Continuous Integration Walkthrough - By David!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
 * [Instructions for Capybara - By Nate!](w9-1/capybara)
 
@@ -44,6 +44,6 @@ layout: default
 
 #### Assignment
 
-* Path One - New Material: 
+* Path One - New Material:
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)

@@ -31,7 +31,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/1lWjd2YPkB8)
+* [Class Video]()
 * [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2016-01/vegetable_garden)
 * [Undoing Git Messes](git_messes)
 

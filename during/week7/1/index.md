@@ -61,8 +61,8 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/ByI5Wtl0YNw)
-* [Mini-lecture Video](https://youtu.be/XdBCf74xzxQ)
+* [Class Video]()
+* [Mini-lecture Video]()
 * [Example playground code](https://github.com/tiyd-rails-2016-01/javascript_playground)
 
 #### Useful Links

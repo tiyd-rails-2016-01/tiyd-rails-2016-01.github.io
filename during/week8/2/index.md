@@ -34,7 +34,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/loJEKuJRNHU)
+* [Class Video]()
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [Whiteboard - Stacks and Queues](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/054/original/stack_queue.JPG?1445448768)
 

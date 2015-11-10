@@ -58,7 +58,7 @@ layout: default
 
 #### Lecture Notes/Links
 
-* [Mini-lecture Video](https://youtu.be/otGT7JyIJrk)
+* [Mini-lecture Video]()
 * [App about Routes (and unicorns)](https://github.com/tiyd-rails-2016-01/routes_app)
 
 #### Assignment - IN PAIRS

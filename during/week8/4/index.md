@@ -39,7 +39,7 @@ Code for `config/application.rb`:
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/z3mdgNHhAk0)
+* [Class Video]()
 * [Challenge Code](w9-1/double_loop.rb)
 * [Neonapster Code from Class](https://github.com/tiyd-rails-2016-01/neonapster)
 
@@ -66,7 +66,7 @@ Code for `config/application.rb`:
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/XkpuJL3oP0E)
+* [Class Video]()
 * [rack-cors gem](https://github.com/cyu/rack-cors)
 
 #### Useful Links

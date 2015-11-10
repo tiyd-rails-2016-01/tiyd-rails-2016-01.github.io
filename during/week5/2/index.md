@@ -36,7 +36,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/4me1mOWT-sY)
+* [Class Video]()
 * [Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/time_zone)
 * [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
 

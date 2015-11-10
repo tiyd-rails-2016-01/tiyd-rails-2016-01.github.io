@@ -26,7 +26,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/ytOKZluAW78)
+* [Class Video]()
 * [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
 
 #### Useful Links

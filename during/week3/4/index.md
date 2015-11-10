@@ -42,7 +42,7 @@ layout: default
 #### Lecture Notes/Links
 
 * [Class Video]()
-* [Mini-lecture Video](https://youtu.be/Quj22tUBna8)
+* [Mini-lecture Video]()
 * [Solution from Prior Night's HW](https://github.com/tiyd-rails-2016-01/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
 * [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)

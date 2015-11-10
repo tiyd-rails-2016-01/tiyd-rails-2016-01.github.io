@@ -36,7 +36,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video](https://youtu.be/zqp50dcOj6c)
+* [Class Video]()
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
 
 #### Useful Links
