@@ -10,12 +10,14 @@ layout: default
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
+* Human Learning
+  * ON BOARD: Elaborate rather than review
 * Random Topics
   * Fat Models, Skinny Controllers
   * HTTP Status Codes
-* Example: The Plutonium Yard, competitor to the Iron Yard
 * HTML
   * View source on `theironyard.com`
+  * EXAMPLE: The Plutonium Yard, competitor to the Iron Yard
   * Tags and Nesting
   * Header and Body
   * Common tags
@@ -93,7 +95,7 @@ Webapps that do processing on the server (and/or have a database):
 #### Evening Reading
 
 * Preview Reading: [Rails Forms](http://guides.rubyonrails.org/form_helpers.html)
-* Optional Reading: [Ruby Rogues: Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
+* Listening: [Ruby Rogues: Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
 
 #### Assignment
 

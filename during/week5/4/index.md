@@ -10,10 +10,6 @@ layout: default
 
 <!-- **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md) -->
 
-* Agile
-  * How did it feel to have to match GitHub's pages exactly?
-  * ON BOARD: Beware Baby Duck Syndrome
-  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
 * Random Topics
   * `||=`
   * `config.action_controller.action_on_unpermitted_parameters = :raise`
@@ -23,8 +19,12 @@ layout: default
   * XSS
 * Dev vs. Test vs. Production
 * Rails Servers (WEBrick vs. Mongrel vs. Puma)
-* Heroku
+* Git
   * `git remote` review
+  * GitFlow
+  * Pull Requests
+  * Code Review on Pull Requests
+* Heroku
   * Set up account
   * Create new Heroku project
   * Move `sqlite3` gem to development and test
@@ -53,7 +53,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Syntactically Awesome Stylesheets](http://sass-lang.com/guide)
-* Optional Reading: [Ruby Rogues: When to Use Modules](http://devchat.tv/ruby-rogues/022-rr-when-to-use-modules)
+* Listening: [Ruby Rogues - Agile Communication](https://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
 
 ## Weekend Assignment - IN PAIRS
 

@@ -6,6 +6,10 @@ layout: default
 
 **Challenge:** [ActiveRecord](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_active_record.md)
 
+* Agile
+  * How did it feel to have to match GitHub's pages exactly?
+  * ON BOARD: Beware Baby Duck Syndrome
+  * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`

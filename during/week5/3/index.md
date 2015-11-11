@@ -10,6 +10,8 @@ layout: default
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
+* Agile Rituals
+  * ON BOARD: Estimation
 * Random Topics
   * The "10 minutes ago" problem
   * `before_action` (similar to `before_create`)
@@ -35,9 +37,10 @@ layout: default
 
 #### Evening Reading
 
-* Git Reading: [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
-* Git Reading: [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
-* Stretch Preview Reading (only if you're curious - NOT required): [https://devcenter.heroku.com/articles/getting-started-with-rails4]
+* Preview Reading: [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
+* Preview Reading: [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
+* Stretch Preview Reading: [Heroku](https://devcenter.heroku.com/articles/getting-started-with-rails4)
+* Listening: [Ruby Rogues - Estimation](https://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
 

@@ -11,14 +11,8 @@ layout: default
 **Problem of the Day:** [Using ERB](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_erb)
 
 * Random Topics
-  * Anjana's Agile talk?
-  * Daily standups as a practice
-  * Pair programming as a practice
   * `#shipit` and putting a bow on it
   * `rails new .`
-* Human Learning
-  * ON BOARD: Interleave topics
-  * ON BOARD: Elaborate rather than repeat
 * Forms
   * Example: Add a student application form to the Plutonium Yard
   * `form`
@@ -50,7 +44,7 @@ layout: default
 * Preview Reading: [Rails Guide on Resources](http://guides.rubyonrails.org/routing.html#resource-routing-the-rails-default) - Read Ch. 2 through 2.6.
 * Preview Reading: [Pro Git Ch. 3.3](http://git-scm.com/book/en/v2/Git-Branching-Branch-Management)
 * Preview Reading: [Pro Git Ch. 3.4](http://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows)
-* Optional Reading: [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
+* Listening: [Ruby Rogues: Marketing Yourself](http://devchat.tv/ruby-rogues/187-marketing-yourself-as-a-software-developer-with-john-sonmez)
 
 #### Assignment
 
