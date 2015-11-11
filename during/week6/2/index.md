@@ -34,8 +34,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Integration Tests](http://guides.rubyonrails.org/testing.html#integration-testing) - Just section 5-5.2
-* Optional Reading: [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
-* Optional Reading: [Ruby Rogues: Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
+* Listening: [Ruby Rogues - Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
 
 #### Assignment
 

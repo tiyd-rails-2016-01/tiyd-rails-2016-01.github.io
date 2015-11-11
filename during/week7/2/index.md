@@ -41,6 +41,7 @@ layout: default
 
 #### Useful Links
 
+* [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
 
 #### Evening Reading
 

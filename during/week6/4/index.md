@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wk 6 - Thursday - Nested Attributes
+## Wk 6 - Thursday - Handling Nested Attributes
 
 **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)
 
@@ -30,7 +30,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Chapters 3 and 4 of Eloquent JavaScript](http://eloquentjavascript.net/)
-* Optional Reading: [Ruby Rogues: Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
+* Optional Reading: [Ruby Rogues - Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
 
 ## Weekend Assignment - IN PAIRS
 

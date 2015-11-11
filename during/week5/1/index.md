@@ -95,7 +95,7 @@ Webapps that do processing on the server (and/or have a database):
 #### Evening Reading
 
 * Preview Reading: [Rails Forms](http://guides.rubyonrails.org/form_helpers.html)
-* Listening: [Ruby Rogues: Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
+* Listening: [Ruby Rogues - Hacking Education](http://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek)
 
 #### Assignment
 

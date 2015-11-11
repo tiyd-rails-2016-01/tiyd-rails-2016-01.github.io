@@ -36,7 +36,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Paperclip Documentation](https://github.com/thoughtbot/paperclip)
-* Optional Reading: [Ruby Rogues: Ruby Antipatterns](http://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
+* Optional Reading: [Ruby Rogues - Ruby Antipatterns](http://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
 
 #### Assignment
 

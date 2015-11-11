@@ -46,7 +46,6 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Relational Databases](https://quickleft.com/blog/introduction-to-database-design-on-rails/)
-* Debugging Reading: [Ruby Rogues on Debugging](https://devchat.tv/ruby-rogues/150-rr-the-debugging-mindset-with-danielle-sucher)
 
 #### Weekend Assignment
 

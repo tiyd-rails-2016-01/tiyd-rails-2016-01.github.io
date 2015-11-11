@@ -51,7 +51,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [How Sessions Work](http://www.justinweiss.com/articles/how-rails-sessions-work/)
-* Optional Reading: [Ruby Rogues: Accessibility](https://devchat.tv/ruby-rogues/119-rr-accessibility-with-brian-hogan)
+* Listening: [Ruby Rogues - Accessibility](https://devchat.tv/ruby-rogues/119-rr-accessibility-with-brian-hogan)
 
 #### Assignment
 

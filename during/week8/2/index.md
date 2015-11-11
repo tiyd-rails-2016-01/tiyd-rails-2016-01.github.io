@@ -46,8 +46,8 @@ layout: default
 
 #### Evening Reading
 
-* Preview Reading: [Rails Guides: ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
-* Optional Reading: [Ruby Rogues: Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
+* Preview Reading: [Rails Guides - ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
+* Optional Reading: [Ruby Rogues - Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
 * Optional Reading: [Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
 
 #### Assignment
