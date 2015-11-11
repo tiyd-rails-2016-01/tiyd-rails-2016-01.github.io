@@ -32,7 +32,7 @@ layout: default
 
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
-* [Long List of API options](../notes/apis)
+* [Long List of API options](apis)
 * [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
 
 #### Evening Reading

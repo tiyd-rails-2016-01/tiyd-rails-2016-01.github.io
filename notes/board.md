@@ -48,6 +48,7 @@
   * 3.4 git merge
   * 3.4 git stash
   * 3.4 git reset
+  * 5.4 git remote
   * 5.4 Gitflow
   * 5.4 Pull Requests
   * 5.4 Code Review on Pull Requests

@@ -37,7 +37,7 @@ layout: default
 
 * Git Reading: [Pro Git Ch. 7.7](http://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified) - This is maybe the best chapter in the book.
 * Git Reading: [Pro Git Ch. 7.6](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)
-* Preview Reading (only if you're curious - NOT required): [https://devcenter.heroku.com/articles/getting-started-with-rails4]
+* Stretch Preview Reading (only if you're curious - NOT required): [https://devcenter.heroku.com/articles/getting-started-with-rails4]
 
 #### Assignment
 
