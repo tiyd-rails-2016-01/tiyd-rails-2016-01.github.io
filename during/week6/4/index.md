@@ -13,8 +13,6 @@ layout: default
   * `default_scope`
   * `scope`
   * Defining methods on associations
-* git
-  * Pull request w/ code review workflow
 
 #### Lecture Notes
 
@@ -30,7 +28,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Chapters 3 and 4 of Eloquent JavaScript](http://eloquentjavascript.net/)
-* Optional Reading: [Ruby Rogues - Agile Communication](http://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
+* Listening: [Ruby Rogues - Code Review Culture](https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
 ## Weekend Assignment - IN PAIRS
 

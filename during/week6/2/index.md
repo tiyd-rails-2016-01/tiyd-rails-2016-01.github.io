@@ -8,8 +8,6 @@ layout: default
 
 **Problem of the Day:** [Menu Authentication](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/menu_authentication)
 
-* Human Learning
-  * ON BOARD: Study concept over implementation
 * Random Topics
   * Bootstrap Grid System
   * Nested Routes
@@ -34,7 +32,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Integration Tests](http://guides.rubyonrails.org/testing.html#integration-testing) - Just section 5-5.2
-* Listening: [Ruby Rogues - Estimation](http://devchat.tv/ruby-rogues/035-rr-estimation)
+* Listening: [Ruby Rogues - Open Source Contributions](https://devchat.tv/ruby-rogues/051-rr-getting-started-with-open-source)
 
 #### Assignment
 

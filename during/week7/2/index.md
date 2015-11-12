@@ -46,7 +46,9 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [The creator of Rails speaks on how Rails does AJAX](https://signalvnoise.com/posts/3697-server-generated-javascript-responses)
-* Optional (excellent) Reading: Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Preview Reading: [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
+* Preview Reading: [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+* Eloquent JS Reading: Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
 
 #### Assignment
 

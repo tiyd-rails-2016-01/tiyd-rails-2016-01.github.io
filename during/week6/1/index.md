@@ -6,10 +6,12 @@ layout: default
 
 **Challenge:** [ActiveRecord](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_active_record.md)
 
-* Agile
+* Agile Principles
+  * ON BOARD: Style matters early
   * How did it feel to have to match GitHub's pages exactly?
-  * ON BOARD: Beware Baby Duck Syndrome
+  * ON BOARD: Kill your baby ducks
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
+  * ON BOARD: Balance DB-first and UI-first
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`
@@ -20,9 +22,6 @@ layout: default
   * Entitlement of the Software Developer Community
   * `Time.zone.now`
   * `config.time_zone = 'Eastern Time (US & Canada)'`
-* Agile
-  * ON BOARD: Data-first AND workflow-first thinking
-  * DIAGRAMS: Data model vs workflow diagrams
 * The Asset Pipeline
   * Example: Add photos to someone's Health Tracker
   * The `public` Folder

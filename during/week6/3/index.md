@@ -6,9 +6,6 @@ layout: default
 
 **Challenge:** [REST](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_rest.md)
 
-* Agile
-  * ON BOARD: Start small
-  * Example: Building a storefront app
 * Random Topics
   * `BCrypt::Password.create("password", cost: 4)`
   * Don't set your root to be your login page
@@ -35,13 +32,12 @@ layout: default
 
 #### Useful Links
 
+[`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
 
 #### Evening Reading
 
 * Preview Reading: [Nested Attributes](http://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html)
-* Optional Reading: [`inverse_of`](http://viget.com/extend/exploring-the-inverse-of-option-on-rails-model-associations)
-* Optional Reading: [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
-* Optional Reading: [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
+* Listening: [Ruby Rogues - Security](https://devchat.tv/ruby-rogues/219-rr-brakeman-and-rails-security-with-justin-collins)
 
 #### Assignment
 
