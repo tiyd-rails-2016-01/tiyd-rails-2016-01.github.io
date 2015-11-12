@@ -9,6 +9,7 @@
   * 3.1 Retrieve rather than review
   * 4.1 Scar in moderation
   * 5.1 Elaborate rather than review
+  * 7.2 Have autonomy, mastery, and purpose (not on board)
 
 * Agile Principles
   * 1.4 Start small (SKILL)

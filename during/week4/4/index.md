@@ -61,7 +61,7 @@ layout: default
 * [Mini-lecture Video]()
 * [App about Routes (and unicorns)](https://github.com/tiyd-rails-2016-01/routes_app)
 
-#### Assignment - IN PAIRS
+#### Weekend Assignment - IN PAIRS
 
 * Assignment: [Build Your Own API](https://github.com/tiyd-rails-2016-01/build_your_own_api)
 <!-- * Feedback: [Build Your Own API Feedback](feedback) -->

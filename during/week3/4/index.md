@@ -60,7 +60,7 @@ layout: default
 * Preview Reading: [Working with APIs](http://www.theodinproject.com/ruby-on-rails/working-with-external-apis?ref=lnav) - Read down to and including the "Restrictions" section.
 * Listening: [Ruby Rogues - Ruby Antipatterns](https://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
 
-## Weekend Assignment - IN PAIRS
+#### Weekend Assignment - IN PAIRS
 
 * Assignment: [Legacy Associations and Validations](https://github.com/tiyd-rails-2016-01/legacy_associations_and_validations)
 <!-- * Feedback: [Legacy Associations and Validations Feedback](feedback) -->

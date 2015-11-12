@@ -46,6 +46,5 @@ layout: default
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
-* [Ruby Rogues - The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
 * [Ruby Rogues - Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)

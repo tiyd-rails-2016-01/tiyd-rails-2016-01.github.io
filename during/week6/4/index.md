@@ -30,7 +30,7 @@ layout: default
 * Preview Reading: [Chapters 3 and 4 of Eloquent JavaScript](http://eloquentjavascript.net/)
 * Listening: [Ruby Rogues - Code Review Culture](https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
-## Weekend Assignment - IN PAIRS
+#### Weekend Assignment - IN PAIRS
 
 * Assignment: [Survey Opossum](https://github.com/tiyd-rails-2016-01/survey_opossum)
 <!-- * Feedback: [Survey Opossum Feedback](feedback) -->

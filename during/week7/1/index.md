@@ -9,7 +9,7 @@ layout: default
 * Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
 
 * Agile
-  * ON BOARD: Style matters early (sadly)
+  * ON BOARD: Be aware of technical debt
 * Random Topics
   * `config.action_controller.action_on_unpermitted_parameters = :raise`
 * Javascript in `node`
@@ -71,7 +71,8 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [How jQuery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
-* Optional (excellent) Reading: Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Eloquent JavaScript Reading: Chapters 5 and 12 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Listening: [Ruby Rogues - Technical Debt](https://devchat.tv/ruby-rogues/technical-debt)
 
 #### Assignment
 

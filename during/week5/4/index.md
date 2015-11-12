@@ -55,7 +55,7 @@ layout: default
 * Preview Reading: [Syntactically Awesome Stylesheets](http://sass-lang.com/guide)
 * Listening: [Ruby Rogues - Agile Communication](https://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
 
-## Weekend Assignment - IN PAIRS
+#### Weekend Assignment - IN PAIRS
 
 * Assignment: [Health Tracker](https://github.com/tiyd-rails-2016-01/health_tracker)
 <!-- * Feedback: [Health Tracker Feedback](feedback) -->

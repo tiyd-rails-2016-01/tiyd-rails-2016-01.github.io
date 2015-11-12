@@ -79,7 +79,7 @@ Code for `config/application.rb`:
 * Optional Reading: [Ruby Rogues - Code Review Culture](http://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
 
-## Weekend Assignment
+#### Weekend Assignment
 
 * Assignment: [Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow)
 

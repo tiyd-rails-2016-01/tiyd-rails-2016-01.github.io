@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wk 7 - Tuesday - jQuery
+## Wk 7 - Tuesday - jQuery and Unobtrusive JavaScript
 
 **Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
 
@@ -49,6 +49,7 @@ layout: default
 * Preview Reading: [Pro Git Ch. 3.5](http://git-scm.com/book/en/v2/Git-Branching-Remote-Branches)
 * Preview Reading: [Pro Git Ch. 3.6](http://git-scm.com/book/en/v2/Git-Branching-Rebasing)
 * Eloquent JS Reading: Chapters 13 and 14 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Listening: [Ruby Rogues - Understanding Computation](https://devchat.tv/ruby-rogues/120-rr-book-club-understanding-computation-with-tom-stuart)
 
 #### Assignment
 

@@ -6,9 +6,9 @@ layout: default
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
 
-
 * Git
   * `git reset`
+  * `git fetch`
   * `git rebase`
   * `git filter-branch`
 * Random topics
@@ -42,8 +42,8 @@ layout: default
 
 #### Evening Reading
 
-* Required Reading: None
-* Optional (excellent) Reading: Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Eloquent JavaScript Reading: Chapters 17 and 18 of [Eloquent JavaScript](http://eloquentjavascript.net/)
+* Listening: [Ruby Rogues - The Science of Software Development](http://devchat.tv/ruby-rogues/184-rr-what-we-actually-know-about-software-development-and-why-we-believe-it-s-true-with-greg-wilson-and-andreas-stefik)
 
 #### Assignment
 
