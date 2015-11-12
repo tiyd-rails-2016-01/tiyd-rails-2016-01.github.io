@@ -21,6 +21,7 @@ layout: default
   * `json.extract! @candidate, :id, :name, :party`
   * `json.array! @candidates, :id, :name, :party`
 * Non-ActiveRecord Models (don't `generate`!)
+* CORS
 
 #### Lecture Notes
 
@@ -34,6 +35,7 @@ layout: default
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](apis)
 * [Article on Pair Programming Styles](http://articles.coreyhaines.com/posts/thoughts-on-pair-programming/)
+* [rack-cors gem](https://github.com/cyu/rack-cors)
 
 #### Evening Reading
 

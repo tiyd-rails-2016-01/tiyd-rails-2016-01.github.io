@@ -42,6 +42,7 @@ layout: default
 #### Useful Links
 
 * [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
+* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 
 #### Evening Reading
 

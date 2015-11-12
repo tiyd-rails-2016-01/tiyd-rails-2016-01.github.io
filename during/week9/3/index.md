@@ -80,6 +80,7 @@ layout: default
 
 * Preview Reading: [Decompose Fat Models](http://blog.codeclimate.com/blog/2012/10/17/7-ways-to-decompose-fat-activerecord-models/)
 * Preview Reading: [Build an app in Rails vs. Sinatra](https://www.airpair.com/ruby-on-rails/posts/rails-vs-sinatra?utm_source=rubyweekly&utm_medium=email)
+* Listening: [Ruby Rogues - AWS](https://devchat.tv/ruby-rogues/218-rr-aws-deployments-with-alex-wood-and-trevor-rowe)
 
 #### Assignment
 

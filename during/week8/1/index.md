@@ -36,6 +36,7 @@ layout: default
 * [The N+1 Query Problem](http://blog.diatomenterprises.com/remove-n1-queries-in-your-ruby-on-rails-app/?utm_source=rubyweekly&utm_medium=email)
 * [The complete guide to Rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 * [Seeing your Database inside Rails](https://github.com/igorkasyanchuk/rails_db)
+* [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
 
 #### Evening Reading
 

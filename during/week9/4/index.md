@@ -11,7 +11,6 @@ layout: default
 
 **Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
-
 * Working as a Developer
   * [Annual Developer Survey from StackOverflow](https://stackoverflow.com/research/developer-survey-2015)
   * [Which IDEs do Rubyists use?](http://www.sitepoint.com/ides-rubyists-use/?utm_source=rubyweekly&utm_medium=email)
@@ -31,19 +30,17 @@ layout: default
 
 #### Useful Links
 
+* [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [Map of Rails knowledge](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
 * [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
 * [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
 * [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
 
+#### Evening Reading
+
+* Listening: [Ruby Rogues - Non-Rails Projects](https://devchat.tv/ruby-rogues/116-rr-non-rails-projects)
+
 #### Assignment
 
 * Assignment: Complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
-
-#### Eventual Reading/Listening - TODO: Move this to `\after` page?
-
-* [rack-cors gem](https://github.com/cyu/rack-cors) - NEEDED FOR FEE PROJECTS WITH ANGULAR APPS
-* [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
-* [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
-* [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)

@@ -45,6 +45,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [d3.js Primer](https://en.wikipedia.org/wiki/D3.js)
+* Listening: [Ruby Rogues - DevOps](https://devchat.tv/ruby-rogues/113-rr-devops-with-nathen-harvey)
 
 #### Assignment
 
