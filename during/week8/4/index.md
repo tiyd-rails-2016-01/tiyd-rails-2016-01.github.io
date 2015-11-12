@@ -53,7 +53,7 @@ Code for `config/application.rb`:
 #### Evening Reading
 
 * Preview Reading: [d3.js Primer](https://en.wikipedia.org/wiki/D3.js)
-* Optional Reading: [Ruby Rogues - Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
+* Listening:
 
 #### Assignment
 
@@ -76,7 +76,8 @@ Code for `config/application.rb`:
 #### Evening Reading
 
 * Preview Reading: [Paperclip](https://github.com/thoughtbot/paperclip)
-* Optional Reading: [Ruby Rogues - Code Review Culture](http://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
+* Listening: [Ruby Rogues - Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
+  * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
 
 
 #### Weekend Assignment

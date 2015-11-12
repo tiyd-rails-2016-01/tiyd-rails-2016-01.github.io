@@ -6,6 +6,8 @@ layout: default
 
 **Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
+* Agile Rituals
+  * ON BOARD: Code review sessions
 * Random Topics
   * Polymorphic associations
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
@@ -47,8 +49,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Rails Guides - ActionMailer](http://guides.rubyonrails.org/action_mailer_basics.html)
-* Optional Reading: [Ruby Rogues - Technical Debt](http://devchat.tv/ruby-rogues/technical-debt)
-* Optional Reading: [Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
+* Listening: [Ruby Rogues - Code Review Culture](https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
 
 #### Assignment
 

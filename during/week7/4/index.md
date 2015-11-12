@@ -47,7 +47,8 @@ layout: default
 
 #### Evening Reading
 
-* Preview Reading:
+* Preview Reading: [How to Speed up ActiveRecord](http://blog.codeship.com/speed-up-activerecord/)
+* Preview Reading: [Joins vs. Includes](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
 * Listening: [Ruby Rogues - Choosing a JavaScript Framework](https://devchat.tv/ruby-rogues/189-rr-choosing-a-javascript-mvc-framework-with-craig-mckeachie-)
 
 

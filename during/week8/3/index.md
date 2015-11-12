@@ -6,9 +6,6 @@ layout: default
 
 **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
 
-* Agile:
-  * ON BOARD: Code review sessions
-  * ON BOARD: Consider technical debt
 * Random Topics
   * `pluck`
   * Using `pluck` in select_tags
@@ -36,7 +33,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Paperclip Documentation](https://github.com/thoughtbot/paperclip)
-* Optional Reading: [Ruby Rogues - Ruby Antipatterns](http://devchat.tv/ruby-rogues/032-rr-ruby-antipatterns)
+* Listening: [Ruby Rogues - Staying Sharp](http://devchat.tv/ruby-rogues/164-rr-staying-sharp-with-dave-thomas)
 
 #### Assignment
 

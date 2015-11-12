@@ -6,10 +6,6 @@ layout: default
 
 **Challenge:** [Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_primes_challenge.rb)
 
-* Human Learning:
-  * ON BOARD: Use short feedback loops
-  * Wife and dinner example
-  * Let's use them here as we work on primes.
 * Runtimes and Primes
 * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
 * Memory Usage
@@ -43,9 +39,8 @@ layout: default
 
 #### Evening Reading
 
-* Current Topic Reading: [Joins vs. Includes](http://blog.bigbinary.com/2013/07/01/preload-vs-eager-load-vs-joins-vs-includes.html)
-* Current Topic Reading: [How to Speed up ActiveRecord](http://blog.codeship.com/speed-up-activerecord/)
 * Preview Reading: [Rails Guides: ActiveJob](http://edgeguides.rubyonrails.org/active_job_basics.html)
+* Listening: [Ruby Rogues - Benchmarking and Profiling](https://devchat.tv/ruby-rogues/034-rr-benchmarking-and-profiling)
 
 #### Assignment
 

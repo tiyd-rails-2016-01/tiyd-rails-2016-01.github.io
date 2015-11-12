@@ -28,7 +28,7 @@ layout: default
 #### Evening Reading
 
 * Preview Reading: [Chapters 3 and 4 of Eloquent JavaScript](http://eloquentjavascript.net/)
-* Listening: [Ruby Rogues - Code Review Culture](https://devchat.tv/ruby-rogues/216-rr-code-review-culture-with-derek-prior)
+* Listening: [Ruby Rogues - Augmenting Your Reality](https://devchat.tv/ruby-rogues/220-rr-augmenting-your-reality-with-leon-gersing)
 
 #### Weekend Assignment - IN PAIRS
 

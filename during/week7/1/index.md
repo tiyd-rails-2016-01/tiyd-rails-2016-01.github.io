@@ -67,6 +67,7 @@ layout: default
 
 #### Useful Links
 
+[Toyota and Technical Debt](http://www.safetyresearch.net/blog/articles/toyota-unintended-acceleration-and-big-bowl-%E2%80%9Cspaghetti%E2%80%9D-code)
 
 #### Evening Reading
 
