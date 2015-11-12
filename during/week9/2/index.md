@@ -33,8 +33,8 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [Testing and Continuous Integration Walkthrough - By David!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
-* [Instructions for Capybara - By Nate!](w9-1/capybara)
+* [Testing and Continuous Integration Walkthrough - By David B.!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
+* [Instructions for Capybara - By Nate T.!](w9-1/capybara)
 
 #### Useful Links
 

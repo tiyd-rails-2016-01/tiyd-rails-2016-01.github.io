@@ -43,7 +43,6 @@ layout: default
 
 **Exercise 2:** Start from the `part2` branch.  Graph points on an x/y plane.  Open `old_discoveries.csv` and use its "year" column as X and its "important_discoveries" column as Y.
 
-* Complete
 * Reading from Files
   * `d3.json/csv/xml/html/tsv/text`
   * `d3.json("file.json", function(data) {...})`

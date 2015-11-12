@@ -14,7 +14,7 @@ layout: default
 
 #### Evening Reading
 
-* Preview Reading:
+* Preview Reading: [Understanding OAuth](http://lifehacker.com/5918086/understanding-oauth-what-happens-when-you-log-into-a-site-with-google-twitter-or-facebook)
 * Listening: [Ruby Rogues - Product vs. Consulting Work](https://devchat.tv/ruby-rogues/121-rr-consulting-vs-product-work-with-adam-keys)
 
 #### Assignment
