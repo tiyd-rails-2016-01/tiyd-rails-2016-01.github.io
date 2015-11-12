@@ -43,6 +43,7 @@ layout: default
 
 #### Eventual Reading/Listening - TODO: Move this to `\after` page?
 
+* [rack-cors gem](https://github.com/cyu/rack-cors) - NEEDED FOR FEE PROJECTS WITH ANGULAR APPS
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 * [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)

@@ -52,33 +52,9 @@ Code for `config/application.rb`:
 
 #### Evening Reading
 
-* Preview Reading: [d3.js Primer](https://en.wikipedia.org/wiki/D3.js)
-* Listening:
-
-#### Assignment
-
-* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2016-01/delayed_mailer_with_s3)
-* Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
-* Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
-
-
-## Thursday - Project Prep
-
-#### Lecture Notes
-
-* [Class Video]()
-* [rack-cors gem](https://github.com/cyu/rack-cors)
-
-#### Useful Links
-
-* [jBuilder docs](https://github.com/rails/jbuilder)
-
-#### Evening Reading
-
-* Preview Reading: [Paperclip](https://github.com/thoughtbot/paperclip)
+* Preview Reading: None.
 * Listening: [Ruby Rogues - Technology Radar](http://devchat.tv/ruby-rogues/195-rr-building-your-technology-radar-with-neal-ford)
   * [ThoughtWorks Technology Radar](http://www.thoughtworks.com/radar/tools)
-
 
 #### Weekend Assignment
 

@@ -42,8 +42,12 @@ layout: default
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [isitvulnerable.com](https://isitvulnerable.com/)
 
+#### Evening Reading
+
+* Preview Reading: [d3.js Primer](https://en.wikipedia.org/wiki/D3.js)
+
 #### Assignment
 
-* Path One - New Material:
+* Path One - New Material: [Reports on S3](https://github.com/tiyd-rails-2016-01/delayed_mailer_with_s3)
 * Path Two - Review Ruby: [Tic Tac Toe](https://github.com/tiyd-rails-2016-01/overview_tic_tac_toe)
 * Path Three - Review Rails: [Time Tracking App](https://github.com/tiyd-rails-2016-01/overview_time_tracking_app)
