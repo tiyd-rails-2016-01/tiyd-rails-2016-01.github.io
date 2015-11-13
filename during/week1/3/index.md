@@ -60,6 +60,7 @@ layout: default
 
 * Preview Reading: [Writing Classes in Ruby](http://rubylearning.com/satishtalim/writing_our_own_class_in_ruby.html)
 * Listening: [Ruby Rogues - Impostor Syndrome](https://devchat.tv/ruby-rogues/107-rr-impostor-syndrome-with-tim-chevalier)
+* Listening: [Developers and Depression](https://vimeo.com/78419167)
 
 #### Assignment
 

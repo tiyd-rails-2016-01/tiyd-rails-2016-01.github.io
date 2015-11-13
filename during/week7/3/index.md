@@ -23,6 +23,7 @@ layout: default
   * Rendering `.js.erb` files as responses to AJAX calls
   * `render @quote` (if `@quote` contains one Quote instance) uses `_quote.html.erb`
   * `render @quotes` (if `@quotes` contains an array of Quote instances) uses `_quote.html.erb` many times
+* How to debug AJAX
 * Homework Tips:
   * Google for something which runs JavaScript every X seconds.
   * To make the AJAX call from something that isn't a remote button or a remote form, try one of these:

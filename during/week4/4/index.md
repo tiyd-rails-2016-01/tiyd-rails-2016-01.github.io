@@ -10,6 +10,7 @@ layout: default
 
 * Agile Rituals
   * ON BOARD: Pair programming
+  * Remote pairing
 * Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * Fixtures
 * Seeds
@@ -31,6 +32,8 @@ layout: default
 
 #### Useful Links
 
+* [Remote Pairing Option - Screenhero](https://screenhero.com/)
+* [Remote Pairing Option - Motepair](https://atom.io/packages/motepair)
 * [Rails Guide on Callbacks](http://guides.rubyonrails.org/v2.3.11/activerecord_validations_callbacks.html#callbacks-overview)
 * [JBuilder](https://github.com/rails/jbuilder)
 * [Long List of API options](apis)

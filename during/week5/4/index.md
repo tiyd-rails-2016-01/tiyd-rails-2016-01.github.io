@@ -13,6 +13,7 @@ layout: default
 * Random Topics
   * `||=`
   * `config.action_controller.action_on_unpermitted_parameters = :raise`
+  * Do `form_for` vs `form_tag` again!
 * Partials
 * Helpers
   * `.html_safe`

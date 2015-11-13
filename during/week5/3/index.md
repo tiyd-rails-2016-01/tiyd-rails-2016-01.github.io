@@ -19,7 +19,7 @@ layout: default
   * `rails-footnotes` gem
 * Scaffold Dissection
   * Remove `jbuilder` from Gemfile if you don't want an API.
-* `form_for` and related methods
+* `form_for` vs `form_tag`
 * Resources
 * REST
 

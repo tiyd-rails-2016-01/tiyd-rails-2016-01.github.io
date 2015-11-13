@@ -37,6 +37,7 @@ layout: default
 * [The complete guide to Rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 * [Seeing your Database inside Rails](https://github.com/igorkasyanchuk/rails_db)
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
+* [4 Ways to Speed up Your Rails App](http://blog.skylight.io/4-easy-ways-to-speed-up-your-rails-app/)
 
 #### Evening Reading
 

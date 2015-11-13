@@ -58,6 +58,7 @@ layout: default
   * `.cloneNode(true)`
   * `.appendChild(copy)`
   * `<script>` tags to run the JavaScript when the page loads.
+* How to debug JavaScript
 
 #### Lecture Notes
 
