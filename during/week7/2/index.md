@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 7 - Tuesday - jQuery and Unobtrusive JavaScript
 
-**Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
+**Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
@@ -41,6 +41,7 @@ layout: default
 
 #### Useful Links
 
+* [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 * [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
 

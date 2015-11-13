@@ -4,6 +4,8 @@ layout: default
 
 ## Wk 7 - Thursday - jQuery in Detail
 
+**Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
+
 * Three things to pass to `$()`
   * CSS Selectors
   * DOM Elements

@@ -4,8 +4,6 @@ layout: default
 
 ## Wk 6 - Monday - The Asset Pipeline and SCSS
 
-**Challenge:** [ActiveRecord](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_active_record.md)
-
 * Agile Principles
   * ON BOARD: Style matters early
   * How did it feel to have to match GitHub's pages exactly?

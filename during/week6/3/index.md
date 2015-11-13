@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 6 - Wednesday - Authorization and Scope
 
-**Challenge:** [REST](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_rest.md)
+**Challenge:** [form_for](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_form_for.md)
 
 * Random Topics
   * `BCrypt::Password.create("password", cost: 4)`
