@@ -52,7 +52,7 @@ layout: default
 
 * [Class Video]()
 * [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
-* [12 Days of Christmas Code]()
+* [12 Days of Christmas Code](12days.rb)
 
 #### Useful Links
 

@@ -37,9 +37,9 @@ layout: default
 
 * [Class Video]()
 * [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/029/original/agile_tdd.jpg?1442259694)
-* [Enumerable Method Code from Class](w2-4/enumberable_methods.rb)
-* [OddArray](w2-4/odd_array.rb)
-* [OddArrayTest](w2-4/odd_array_test.rb)
+* [Enumerable Method Code from Class](enumberable_methods.rb)
+* [OddArray](odd_array.rb)
+* [OddArrayTest](odd_array_test.rb)
 
 #### Useful Links
 

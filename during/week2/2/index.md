@@ -42,8 +42,8 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [Composition Example from Class](w2-2/car.rb)
-* [Module Example from Class](w2-2/vehicle.rb)
+* [Composition Example from Class](car.rb)
+* [Module Example from Class](vehicle.rb)
 
 #### Useful Links
 

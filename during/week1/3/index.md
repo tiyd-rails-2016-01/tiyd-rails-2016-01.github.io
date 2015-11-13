@@ -47,7 +47,7 @@ layout: default
 
 * [Class Video]()
 * [Whiteboard - Side Effects vs. Return Values](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/023/original/side_effects_return.jpg?1442259389)
-* [Contact Directory Code]()
+* [Contact Directory Code](contacts.rb)
 
 #### Useful Links
 

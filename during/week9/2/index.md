@@ -21,7 +21,7 @@ layout: default
 * The web
   * Domain Names
   * "The website is down!"
-  * OAuth
+* OAuth
 * Testing
   * RSpec
   * Capybara
@@ -34,11 +34,12 @@ layout: default
 
 * [Class Video]()
 * [Testing and Continuous Integration Walkthrough - By David B.!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
-* [Instructions for Capybara - By Nate T.!](w9-1/capybara)
+* [Instructions for Devise and OmniAuth - By Owen H.!](devise_and_omniauth)
+* [Instructions for Capybara - By Nate T.!](capybara)
 
 #### Useful Links
 
-* [oAuth Flow](w9-1/flickr_oauth_flow.jpg)
+* [oAuth Flow](flickr_oauth_flow.jpg)
 * [SimpleForm](https://github.com/plataformatec/simple_form)
 * [isitvulnerable.com](https://isitvulnerable.com/)
 

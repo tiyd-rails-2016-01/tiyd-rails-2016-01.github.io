@@ -49,14 +49,14 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [phone.rb](w1-4/phone.rb)
-* [person.rb](w1-4/person.rb)
-* [code.rb](w1-4/code.rb)
-* [All 3 Side-by-side](w1-4/screenshot.png)
-* [artist.rb](w1-4/artist.rb)
-* [album.rb](w1-4/album.rb)
-* [code.rb](w1-4/artist_code.rb)
-* [All 3 Side-by-side](w1-4/screenshot2.png)
+* [phone.rb](phone.rb)
+* [person.rb](person.rb)
+* [code.rb](code.rb)
+* [All 3 Side-by-side](screenshot.png)
+* [artist.rb](artist.rb)
+* [album.rb](album.rb)
+* [code.rb](artist_code.rb)
+* [All 3 Side-by-side](screenshot2.png)
 
 #### Useful Links
 

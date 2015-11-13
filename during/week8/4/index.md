@@ -40,7 +40,7 @@ Code for `config/application.rb`:
 #### Lecture Notes
 
 * [Class Video]()
-* [Challenge Code](w9-1/double_loop.rb)
+* [Challenge Code](double_loop.rb)
 * [Neonapster Code from Class](https://github.com/tiyd-rails-2016-01/neonapster)
 
 #### Useful Links

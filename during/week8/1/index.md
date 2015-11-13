@@ -23,7 +23,7 @@ layout: default
 
 * [Class Video]()
 * [Mini-lecture Video]()
-* [Primes Solution](w8-1/primes.rb)
+* [Primes Solution](primes.rb)
 * [Whiteboard - Pseudocode for Primes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/052/original/pseudo_prime.JPG?1445287966)
 * [Whiteboard - Indices](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/053/original/index_binary_tree.JPG?1445287981)
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
