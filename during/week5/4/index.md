@@ -4,11 +4,7 @@ layout: default
 
 ## Wk 5 - Thursday - Helpers/Partials, Heroku/Production
 
-**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
-
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
-
-<!-- **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md) -->
+**Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
 
 * Random Topics
   * `||=`

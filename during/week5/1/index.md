@@ -4,9 +4,7 @@ layout: default
 
 ## Wk 5 - Monday - HTML and CSS
 
-**Challenge:** [Include](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/include_challenge.rb)
-
-<!--[Discuss Ruby](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)-->
+**Challenge:** [Discuss Ruby](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_ruby.md)
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 

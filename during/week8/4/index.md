@@ -4,9 +4,7 @@ layout: default
 
 ## Wk 8 - Thursday - File Storage and S3
 
-**Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
-
-<!-- **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md) -->
+**Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md)
 
 * Uploading Files without Paperclip
 * Local Files using Paperclip

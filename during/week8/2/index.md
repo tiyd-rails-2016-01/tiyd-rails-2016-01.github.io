@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 8 - Tuesday - Background Processing
 
-**Challenge:** [Double Loop Challenge](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
+**Challenge:** [Double Loop](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
 * Agile Rituals
   * ON BOARD: Code review sessions

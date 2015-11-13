@@ -6,8 +6,6 @@ layout: default
 
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)
-
 * Agile
   * ON BOARD: Be aware of technical debt
 * Random Topics

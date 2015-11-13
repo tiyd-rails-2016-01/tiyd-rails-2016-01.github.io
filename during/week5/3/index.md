@@ -4,9 +4,7 @@ layout: default
 
 ## Wk 5 - Wednesday - REST, Scaffold
 
-<!--**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
-
-* Starting Point: [Tabula Railsa](https://github.com/tiyd-rails-2016-01/tabula_railsa)-->
+**Challenge:** [Router](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_router.md)
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 

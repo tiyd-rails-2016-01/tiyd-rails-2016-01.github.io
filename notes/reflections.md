@@ -1,6 +1,6 @@
 # Reflections
 
-*
+* 
 
 # Other assignment ideas
 

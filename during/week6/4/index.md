@@ -6,7 +6,7 @@ layout: default
 
 **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)
 
-<!-- **Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment) -->
+**Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment)
 
 * `accepts_nested_attributes`
 * Scope

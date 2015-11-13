@@ -5,7 +5,7 @@ layout: default
 ## Wk 9 - Tuesday - oAuth and DevOps
 
 <!--
-**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
+
 
 **Challenge:** [Discuss Development](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_development.md)
 
