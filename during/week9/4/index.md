@@ -31,6 +31,7 @@ layout: default
 * [Rack: First Principles](http://rubylogs.com/rack-first-principles/)
 * [Rack: Writing Middleware](http://rubylogs.com/writing-rack-middleware/)
 * [Rack: Using Middleware in Rails](http://rubylogs.com/writing-rails-middleware/)
+* [VIM Adventures](http://vim-adventures.com)
 
 #### Evening Reading
 
