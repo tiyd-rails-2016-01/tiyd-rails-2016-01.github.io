@@ -6,7 +6,19 @@ layout: default
 
 The inevitable question after class is "what do I do next?"  Obviously, working on a portfolio ([this](http://html5up.net/) might help, by the way), cleaning up your GitHub repos, and working on job search tasks like resumes and networking are at the top of the list.  Beyond that, though, it's important to think about what you want to learn next.
 
-One option is "more about Ruby."   There are a lot of references on the course website for this, and many many books.  Sandi Metz' POODR or Eloquent Ruby are excellent choices.  Thoughtbot also has a Junior-to-Senior training program online which is new, but promising: [Upcase](https://upcase.com/join).  That might be worth checking out.
+One option is "more about Ruby."   There are a lot of references on the course website for this, and many many books.  Sandi Metz' POODR or Eloquent Ruby are excellent choices.  Thoughtbot also has a Junior-to-Senior training program online which is new, but promising: [Upcase](https://upcase.com/join).  That might be worth checking out.  Also, here are a few concepts which we never had time to get to in class.  If you liked our rabbit hole, check these out:
+
+* How do Macros (like `has_many`) work?
+  * [Video Tutorial](https://pragmaticstudio.com/blog/2015/4/14/ruby-macros)
+* Threads
+  * [Threads and GIL Breakdown](http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil) - Follow the links!
+* Singleton methods (`def dog_object.hunt ... end`)
+  * Warning: there's actually no such thing as a Class method.
+  * `define_method()`
+* Simplecov (oops)
+* Versioning in a Database
+  * [StackOverflow description of some options](http://stackoverflow.com/questions/606031/generic-version-control-strategy-for-select-table-data-within-a-heavily-normalize)
+  * [Ugly page, but detailed descriptions](https://blog.jondh.me.uk/2011/11/relational-database-versioning-strategies/)
 
 As an alternative, you might be better off in future positions (and even in interviews if you get to this in time) if you have experience in more than one language.  Here are the candidates I'd suggest:
 
