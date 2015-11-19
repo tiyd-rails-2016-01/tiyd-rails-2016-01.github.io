@@ -1,6 +1,9 @@
 # Reflections
 
-* 
+* List of shortcuts I gave out too soon:
+  *
+* Student Feedback:
+  * 
 
 # Other assignment ideas
 
