@@ -12,7 +12,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 ### Week 1 - Ruby
 
-* [M - Control Flow and Variables](week1/1)
+* M - Control Flow and Variables
 * T - Methods and Arrays
 * W - Hashes and Nested Data Structures
 * Th - Objects and Classes
