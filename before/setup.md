@@ -25,8 +25,8 @@ e-mail if things don't work as described below.
 * Install XCode Command Line Tools
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
   * You will have to register.
-  * If you are running Mavericks, look for "Command Line Tools (OS X 10.9) for Xcode - Xcode ..."
   * If you are running Yosemite, look for "Command Line Tools (OS X 10.10) for Xcode - Xcode ..."
+  * If you are running El Capitan, look for "Command Line Tools (OS X 10.11) for Xcode - Xcode ..."
   * Download it, run it, and follow all the prompts.
 
 * Install Homebrew
