@@ -15,4 +15,7 @@ Here are the current
 Your MacBook MUST be running OS X Yosemite or El Capitan. Both are free
 upgrades from the App Store.
 
+Do not go with the new, skinny 12" MacBooks.  Their processor will be too
+sluggish in a year or two.
+
 There is no commercial software required for the class.
