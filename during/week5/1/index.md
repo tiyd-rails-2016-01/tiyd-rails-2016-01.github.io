@@ -87,6 +87,7 @@ Webapps that do processing on the server (and/or have a database):
 * [MDN](https://developer.mozilla.org/en-US/) results are the best.
 * [Google Trends](https://trends.google.com)
 * [Palette Tool](http://paletton.com/#uid=13P0u0kllll70vXeaqEswg1G0aI)
+* [Adobe Color](https://color.adobe.com)
 * [Meet the Ipsums](http://meettheipsums.com)
 * [Durham Ipsum](http://durhamipsum.com)
 

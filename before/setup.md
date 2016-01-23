@@ -25,8 +25,8 @@ e-mail if things don't work as described below.
 * Install XCode Command Line Tools
   * Go to the [Apple Developer Downloads site](https://developer.apple.com/downloads/).
   * You will have to register.
-  * If you are running Mavericks, look for "Command Line Tools (OS X 10.9) for Xcode - Xcode ..."
   * If you are running Yosemite, look for "Command Line Tools (OS X 10.10) for Xcode - Xcode ..."
+  * If you are running El Capitan, look for "Command Line Tools (OS X 10.11) for Xcode - Xcode ..."
   * Download it, run it, and follow all the prompts.
 
 * Install Homebrew
@@ -39,11 +39,11 @@ e-mail if things don't work as described below.
   * `brew install ruby-build rbenv`
   * `echo 'if which rbenv > /dev/null; then eval "$(rbenv init -)"; fi' >> ~/.bash_profile`
 
-* Install ruby 2.2.2
+* Install ruby 2.3.0
   * Close and reopen Terminal.
-  * `rbenv install 2.2.2`
+  * `rbenv install 2.3.0`
   * Go and get some coffee. That last one will take a while.
-  * `rbenv global 2.2.2`
+  * `rbenv global 2.3.0`
   * Close and reopen Terminal.
   * Run `which ruby`. If you see a path starting with `/usr/bin/`, get a TA or instructor to help you.
 

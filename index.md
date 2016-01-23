@@ -16,7 +16,7 @@ The remainder of this site gets down to brass tacks.  Here you'll find reference
 
 ### Before
 
-You'll need to complete all of these steps before January 17th.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
+You'll need to complete all of these steps before January 24th.  If you have ANY questions at all, please reach out to me at mason.matthews@theironyard.com.
 
 * [Get a Mac](/before/mac_specs.html)
 * [Set up your Mac](/before/setup.html)

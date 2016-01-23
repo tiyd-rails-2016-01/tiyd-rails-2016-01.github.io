@@ -44,6 +44,7 @@ layout: default
 * [Inventing on Principle](https://www.youtube.com/watch?v=PUv66718DII)
 * [Hiring Apprentices](https://push.cx/2015/hiring-apprentices)
 * [Coding is Not the New Literacy](http://www.chris-granger.com/2015/01/26/coding-is-not-the-new-literacy/)
+* [A Lever for the Mind](https://www.youtube.com/watch?v=tJkoHFjoMuk)
 
 #### Evening Reading
 

@@ -40,17 +40,3 @@ layout: default
 #### Assignment
 
 * Assignment: Complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
-
-#### Other things you might want to check out which we never got to
-
-* How do Macros (like `has_many`) work?
-  * [Video Tutorial](https://pragmaticstudio.com/blog/2015/4/14/ruby-macros)
-* Threads
-  * [Threads and GIL Breakdown](http://www.jstorimer.com/blogs/workingwithcode/8085491-nobody-understands-the-gil) - Follow the links!
-* Singleton methods (`def dog_object.hunt ... end`)
-  * Warning: there's actually no such thing as a Class method.
-  * `define_method()`
-* Simplecov (oops)
-* Versioning in a Database
-  * [StackOverflow description of some options](http://stackoverflow.com/questions/606031/generic-version-control-strategy-for-select-table-data-within-a-heavily-normalize)
-  * [Ugly page, but detailed descriptions](https://blog.jondh.me.uk/2011/11/relational-database-versioning-strategies/)
