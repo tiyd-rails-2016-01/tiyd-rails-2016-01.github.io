@@ -42,6 +42,7 @@ layout: default
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)
+* [5 Things I Didn't Know About Accessibility](http://www.scimedsolutions.com/articles/70-5-things-i-didn-t-know-about-web-accessibility)
 * [Administrate](https://github.com/thoughtbot/administrate)
 * [Tota11y](http://khan.github.io/tota11y/)
 
