@@ -34,6 +34,7 @@ layout: default
 * [The guy who loves AREL](http://www.youtube.com/watch?v=ShPAxNcLm3o)
 * [Porting Validations to PostgreSQL](http://shuber.io/porting-activerecord-validations-to-postgres/)
 * [The N+1 Query Problem](http://blog.diatomenterprises.com/remove-n1-queries-in-your-ruby-on-rails-app/?utm_source=rubyweekly&utm_medium=email)
+* [The Bulk Insert Problem](http://weblog.jamisbuck.org/2015/10/10/bulk-inserts-in-activerecord.html)
 * [The complete guide to Rails caching](http://www.nateberkopec.com/2015/07/15/the-complete-guide-to-rails-caching.html)
 * [Seeing your Database inside Rails](https://github.com/igorkasyanchuk/rails_db)
 * [An Exploration of Memory Usage](http://www.sitepoint.com/ruby-uses-memory/)
