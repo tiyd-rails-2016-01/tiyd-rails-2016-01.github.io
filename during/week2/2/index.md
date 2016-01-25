@@ -17,7 +17,7 @@ layout: default
 * Random topics
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
-  * Class variables - DON'T
+  * Class variables - [DON'T](http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/)
 * OO: `public` vs `private`
   * Example: Daisy is a Builder.  She has many steps she takes to build a house.
   * We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.

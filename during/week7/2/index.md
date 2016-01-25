@@ -9,6 +9,7 @@ layout: default
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
   * [12 Questions](12questions.pdf)
+  * Flipside: [What DHH looks for when hiring](https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58#.xl04lhyaw)
 * More JavaScript
   * Load order
   * `javascript:void(0)`

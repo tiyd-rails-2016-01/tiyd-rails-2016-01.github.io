@@ -20,6 +20,7 @@ layout: default
   * Web Addresses
   * The Parts of a URL
   * Parameters
+  * HTTP vs HTTPS (and Let's Encrypt)
 * What is an API?
   * Example: [Me at GitHub](https://api.github.com/users/masonfmatthews/events)
 * On the web, what sort of data do we get back from APIs?
@@ -69,6 +70,7 @@ layout: default
 #### Useful Links
 
 * [How DNS Works](https://howdns.works/)
+* [Let's Encrypt](https://letsencrypt.org/howitworks/)
 * [Stubbing, Mocking, and More](http://rubylogs.com/test-doubles-theory-minitest-rspec/)
 
 #### Evening Reading
