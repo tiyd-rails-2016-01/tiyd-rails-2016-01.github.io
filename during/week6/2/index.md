@@ -27,6 +27,7 @@ layout: default
 
 * [has_secure_password Documentation](http://api.rubyonrails.org/classes/ActiveModel/SecurePassword/ClassMethods.html)
 * [Why Minitest instead of Rspec](http://brandonhilkert.com/blog/7-reasons-why-im-sticking-with-minitest-and-fixtures-in-rails/)
+* [Tenderlove on Minitest and RSpec](http://tenderlovemaking.com/2015/01/23/my-experience-with-minitest-and-rspec.html)
 * [Character Encodings](http://www.joelonsoftware.com/articles/Unicode.html)
 
 #### Evening Reading

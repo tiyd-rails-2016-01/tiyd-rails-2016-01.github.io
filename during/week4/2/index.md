@@ -34,6 +34,7 @@ layout: default
 
 #### Useful Links
 
+* [The Rails Doctrine](http://rubyonrails.org/doctrine/)
 * [Rails Guides](http://guides.rubyonrails.org/index.html)
 
 #### Evening Reading

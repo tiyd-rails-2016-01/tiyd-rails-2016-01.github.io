@@ -15,7 +15,7 @@ One option is "more about Ruby."   There are a lot of references on the course w
 * Singleton methods (`def dog_object.hunt ... end`)
   * Warning: there's actually no such thing as a Class method.
   * `define_method()`
-* Simplecov (oops)
+* Simplecov (oops), but [consider this](http://www.linozemtseva.com/research/2014/icse/coverage/)
 * Versioning in a Database
   * [StackOverflow description of some options](http://stackoverflow.com/questions/606031/generic-version-control-strategy-for-select-table-data-within-a-heavily-normalize)
   * [Ugly page, but detailed descriptions](https://blog.jondh.me.uk/2011/11/relational-database-versioning-strategies/)
