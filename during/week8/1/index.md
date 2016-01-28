@@ -18,6 +18,7 @@ layout: default
 * Single-field search bar queries (ala Google)
 * AREL
 * Caching
+* DevOps - GUEST LECTURE: Chris Bailey
 
 #### Lecture Notes
 

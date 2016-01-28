@@ -20,6 +20,7 @@ layout: default
 * `form_for` vs `form_tag`
 * Resources
 * REST
+* Estimation - GUEST SPEAKER: Mary McKee
 
 #### Lecture Notes
 

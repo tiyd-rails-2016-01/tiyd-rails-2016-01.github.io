@@ -9,6 +9,7 @@ layout: default
 * Homework Review
 * Documentation of Issues
 * Assignment of Bugs/Improvements
+* Lunch Discussion - GUEST SPEAKER: SciMed Solutions
 
 #### Lecture Notes
 

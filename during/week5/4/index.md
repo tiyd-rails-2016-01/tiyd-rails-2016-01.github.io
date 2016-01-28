@@ -21,7 +21,7 @@ layout: default
   * GitFlow
   * Pull Requests
   * Code Review on Pull Requests
-* Heroku
+* Heroku - GUEST SPEAKER: Ryan Daigle
   * Set up account
   * Create new Heroku project
   * Move `sqlite3` gem to development and test
