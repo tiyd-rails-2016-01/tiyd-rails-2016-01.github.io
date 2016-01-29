@@ -36,7 +36,7 @@ layout: default
   * NoMethodError (`nil.reverse`)
   * ArgumentError
   * TypeError (`2+"1"`)
-* Git (ON BOARD)
+* Git (ON BOARD) - WITH FRONT END
   * Reason: keep different versions over time
   * Reason: backups
   * `git init`
