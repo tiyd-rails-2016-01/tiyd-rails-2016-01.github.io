@@ -1,17 +1,23 @@
-Open Bread
-Open all jars
-Until everyone who wants a sandwich has one
-  if student wants sandwich
-    JELLY = ask student for jelly preference
-    Take out two slices
-    Pick up knife
-    Pick up JELLY with knife
-    Spread JELLY on one slice of bread
-    Pick up pb with knife
-    Spread pb on other slice of bread
-    Put bread together
-    Give to student
-  else
-    Guilt trip student
+open bread
+open jars, put lids on table
+until everyone has a sandwich || !(bread left)
+  take out 2 slices
+  place on table side by side
+  pick up knife
+  insert knife in pb w/ hand on knife
+  put pb on knife
+  until satisfied
+    spread on right side
+    get more pb
   end
+  jam_type = get jam type from user
+  if jam_type == apricot
+    spread apricot
+  elsif jam_type is raspberry
+    spread raspberry
+  else
+    mock user
+  end
+  slam bread together
+  give to student
 end

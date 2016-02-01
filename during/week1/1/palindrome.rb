@@ -1,12 +1,35 @@
-#Takes user input and determines if it is a palindrome.
-counter = 0
-while counter < 5
-  puts "Enter word to check if it is a palindrome."
-  input = gets.chomp
-  if input.length < 2 || input.reverse == input
-    puts "Your word is palindrome."
+user_input = "anything"
+number_of_palindromes = 0
+number_of_words = 0
+until user_input == ""
+  puts "Please give me a word."
+  user_input = gets.chomp.downcase
+  if user_input == ""
+    puts "I am done."
+  elsif user_input == user_input.reverse
+    puts "It is a palindrome."
+    number_of_palindromes += 1
+    number_of_words += 1
   else
-    puts "Your word is not a palindrome."
+    puts "It is NOT a palindrome."
+    number_of_words += 1
   end
-  counter = counter + 1
 end
+
+puts "You have entered " + number_of_palindromes.to_s + " palindromes."
+puts "You have entered " + number_of_words.to_s + " words total."
+
+
+# keep_going = true
+# while keep_going
+#   puts "Please give me a word."
+#   user_input = gets.chomp.downcase
+#   if user_input == ""
+#     keep_going = false
+#     puts "I am done."
+#   elsif user_input == user_input.reverse
+#     puts "It is a palindrome."
+#   else
+#     puts "It is NOT a palindrome."
+#   end
+# end
