@@ -85,4 +85,4 @@ layout: default
 #### Assignment
 
 * Assignment: [User Input Statistics](https://github.com/tiyd-rails-2016-01/input_statistics)
-<!-- * Feedback: [User Input Statistics Feedback](feedback) -->
+* Feedback: [User Input Statistics Feedback](feedback)
