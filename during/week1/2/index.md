@@ -54,11 +54,11 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/Yewd2w41NZM)
+* [Example - HW Submission Using keep_going](keep_going.rb)
+* [Example - Arrays](arrays.rb)
+* [Example - Methods](methods.rb)
 * [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
-* [12 Days of Christmas Code](12days.rb)
--->
 
 #### Useful Links
 
