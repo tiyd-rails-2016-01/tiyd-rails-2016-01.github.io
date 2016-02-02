@@ -13,6 +13,9 @@ layout: default
   * SHORTCUT: `attr_accessor`
   * predicate methods `?`
   * bang methods `!`
+  * Dates
+    * [XKCD on Dates](https://xkcd.com/1179/)
+  * DateTimes
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
   * Begin in-class work on Vehicle exercise.

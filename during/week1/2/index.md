@@ -25,10 +25,6 @@ layout: default
   * How to store strings
   * `2.3+3.4` - Floating Point Errors
   * Decimal (later)
-* More on Data Types
-  * Dates
-    * [XKCD on Dates](https://xkcd.com/1179/)
-  * DateTimes
 * `rand`
 * Methods
   * Return values vs side effects (including `puts`)
@@ -50,12 +46,14 @@ layout: default
   * New repository on GitHub
   * `git push`
   * `git diff`
+  * `git log`
 * Editors (and pros and cons of the default vim)
 
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/Yewd2w41NZM)
-* [Example - HW Submission Using keep_going](keep_going.rb)
+* [Example - Normal HW Submission](keep_going.rb)
+* [Example - Nightmare HW Submission](nightmare.rb)
 * [Example - Arrays](arrays.rb)
 * [Example - Methods](methods.rb)
 * [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
