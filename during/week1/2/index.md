@@ -56,7 +56,8 @@ layout: default
 * [Example - Nightmare HW Submission](nightmare.rb)
 * [Example - Arrays](arrays.rb)
 * [Example - Methods](methods.rb)
-* [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/git.jpg?1442257420)
+* [Whiteboard - Git Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/002/original/git.JPG?1454444406)
+* [Whiteboard - Binary](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/001/original/binary.JPG?1454444344)
 
 #### Useful Links
 
