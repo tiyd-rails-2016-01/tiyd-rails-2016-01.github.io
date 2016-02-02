@@ -9,6 +9,7 @@ layout: default
 * Human Learning:
   * ON BOARD: Try before being taught
   * Ruby Rogues as a way to stay up to date.  Listenings starting tonight.
+* Looping a certain number of times.
 * Data Structures
   * Ranges
   * Arrays
@@ -22,9 +23,13 @@ layout: default
   * Binary
   * How to store integers
   * How to store strings
-  * Type conversions (`to_i`, `to_f`, etc)
   * `2.3+3.4` - Floating Point Errors
   * Decimal (later)
+* More on Data Types
+  * Dates
+    * [XKCD on Dates](https://xkcd.com/1179/)
+  * DateTimes
+* `rand`
 * Methods
   * Return values vs side effects (including `puts`)
   * Scope
@@ -46,7 +51,6 @@ layout: default
   * `git push`
   * `git diff`
 * Editors (and pros and cons of the default vim)
-* `rand`
 
 #### Lecture Notes
 

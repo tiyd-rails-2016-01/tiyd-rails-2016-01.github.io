@@ -48,10 +48,10 @@ layout: default
   * Strings
   * Integers
   * Floats
-  * `1/3`, `2/3`
-  * Dates
-    * [XKCD on Dates](https://xkcd.com/1179/)
-  * DateTimes
+  * Problem!: `1/3`, `2/3`
+  * Type conversions (`to_i`, `to_f`, etc)
+* Palindrome Problem
+  * Ask for 5 words.  Check to see if each is a palindrome.
 * Print/Get
   * `puts`
   * `gets`
