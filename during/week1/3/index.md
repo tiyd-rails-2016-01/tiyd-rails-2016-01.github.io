@@ -7,14 +7,16 @@ layout: default
 **Problem of the Day:** [Phone Numbers](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/phone_numbers)
 
 * Random Topics
-  * Methods which return versus methods which have side effects.  We only did side effects yesterday!
-  * predicate methods
+  * Methods which return versus methods which have side effects.
+  * `?` methods
+  * `!` methods
   * `if` commands on one line
-  * `return`
-  * Parentheses when calling or defining methods
+  * `return`... is optional.
+  * Parentheses when calling or defining methods... are optional.
   * Customizing your `PS1`
   * Flycut for copy history
   * Vertical select via Atom's Sublime-Style-Column-Selection package
+* `nil` and default values for parameters
 * Control Flow (in light of Number Guessing Game)
   * next (not lose a turn if you guess the same thing twice)
   * break (stop asking when the correct number is guessed)

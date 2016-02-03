@@ -14,7 +14,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - [Control Flow and Variables](week1/1)
 * T - [Methods and Arrays](week1/2)
-* W - Hashes and Nested Data Structures
+* W - [Hashes and Nested Data Structures](week1/3)
 * Th - Objects and Classes
 
 
