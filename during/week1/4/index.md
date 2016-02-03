@@ -47,7 +47,7 @@ layout: default
 <!-- NOT ATTR_READER -->
 
 #### Lecture Notes
-
+<!--
 * [Class Video]()
 * [phone.rb](phone.rb)
 * [person.rb](person.rb)
@@ -57,6 +57,7 @@ layout: default
 * [album.rb](album.rb)
 * [code.rb](artist_code.rb)
 * [All 3 Side-by-side](screenshot2.png)
+-->
 
 #### Useful Links
 
