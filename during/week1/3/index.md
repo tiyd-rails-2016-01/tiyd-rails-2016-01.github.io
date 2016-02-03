@@ -48,11 +48,11 @@ layout: default
 
 #### Lecture Notes
 
-<!--
 * [Class Video]()
 * [Whiteboard - Side Effects vs. Return Values](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/023/original/side_effects_return.jpg?1442259389)
-* [Contact Directory Code](contacts.rb)
--->
+* [Contact Directory Code - using Arrays](contacts.rb)
+* [Contact Directory Code - using Hashes](hashes.rb)
+* [Accessing Nested Data Structures](nested.rb)
 
 #### Useful Links
 
