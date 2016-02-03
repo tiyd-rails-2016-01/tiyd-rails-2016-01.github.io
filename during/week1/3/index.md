@@ -31,11 +31,6 @@ layout: default
   * Core library vs. Standard library
 * Attempt 3: Hash
   * Keep track of a phone number for each person
-* Interlude: How do we show something other than a blank when a person hasn't had a phone number entered?
-  * Use a ternary to output a nice "(Not Found)" string
-  * What is "truthy" and what is "falsey" in Ruby?
-  * What does `if` or `while` actually expect?
-  * What does an `||` call return? (`true || false`, `"Mason" || false`, etc)
 * Attempt 4: Hashes inside a Hash
   * Keep track of a phone number and an email address and a birthdate for each person
 * Attempt 5: Arrays inside Hashes
