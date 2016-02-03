@@ -16,6 +16,7 @@ layout: default
   * Customizing your `PS1`
   * Flycut for copy history
   * Vertical select via Atom's Sublime-Style-Column-Selection package
+  * Ruby Rogues as a way to stay up to date.  Listenings starting tonight.
 * `nil` and default values for parameters
 * Control Flow (in light of Number Guessing Game)
   * next (not lose a turn if you guess the same thing twice)

@@ -8,7 +8,6 @@ layout: default
 
 * Human Learning:
   * ON BOARD: Try before being taught
-  * Ruby Rogues as a way to stay up to date.  Listenings starting tonight.
 * Looping a certain number of times.
 * Data Structures
   * Ranges
