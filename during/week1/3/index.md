@@ -36,8 +36,6 @@ layout: default
 * Attempt 5: Arrays inside Hashes
   * Keep track of multiple email addresses for each person.
 * Git/GitHub Conventions
-  * Markdown
-  * Quality READMEs
   * Good commit messages
   * [XKCD on commit messages](http://xkcd.com/1296/)
 

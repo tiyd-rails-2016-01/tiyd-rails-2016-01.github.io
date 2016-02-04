@@ -5,10 +5,10 @@ class Person
   end
 
   def say_name
-    puts "My name is #{@name}!!"
+    puts "My name is #{@name}"
   end
 
-  def get_call
+  def receive_call
     @phone.ring
   end
 end

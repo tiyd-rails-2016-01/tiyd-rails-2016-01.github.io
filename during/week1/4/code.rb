@@ -1,8 +1,7 @@
 require './phone'
 require './person'
 
-iphone = Phone.new("Codec", 3)
-
-me = Person.new("Mason", iphone)
-
-me.get_call
+iphone = Phone.new("Apple", "iPhone 7", "Thriller")
+mason = Person.new("Mason", iphone)
+mason.say_name
+mason.receive_call
