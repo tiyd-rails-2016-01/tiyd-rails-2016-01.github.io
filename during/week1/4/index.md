@@ -61,6 +61,7 @@ Mini-lecture:
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/-ppSFDk5Dts)
+* [Friday Check-in Video](https://youtu.be/tgpruhCzCIc)
 * [phone.rb](phone.rb)
 * [person.rb](person.rb)
 * [code.rb](code.rb)
