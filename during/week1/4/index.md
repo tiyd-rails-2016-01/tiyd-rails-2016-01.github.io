@@ -10,7 +10,6 @@ layout: default
 * Two hardest problems in computer science
 * Note on methods: why didn't we call `random_number` every time through the loop in number_guessing?
 * Nuances of `if` and `||`
-  * Use a ternary to output a nice "(Not Found)" string
   * What is "truthy" and what is "falsey" in Ruby?
   * What does `if` or `while` actually expect?
   * What does an `||` call return? (`true || false`, `"Mason" || false`, etc)

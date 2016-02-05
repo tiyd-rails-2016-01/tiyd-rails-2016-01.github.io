@@ -56,6 +56,7 @@ layout: default
 
 * [Regular Expression Testing Site](http://www.rubular.com)
 * [RegexOne - a great regex tutorial](http://regexone.com/)
+* [RegexCrossword](https://regexcrossword.com/)
 * [Extreme Regex Tips for Ruby](http://idiosyncratic-ruby.com/11-regular-extremism.html)
 
 #### Evening Reading

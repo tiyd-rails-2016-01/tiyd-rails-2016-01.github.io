@@ -11,8 +11,7 @@ layout: default
 * Random Items
   * SHORTCUT: `attr_reader`
   * SHORTCUT: `attr_accessor`
-  * predicate methods `?`
-  * bang methods `!`
+  * SHORTCUT: ternary operator
   * Dates
     * [XKCD on Dates](https://xkcd.com/1179/)
   * DateTimes
