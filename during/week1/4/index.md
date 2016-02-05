@@ -66,6 +66,7 @@ Mini-lecture:
 * [code.rb](code.rb)
 * [All 3 Side-by-side](screenshot.png)
 * [Apple example](apple.rb) (how to write a `+` method)
+
 <!--
 * [artist.rb](artist.rb)
 * [album.rb](album.rb)
