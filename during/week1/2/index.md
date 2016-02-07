@@ -72,4 +72,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Number Guessing Game](https://github.com/tiyd-rails-2016-01/number_guessing)
-<!-- * Feedback: [Number Guessing Game Feedback](feedback) -->
+* Feedback: [Number Guessing Game Feedback](feedback)

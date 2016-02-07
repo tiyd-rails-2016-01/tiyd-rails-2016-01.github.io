@@ -63,4 +63,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Blackjack Advisor](https://github.com/tiyd-rails-2016-01/blackjack_advisor)
-<!-- * Feedback: [Blackjack Advisor Feedback](feedback) -->
+* Feedback: [Blackjack Advisor Feedback](feedback)
