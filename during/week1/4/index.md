@@ -7,7 +7,6 @@ layout: default
 **Problem of the Day:** [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists)
 
 * Check-in on Readings
-* Two hardest problems in computer science
 * Note on methods: why didn't we call `random_number` every time through the loop in number_guessing?
 * Nuances of `if` and `||`
   * What is "truthy" and what is "falsey" in Ruby?
@@ -56,7 +55,10 @@ Mini-lecture:
     * Limit to last year
     * Use Google to dig deeper into someone else's docs (e.g. `weather underground api sunrise`)
     * [XKCD on Old Forums](https://xkcd.com/979/)
-
+* Gems
+  * `gem list`
+  * `gem install`
+  * `byebug`
 
 #### Lecture Notes
 

@@ -12,9 +12,7 @@ layout: default
   * SHORTCUT: `attr_reader`
   * SHORTCUT: `attr_accessor`
   * SHORTCUT: ternary operator
-  * Dates
-    * [XKCD on Dates](https://xkcd.com/1179/)
-  * DateTimes
+  * Two hardest problems in computer science
 * Inheritance
   * Exploration: Start with Float object.  Explore superclasses and classes.
   * Begin in-class work on Vehicle exercise.
@@ -24,10 +22,6 @@ layout: default
   * Example code: divide by zero in a method
   * Raising exceptions yourself
   * Inventing exception classes
-* Gems
-  * `gem list`
-  * `gem install`
-  * `byebug`
 * Testing
   * Show tests for the Vehicle class. Use code already built.
   * Build out "12 Days of Christmas" for its test suite.
