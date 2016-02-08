@@ -30,16 +30,11 @@ layout: default
   * Reason: Sharing code with others
   * Forking
   * `git clone`
-  * `.gitignore` files
-  * GitHub collaborators
-  * `git pull`
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/9ExCJigDgUw)
 * [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/object_tree.jpg?1442259530)
--->
 
 #### Useful Links
 

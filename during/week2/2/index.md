@@ -13,10 +13,13 @@ layout: default
 * Agile Rituals
   * ON BOARD: Retrospectives
   * ON BOARD: Sprints/Iterations
-  * ON BOARD: Daily standups
+  * ON BOARD: Daily Standups
+* Classes
+  * Object tree redux
+  * Class methods
 * Random topics
+  * `''` vs `""`
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
-  * Ternary operator (e.g. `object.is_true? ? "Yes" : "No" `)
   * Class variables - [DON'T](http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/)
   * Code Smells
 * OO: `public` vs `private`
@@ -39,12 +42,18 @@ layout: default
 
 * Composition - has-a
   * Sometimes you don't want the class itself yo know how to do everything that is asked of it.  Instead, you want the class to be able to ask its components to answer questions for it.
+* Git
+  * `.gitignore` files
+  * GitHub collaborators
+  * `git pull`
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Composition Example from Class](car.rb)
 * [Module Example from Class](vehicle.rb)
+-->
 
 #### Useful Links
 
