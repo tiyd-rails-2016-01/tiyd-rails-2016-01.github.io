@@ -24,7 +24,7 @@ layout: default
   * Inventing exception classes
 * Testing
   * Show tests for the Vehicle class. Use code already built.
-  * Build out "12 Days of Christmas" for its test suite.
+  * Build out "12 Days of Christmas" for [its test suite](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/twelve_days_of_christmas).
   * Sliming
 * Git
   * Reason: Sharing code with others
