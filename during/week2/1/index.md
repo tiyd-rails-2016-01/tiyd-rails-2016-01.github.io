@@ -36,8 +36,10 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - Inheritance Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/object_tree.jpg?1442259530)
+-->
 
 #### Useful Links
 
