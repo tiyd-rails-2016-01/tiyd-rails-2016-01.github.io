@@ -85,4 +85,4 @@ Mini-lecture:
 #### Weekend Assignment
 
 * Assignment: [Currency Converter](https://github.com/tiyd-rails-2016-01/currency_converter)
-<!-- * Feedback: [Currency Converter Feedback](feedback) -->
+* Feedback: [Currency Converter Feedback](feedback)
