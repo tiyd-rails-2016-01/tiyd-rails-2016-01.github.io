@@ -49,11 +49,12 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/GNNAWEOF8-Q)
 * [Composition Example from Class](car.rb)
 * [Module Example from Class](vehicle.rb)
--->
+* [Namespacing Example from Class](bass.rb)
+* [Board: Object Tree](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/006/original/ob2.9.16_2.JPG?1455036941)
+* [Board: Agile](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/005/original/iterate2.9.16.JPG?1455036874)
 
 #### Useful Links
 
