@@ -21,7 +21,7 @@ These two links will be used for turning in assignments throughout the class.  K
 ### Week 2 - OOP and Testing
 
 * M - [Inheritance and Testing](week2/1)
-* T - Modules and Composition
+* T - [Modules and Composition](week2/2)
 * W - Regex and Enumerable
 * Th - Blocks and TDD
 
