@@ -46,7 +46,7 @@ layout: default
 
 * [Class Video](https://youtu.be/0vcfAMNFqhA)
 * [Whiteboard - Queue and Stack](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/007/original/queue2.10.16.JPG?1455120608)
-* [Whiteboard - Enumerable Methods and String Methods for using Regex]()
+* [Whiteboard - Enumerable Methods and String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/008/original/enumerable2.10.16.JPG?1455129352)
 * [The Enumerable Cheat Sheet](enumerable.rb)
 * [Monkey Patching the String Class (and using .map)](pig.rb)
 * [Problem of the Day Solution (using .select)](regex.rb)
