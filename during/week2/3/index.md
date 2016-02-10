@@ -44,13 +44,12 @@ layout: default
 
 #### Lecture Notes
 
-<!--
 * [Class Video]()
-* [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
-* [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
-* [Monkey Patching from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/pig_latin.rb)
-* [Regex in Ruby from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/clinton.rb)
--->
+* [Whiteboard - Queue and Stack](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/007/original/queue2.10.16.JPG?1455120608)
+* [Whiteboard - Enumerable Methods and String Methods for using Regex]()
+* [The Enumerable Cheat Sheet](enumerable.rb)
+* [Monkey Patching the String Class (and using .map)](pig.rb)
+* [Problem of the Day Solution (using .select)](regex.rb)
 
 #### Useful Links
 
