@@ -7,8 +7,6 @@ layout: default
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
 * Random topics
-  * Show how easy refactoring is with good tests.  Move arrays out to methods.
-  * Don't overdo it on instance variables
   * Keyword arguments
   * Monkey Patching: Change a string to add `.to_pig_latin`
   * Calling private methods with `.send()`
@@ -46,11 +44,13 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - Enumerable Methods](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/enumerable.jpg?1442259560)
 * [Whiteboard - String Methods for using Regex](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/028/original/regex.jpg?1442259628)
 * [Monkey Patching from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/pig_latin.rb)
 * [Regex in Ruby from Class](https://github.com/tiyd-rails-2016-01/battleship_day_one/blob/master/clinton.rb)
+-->
 
 #### Useful Links
 

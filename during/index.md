@@ -22,7 +22,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - [Inheritance and Testing](week2/1)
 * T - [Modules and Composition](week2/2)
-* W - Regex and Enumerable
+* W - [Regex and Enumerable](week2/3)
 * Th - Blocks and TDD
 
 
