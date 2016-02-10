@@ -44,7 +44,7 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/0vcfAMNFqhA)
 * [Whiteboard - Queue and Stack](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/007/original/queue2.10.16.JPG?1455120608)
 * [Whiteboard - Enumerable Methods and String Methods for using Regex]()
 * [The Enumerable Cheat Sheet](enumerable.rb)
