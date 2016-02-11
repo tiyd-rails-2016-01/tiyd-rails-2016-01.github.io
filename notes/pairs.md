@@ -1,4 +1,4 @@
-## Week 1 - Battleship
+## Week 2 - Battleship
 
 Jim    - Daniel L
 Marcia - Brian
@@ -8,3 +8,5 @@ Anjana - Steven
 Kevin  - Damian
 Joseph - Geoff
 Molly  - Jefferson
+
+## Week 3 - Legacy A & V

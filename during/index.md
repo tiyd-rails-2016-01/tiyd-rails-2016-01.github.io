@@ -23,7 +23,7 @@ These two links will be used for turning in assignments throughout the class.  K
 * M - [Inheritance and Testing](week2/1)
 * T - [Modules and Composition](week2/2)
 * W - [Regex and Enumerable](week2/3)
-* Th - Blocks and TDD
+* Th - [Blocks and TDD](week2/4)
 
 
 ### Week 3 - Databases and Rails Models

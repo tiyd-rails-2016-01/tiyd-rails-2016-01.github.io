@@ -22,6 +22,9 @@ layout: default
   * You can return objects when true/false is expected (e.g. `ship.fire_at(x, y)`)
   * Class variables - [DON'T](http://blog.honeybadger.io/lexical-scoping-and-ruby-class-variables/)
   * Code Smells
+  * DateTimes
+  * Dates
+    * [XKCD on Dates](https://xkcd.com/1179/)
 * OO: `public` vs `private`
   * Example: Daisy is a Builder.  She has many steps she takes to build a house.
   * We don't want to micromanage her and tell her HOW to build the house; we just want to tell her to build it and let her figure out the details.
