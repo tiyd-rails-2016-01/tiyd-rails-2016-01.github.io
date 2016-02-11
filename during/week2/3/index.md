@@ -7,7 +7,6 @@ layout: default
 **Problem of the Day:** [Find Names](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/find_names)
 
 * Random topics
-  * Keyword arguments
   * Monkey Patching: Change a string to add `.to_pig_latin`
   * Calling private methods with `.send()`
   * Arrays as stacks and queues (`.push(thing)`, `.pop`, `.unshift(thing)`, `.shift`)

@@ -6,6 +6,8 @@ layout: default
 
 **Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
+* Random topics
+  * Keyword arguments
 * Blocks/Procs/Lambdas/Methods
   * Methods as objects
     * `m = method(:my_method)`
