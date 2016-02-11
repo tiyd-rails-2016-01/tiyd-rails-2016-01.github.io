@@ -4,7 +4,7 @@ layout: default
 
 ## Wk2 - Thursday - Blocks and TDD
 
-**Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
+**Optional Problem of the Day:** [OddArray](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/odd_array_with_tdd)
 
 * Random topics
   * Keyword arguments
@@ -37,11 +37,11 @@ layout: default
 
 #### Lecture Notes/Links
 
-* [Class Video]()
-* [Whiteboard - Feedback Loops and TDD](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/029/original/agile_tdd.jpg?1442259694)
-* [Enumerable Method Code from Class](enumberable_methods.rb)
-* [OddArray](odd_array.rb)
-* [OddArrayTest](odd_array_test.rb)
+* [Class Video](https://youtu.be/UwJE42GkQFw)
+* [Whiteboard]()
+* [Albums and Artists TDD Repo](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd.git)
+* [Keyword Arguments Example](keyword_arguments.rb)
+* [Enumerable Method Code from Class](enumerable_methods.rb)
 
 #### Useful Links
 
