@@ -65,5 +65,5 @@ layout: default
 
 * Assignment: Complete [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get all tests to pass.
 * Starting Point: [Battleship Day 3](https://github.com/tiyd-rails-2016-01/battleship_day_3)
-<!-- * Feedback: [Battleship Day 3 Feedback](feedback)
-* Final Solution: [Battleship Solution](https://github.com/tiyd-rails-2016-01/battleship_solution)-->
+* Feedback: [Battleship Day 3 Feedback](feedback)
+* Final Solution: [Battleship Solution](https://github.com/tiyd-rails-2016-01/battleship_solution)
