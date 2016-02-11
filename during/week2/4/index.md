@@ -25,11 +25,12 @@ layout: default
     * Procs with their own scope on the call stack
     * `return` is limited to returning from just the lambda, not the method calling the lambda.
 * TDD
-  * Four steps:
+  * Five steps:
     * Write a test which tests one (isolated) new behavior
     * Make sure your new test fails
     * Write code to make your test pass
     * Refactor while keeping all tests passing
+    * Commit
   * Run through example TDD with ye olde [Albums and Artists](https://github.com/masonfmatthews/rails_assignments/tree/master/exercises/albums_and_artists).
   * `assert_in_delta`
   * Expect tests to run randomly (third class method [here](http://ruby-doc.org/stdlib-1.9.3/libdoc/minitest/unit/rdoc/MiniTest/Unit/TestCase.html))
@@ -38,7 +39,7 @@ layout: default
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/UwJE42GkQFw)
-* [Whiteboard]()
+* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/009/original/2.11.16_block.JPG?1455216516)
 * [Albums and Artists TDD Repo](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd.git)
 * [Keyword Arguments Example](keyword_arguments.rb)
 * [Enumerable Method Code from Class](enumerable_methods.rb)
