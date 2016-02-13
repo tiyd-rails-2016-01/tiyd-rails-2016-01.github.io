@@ -36,9 +36,11 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - Testing Reasons](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/030/original/test_pros_cons.jpg?1442259979)
 * [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
+-->
 
 #### Useful Links
 
