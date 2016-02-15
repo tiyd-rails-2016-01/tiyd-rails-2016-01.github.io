@@ -27,24 +27,18 @@ layout: default
   * How Semantic versioning fits in with `public`/`private`
 * Migrations
   * Data types
-  * `_on` fields
-  * `_at` fields
-  * `t.timestamps`
-  * `t.decimal :amount, precision: 5, scale: 2`
-  * Mention `add_column`, etc
-* SQLite Browser
 
 #### Lecture Notes
 
-<!--
 * [Class Video]()
-* [Whiteboard - Testing Reasons](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/030/original/test_pros_cons.jpg?1442259979)
+* [File Reading/Writing](files.rb)
+* [CSV Reading](csv_files.rb)
 * [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
--->
+* [Migration File](basic_migration.rb)
+* [Semantic Versioning Descriptions](versioning.txt)
 
 #### Useful Links
 
-* [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/)
 * Extra Database Exercise: [Albums and Artists in a Database](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/albums_and_artists_in_db)
 
 #### Evening Reading

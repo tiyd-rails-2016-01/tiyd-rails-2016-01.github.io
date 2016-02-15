@@ -8,9 +8,13 @@ layout: default
 
 **Problem of the Day:** [Phone Numbers SQL](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_sql)
 
-* Random Topics
-  * Migrations
-  * SQL Query Browser
+* Migrations
+  * `_on` fields
+  * `_at` fields
+  * `t.timestamps`
+  * `t.decimal :amount, precision: 5, scale: 2`
+  * Mention `add_column`, etc
+  * SQLite Browser
   * Migrating up twice
   * `.gitignore` and database files
   * `t.timestamps`
@@ -39,10 +43,10 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [Whiteboard - SQL, Joins, Developer Spectrum](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/031/original/sql_commands.jpg?1442341280)
 
 #### Useful Links
 
+* [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser/releases/)
 * [Try SQL](https://www.codeschool.com/courses/try-sql)
 * [SQL Teaching](https://www.sqlteaching.com/)
 * [SQL Primer](https://github.com/tiy-austin-ror/primers/blob/master/sql-primer.md)

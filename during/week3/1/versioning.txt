@@ -1,0 +1,22 @@
+Semantic Versioning
+
+major.minor.micro
+
+1.0.0 - First stable release.
+
+1.0.1 - Fixed bugs.  Didn't add new features.  Your code which uses it will still work.
+
+1.1.0 - Added new features. Method X still works the same way, but it might have a new method Y.
+
+2.0.0 - Probably broke existing features. You called method X, it might not work the same way now, have the same parameters, return the same values, etc.
+
+EXCEPT PRIVATE Methods - if you call them with .send(), all bets are off.  Any change could break your code.  DON'T DO IT.
+
+
+Gemfiles
+
+'1.2.3' if you want to lock in a specific version.
+
+'>= 1.2.3' if you want at least 1.2.3, but are okay with upgrades.
+
+'~> 1.2.3' if you want at least 1.2.3, but are okay with 1.2.4, 1.2.5, etc, but not 1.3.0.
