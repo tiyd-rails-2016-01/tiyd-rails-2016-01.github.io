@@ -30,10 +30,10 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/gfyHPL-xw8o)
 * [File Reading/Writing](files.rb)
 * [CSV Reading](csv_files.rb)
-* [Address Book Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/1kM4Lk0eyoQg-v3K2DBmT8nOyC1Rf4EfFhRvcaLAP7Pw/edit?usp=sharing)
+* [Our First Data Structure in Google Spreadsheet](https://docs.google.com/spreadsheets/d/15YEXWbhj7H0aOQATmI4wyqG4RDUkFaguHVSPqq2yHbg/edit?usp=sharing)
 * [Migration File](basic_migration.rb)
 * [Semantic Versioning Descriptions](versioning.txt)
 
