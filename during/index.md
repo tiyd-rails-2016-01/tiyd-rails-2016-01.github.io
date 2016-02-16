@@ -29,7 +29,7 @@ These two links will be used for turning in assignments throughout the class.  K
 ### Week 3 - Databases and Rails Models
 
 * M - [Database Design and Migrations](week3/1)
-* T - SQL
+* T - [SQL](week3/2)
 * W - ActiveRecord and Unit Testing
 * Th - Associations and Validations
 
