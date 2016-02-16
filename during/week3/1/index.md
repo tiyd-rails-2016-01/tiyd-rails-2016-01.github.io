@@ -49,4 +49,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Time Entry Data Structure](https://github.com/tiyd-rails-2016-01/time_entry_data_structure)
-<!-- * Feedback: [Time Entry Data Structure Feedback](feedback) -->
+* Feedback: [Time Entry Data Structure Feedback](feedback)

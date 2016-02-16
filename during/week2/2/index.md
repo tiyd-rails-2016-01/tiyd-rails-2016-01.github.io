@@ -72,4 +72,4 @@ layout: default
 
 * Assignment: Continue [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get tests 19-31 to pass.
 * Starting Point: [Battleship Day 2](https://github.com/tiyd-rails-2016-01/battleship_day_2)
-<!-- * Feedback: [Battleship Day 2 Feedback](feedback) -->
+* Feedback: [Battleship Day 2 Feedback](feedback)

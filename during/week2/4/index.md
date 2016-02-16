@@ -53,4 +53,4 @@ layout: default
 #### Weekend Assignment
 
 * Assignment: [Employee Reviews](https://github.com/tiyd-rails-2016-01/employee_reviews)
-<!-- * Feedback: [User Input Statistics Feedback](feedback) -->
+* Feedback: [User Input Statistics Feedback](feedback)

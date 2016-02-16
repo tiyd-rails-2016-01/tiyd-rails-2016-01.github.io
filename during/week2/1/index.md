@@ -49,4 +49,4 @@ layout: default
 #### Assignment - IN PAIRS
 
 * Assignment: Begin [Battleship](https://github.com/tiyd-rails-2016-01/battleship).  Get tests 01-18 to pass.
-<!-- * Feedback: [Battleship Day 1 Feedback](feedback) -->
+* Feedback: [Battleship Day 1 Feedback](feedback)
