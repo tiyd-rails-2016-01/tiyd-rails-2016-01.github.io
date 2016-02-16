@@ -4,7 +4,7 @@ layout: default
 
 ## Wk3 - Wednesday - ActiveRecord and Unit Testing
 
-**Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring that code up and use it!)
+**Challenge:** [Arrays and Hashes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/array_and_hash_challenge.rb) (this builds on yesterday's challenge, so bring this code up and use it: [Yesterday's Solution](../2/challenge.rb))
 
 **Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 

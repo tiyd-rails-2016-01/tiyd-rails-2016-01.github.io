@@ -42,7 +42,10 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://youtu.be/LykwRq91izo)
+* [Challenge Solution](challenge.rb)
+* [Working Migration Example](migration.rb)
+* [Uber-migration Example](uber.rb)
 
 #### Useful Links
 
