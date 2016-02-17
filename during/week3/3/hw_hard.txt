@@ -1,0 +1,54 @@
+# Find all developers with at least five comments.
+
+select developers.*
+from developers
+  left join comments
+  on developers.id = comments.developer_id
+group by comments.developer_id
+having count(comments.developer_id) >= 5
+
+
+# Find the developer who worked the fewest hours in January of 2015.
+
+select developers.*, sum(time_entries.duration) as hours
+from developers
+  join time_entries
+  on time_entries.developer_id = developers.id
+where time_entries.worked_on >= '2015-01-01' and time_entries.worked_on < '2015-02-01'
+group by developers.id
+order by hours
+limit 1
+
+
+# Find all time entries which were created by developers who were not assigned to that time entry's project.
+
+select *
+from time_entries as t
+  left join project_assignments as pa
+  on t.project_id = pa.project_id and t.developer_id = pa.developer_id
+where pa.id is null;
+
+
+
+# Find all developers with no time put towards at least one of their assigned projects.
+
+select developers.*
+from developers
+  join project_assignments
+  on developers.id = project_assignments.developer_id
+  left join time_entries
+  on project_assignments.developer_id = time_entries.developer_id and project_assignments.project_id = time_entries.project_id
+where time_entries.id is null
+group by developers.id
+
+
+# Find all pairs of developers who are in two or more different groups together.
+
+select d1.name, d2.name
+from developers as d1
+  join group_assignments as g1 on d1.id = g1.developer_id
+  join group_assignments as g2 on g1.group_id = g2.group_id
+  join developers as d2 on g2.developer_id = d2.id
+where d1.id < d2.id
+group by d1.id, d2.id
+having count(*) > 1
