@@ -15,6 +15,13 @@ layout: default
     * SQL versus Ruby solutions to the Medium HW problems
     * Execute some of the code 100,000 times with different numbers of records and analyze the results
   * [XKCD on SQL Injection](https://xkcd.com/327/)
+* Agile Principles
+  * Immerse yourself in the culture.
+  * Read some every day.
+  * Ruby Rogues and Ruby Weekly.
+  * Dissecting a book vs drinking from a fire hydrant.
+  * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object.
+  * ON BOARD: Balance hammmer-user and shiny-object.
 * Validations
   * Example: [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/unused/exercises/employee_and_department_validations)
   * `.save!`

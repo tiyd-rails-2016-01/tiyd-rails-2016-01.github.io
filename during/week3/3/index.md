@@ -9,12 +9,6 @@ layout: default
 **Problem of the Day:** [Phone Numbers Active Record](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/phone_numbers_active_record)
 
 * Agile Principles
-  * Immerse yourself in the culture.
-  * Read some every day.
-  * Ruby Rogues and Ruby Weekly.
-  * Dissecting a book vs drinking from a fire hydrant.
-  * DIAGRAM: Developer spectrum.  Hammer-user all the way to shiny-object.
-  * ON BOARD: Balance hammmer-user and shiny-object.
   * ON BOARD: All code becomes legacy code.
   * Arguably, worked on some last night.
   * Definitely working on some this weekend.
@@ -41,11 +35,12 @@ layout: default
 
 #### Lecture Notes/Links
 
-<!--
-* [Class Video]()
-* [Whiteboard - ActiveRecord's Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/032/original/db_migrations.jpg?1442425662)
-* [In-class ActiveRecord code](https://github.com/tiyd-rails-2016-01/first_active_record)
--->
+* [Class Video - Part 1](https://youtu.be/FuKoXIkceic)
+* [Class Video - Part 2](https://youtu.be/DFe7VC-aL10)
+* [Class Video - Part 3]()
+* [Whiteboard - ActiveRecord's Commands]()
+* [In-class ActiveRecord Code](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/blob/master/code.rb)
+* [Entire Albums and Artists Repository](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/)
 
 #### Useful Links
 
