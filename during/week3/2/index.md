@@ -47,6 +47,8 @@ layout: default
 * [Challenge Solution](challenge.rb)
 * [Working Migration Example](migration.rb)
 * [Uber-migration Example](uber.rb)
+* [Self-Referential Join Example](https://docs.google.com/spreadsheets/d/16eqJ7gG3oP8RLR9FIn7xW-AQ_5-jI3qFyDYjciIxPtA/edit?usp=sharing)
+* [Spreadsheet with Examples of All Join Types](https://docs.google.com/spreadsheets/d/11qwbPF-6zPe5dpKyEL9oidJN1rpyA4SrK51dNEzxIl8/edit?usp=sharing)
 * [Whiteboard - Data Types](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/011/original/2.16.16_migration.JPG?1455650869)
 * [Whiteboard - SQL Clauses](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/010/original/2.16.16_sql.JPG?1455649428)
 
