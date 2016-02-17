@@ -30,7 +30,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - [Database Design and Migrations](week3/1)
 * T - [SQL](week3/2)
-* W - ActiveRecord and Unit Testing
+* W - [ActiveRecord and Unit Testing](week3/3)
 * Th - Associations and Validations
 
 
