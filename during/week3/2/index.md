@@ -43,9 +43,12 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/LykwRq91izo)
+* [Mini-lecture Video](https://www.youtube.com/watch?v=M5nenM4kE50)
 * [Challenge Solution](challenge.rb)
 * [Working Migration Example](migration.rb)
 * [Uber-migration Example](uber.rb)
+* [Whiteboard - Data Types](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/011/original/2.16.16_migration.JPG?1455650869)
+* [Whiteboard - SQL Clauses](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/010/original/2.16.16_sql.JPG?1455649428)
 
 #### Useful Links
 
