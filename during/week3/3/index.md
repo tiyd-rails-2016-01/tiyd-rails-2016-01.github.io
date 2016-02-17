@@ -41,9 +41,11 @@ layout: default
 
 #### Lecture Notes/Links
 
+<!--
 * [Class Video]()
 * [Whiteboard - ActiveRecord's Commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/032/original/db_migrations.jpg?1442425662)
 * [In-class ActiveRecord code](https://github.com/tiyd-rails-2016-01/first_active_record)
+-->
 
 #### Useful Links
 
