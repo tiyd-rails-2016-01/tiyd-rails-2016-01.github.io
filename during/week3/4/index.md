@@ -28,8 +28,6 @@ layout: default
   * `.create!`
   * `.update!`
 * Associations
-  * Calling methods inside a class definition
-  * Macros are just methods being called in definitions
   * `dependent: :destroy` and `dependent: :restrict_with_exception`
   * Associations with non-standard foreign_keys
   * `has_many :through` (add `companies` table)
@@ -48,11 +46,13 @@ layout: default
 
 #### Lecture Notes/Links
 
+<!--
 * [Class Video]()
 * [Mini-lecture Video]()
-* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2016-01/database_solution)
+* [Solution from Prior Night's HW](https://github.com/tiyd-rails-2015-08/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/033/original/active_record.jpg?1442541734)
 * [Whiteboard - Git Branching](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/034/original/git_branch.jpg?1442541750)
+-->
 
 #### Useful Links
 
