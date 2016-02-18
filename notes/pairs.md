@@ -10,3 +10,11 @@ Joseph - Geoff
 Molly  - Jefferson
 
 ## Week 3 - Legacy A & V
+
+Molly  - Daniel B
+Brian  - Anjana
+Steven - Daniel L
+Jim    - Joseph
+Marcia - Kate
+Geoff  - Jefferson
+Hugh   - Kevin

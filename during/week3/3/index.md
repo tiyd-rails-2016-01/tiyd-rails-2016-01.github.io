@@ -62,4 +62,5 @@ layout: default
 
 * Assignment: [Employee Reviews with DB](https://github.com/tiyd-rails-2016-01/employee_reviews_with_db)
 * Starting Point: [Weekend Solution](https://github.com/tiyd-rails-2016-01/employee_reviews_solution)
-<!-- * Feedback: [Employee Reviews with DB Feedback](feedback) -->
+* Feedback: [Employee Reviews with DB Feedback](feedback)
+* [Some Medium Mode Answers](medium.rb)
