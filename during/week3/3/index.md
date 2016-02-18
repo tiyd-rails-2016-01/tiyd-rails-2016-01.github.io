@@ -42,8 +42,7 @@ layout: default
 * [Partial Challenge Solution](challenge.rb)
 * [In-class ActiveRecord Code](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/blob/master/development_code.rb)
 * [Entire Albums and Artists Repository](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/)
-* [Whiteboard - ActiveRecord's Commands]()
-* [Whiteboard - ]()
+* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/012/original/2.17.16_path.JPG?1455804610)
 
 #### Useful Links
 
