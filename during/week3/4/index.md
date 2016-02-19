@@ -47,8 +47,10 @@ layout: default
 #### Lecture Notes/Links
 
 * [Class Video](https://youtu.be/AzCBvUBEcow)
+* [Friday Mini-lecture Video](https://youtu.be/WU7kVrieisk)
 * [Solution from Prior Night's HW, built in class](https://github.com/tiyd-rails-2015-08/database_solution)
 * [Whiteboard - ActiveRecord commands](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/013/original/2.17.16_ruby_sql.JPG?1455804640)
+* [Whiteboard - Memory, HDD, and Jerkface](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/014/original/2.18.16_jerkface.JPG?1455900304)
 
 #### Useful Links
 
