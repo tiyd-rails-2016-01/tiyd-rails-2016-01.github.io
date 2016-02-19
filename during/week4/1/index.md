@@ -8,6 +8,11 @@ layout: default
 
 **Problem of the Day:** [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 
+
+* Efficiency
+  * SQL versus Ruby solutions to the Medium HW problems from last Wednesday night
+  * Execute some of the code 100,000 times with different numbers of records and analyze the results
+  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Human Learning:
   * Scarring with age/experience
   * Good scarring example: Saving hardest things for last sucks

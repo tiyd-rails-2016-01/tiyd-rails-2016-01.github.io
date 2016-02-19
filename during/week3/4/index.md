@@ -11,10 +11,6 @@ layout: default
 * Random Topics
   * Definitely don't commit `.sqlite3` files.
   * Two variables referring to the same record can get out of sync.
-  * Efficiency
-    * SQL versus Ruby solutions to the Medium HW problems
-    * Execute some of the code 100,000 times with different numbers of records and analyze the results
-  * [XKCD on SQL Injection](https://xkcd.com/327/)
 * Agile Principles
   * Immerse yourself in the culture.
   * Read some every day.
