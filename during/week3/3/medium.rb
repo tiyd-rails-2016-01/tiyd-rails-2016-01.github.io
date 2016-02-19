@@ -11,4 +11,8 @@ class Employee
     # all.select {|e| e.salary > avg}
     where("salary > #{avg}")
   end
+
+  def self.rich_employees
+    where("salary > ?", sum(:salary)/count)
+  end
 end
