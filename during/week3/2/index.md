@@ -72,4 +72,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Time Entry SQL Practice](https://github.com/tiyd-rails-2016-01/time_entry_sql_practice)
-<!-- * Feedback: [Time Entry SQL Practice Feedback](feedback) -->
+* [Hard Mode Solutions](hw_hard.txt)

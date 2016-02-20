@@ -38,7 +38,6 @@ layout: default
 * [Class Video - Part 1](https://youtu.be/FuKoXIkceic)
 * [Class Video - Part 2](https://youtu.be/DFe7VC-aL10)
 * [Class Video - Part 3](https://youtu.be/qHhWNo6dpas)
-* [HW Review Hard Mode Solutions](hw_hard.txt)
 * [Partial Challenge Solution](challenge.rb)
 * [In-class ActiveRecord Code](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/blob/master/development_code.rb)
 * [Entire Albums and Artists Repository](https://github.com/tiyd-rails-2016-01/albums_and_artists_with_tdd/)
