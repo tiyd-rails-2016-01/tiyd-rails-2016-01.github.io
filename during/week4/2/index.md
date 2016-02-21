@@ -8,6 +8,15 @@ layout: default
 
 **Problem of the Day:** [Folder Structure](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/folder_structure)
 
+* Human Learning:
+  * Scarring with age/experience
+  * Good scarring example: Saving hardest things for last sucks
+  * Bad scarring example: Given one bad experience, some people assume that Millenials are all lazy.
+  * Bad scarring example: Taking risks on products costs too much money.
+  * DIAGRAM: Topological map of scarring
+  * ON BOARD: Be aware of your scarring
+  * [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
+
 * Example: Begin work on yesterday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
 * The Web
   * IP addresses
@@ -39,6 +48,7 @@ layout: default
 
 #### Evening Reading
 
+* Reflection Reading: [Why Learning Code is Hard](http://www.vikingcodeschool.com/posts/why-learning-to-code-is-so-damn-hard)
 * Preview Reading: [Building API Basics](http://www.theodinproject.com/ruby-on-rails/apis-and-building-your-own)
 * Preview Reading: [Token Generation](http://ruby-doc.org/stdlib-1.9.3/libdoc/securerandom/rdoc/SecureRandom.html)
 

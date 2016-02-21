@@ -4,8 +4,6 @@ layout: default
 
 ## Wk3 - Thursday - Associations and Validations
 
-**Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
-
 **Problem of the Day:** [Employee and Department Validations](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_validations)
 
 * Random Topics
@@ -65,4 +63,4 @@ layout: default
 #### Weekend Assignment - IN PAIRS
 
 * Assignment: [Legacy Associations and Validations](https://github.com/tiyd-rails-2016-01/legacy_associations_and_validations)
-<!-- * Feedback: [Legacy Associations and Validations Feedback](feedback) -->
+* Feedback: [Legacy Associations and Validations Feedback](feedback)
