@@ -66,7 +66,7 @@ layout: default
 * [Mini-lecture Video](https://youtu.be/FXqEixZJN1k)
 * [Deparment and Employee with the Ruby Way vs the SQL Way](https://github.com/tiyd-rails-2016-01/employee_reviews_solution.git)
 * [Example Code from Class](api_call.rb)
-* [Whiteboard - The Internet and The Web]()
+* [Whiteboard - The Internet and The Web](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/015/original/2.22.16_internet.JPG?1456177560)
 
 #### Useful Links
 
