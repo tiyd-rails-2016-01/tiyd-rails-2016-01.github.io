@@ -62,9 +62,10 @@ layout: default
 
 #### Lecture Notes
 
-<!-- * [Class Video]()
-* [Example Code from Class](https://github.com/tiyd-rails-2016-01/example_api_call)
-* [Whiteboard - URLs and Formats](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/035/original/web_address.jpg?1442858121) -->
+* [Class Video]()
+* [Deparment and Employee with the Ruby Way vs the SQL Way](https://github.com/tiyd-rails-2016-01/employee_reviews_solution.git)
+* [Example Code from Class](api_call.rb)
+* [Whiteboard]()
 
 #### Useful Links
 
