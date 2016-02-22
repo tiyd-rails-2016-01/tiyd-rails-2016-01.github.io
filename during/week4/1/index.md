@@ -62,10 +62,11 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
+* [Class Video](https://www.youtube.com/watch?v=sWXuocHcYiY)
+* [Mini-lecture Video](https://youtu.be/FXqEixZJN1k)
 * [Deparment and Employee with the Ruby Way vs the SQL Way](https://github.com/tiyd-rails-2016-01/employee_reviews_solution.git)
 * [Example Code from Class](api_call.rb)
-* [Whiteboard]()
+* [Whiteboard - The Internet and The Web]()
 
 #### Useful Links
 
