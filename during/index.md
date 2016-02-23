@@ -37,7 +37,7 @@ These two links will be used for turning in assignments throughout the class.  K
 ### Week 4 - APIs and Rails Controllers
 
 * M - [The Web and APIs](week4/1)
-* T - Rails and HTML Verbs
+* T - [Rails and The Web](week4/2)
 * W - The Router and Controllers
 * Th - jBuilder
 

@@ -82,4 +82,4 @@ layout: default
 ## Assignment
 
 * Assignment: [Weather Report](https://github.com/tiyd-rails-2016-01/weather_report)
-<!-- * Feedback: [Weather Report Feedback](feedback) -->
+* Feedback: [Weather Report Feedback](feedback)
