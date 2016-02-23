@@ -37,8 +37,10 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
-* [Whiteboard - MVC](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/036/original/rails_mvc.jpg?1442942971)
+* [Class Video](https://youtu.be/L7x1560Iqp0)
+* [Solid Solution to the HW](https://github.com/anjanamohanty/weather_report.git)
+* [Solid Solution to the Challenge](odd_array.rb)
+* [Whiteboard - MVC]()
 * [Our First Rails Project!!](https://github.com/tiyd-rails-2016-01/first_rails_app)
 
 #### Useful Links
