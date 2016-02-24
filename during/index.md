@@ -38,7 +38,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - [The Web and APIs](week4/1)
 * T - [Rails and The Web](week4/2)
-* W - The Router and Controllers
+* W - [The Router and Controllers](week4/3)
 * Th - jBuilder
 
 

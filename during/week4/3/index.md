@@ -29,9 +29,12 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2016-01/first_rails_app)
+-->
+
 * [Things to Test](things_to_test)
 
 #### Useful Links
@@ -49,5 +52,7 @@ layout: default
   * After you're done, reflect on your estimate from last night.
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
+
+<!--
 * Starting Point: [Voting API Day 2](https://github.com/tiyd-rails-2016-01/voting_api_day_2)
-<!-- * Feedback: [Voting API Day 2 Feedback](feedback) -->
+* Feedback: [Voting API Day 2 Feedback](feedback) -->
