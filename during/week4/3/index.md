@@ -32,7 +32,7 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/H5GxnZ_hwbs)
-* [Whiteboard - HTTP Verbs]()
+* [Whiteboard - HTTP Verbs](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/017/original/2.24.16_idempotent.JPG?1456342077)
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2016-01/first_rails_app)
 
 #### Useful Links
