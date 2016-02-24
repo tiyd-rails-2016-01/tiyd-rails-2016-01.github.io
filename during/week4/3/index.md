@@ -14,7 +14,8 @@ layout: default
   * `rake db:rollback`
   * `rake db:drop`
   * Explore Rails' Gemfile
-* Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
+  * Explore Rails' .gitignore
+* Example: Continue work on yesterday's first rails app.
 * `respond_to` in the controller
 * HTML Verbs
   * GET (google.com)
