@@ -16,7 +16,6 @@ layout: default
   * Explore Rails' Gemfile
   * Explore Rails' .gitignore
 * Example: Continue work on yesterday's first rails app.
-* `respond_to` in the controller
 * HTML Verbs
   * GET (google.com)
   * POST (coursyl.com)
@@ -25,18 +24,16 @@ layout: default
 * Postman
 * The Router
   * `config/routes.rb`
-* Controllers
+  * `root`
+* Fixtures
+* Tokens and SecureRandom
 * Controller Testing
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Whiteboard - HTTP Verbs... and more!](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/037/original/web_verbs.jpg?1443031466)
+* [Class Video](https://youtu.be/H5GxnZ_hwbs)
+* [Whiteboard - HTTP Verbs]()
 * [Our First Rails Project, Day 2](https://github.com/tiyd-rails-2016-01/first_rails_app)
--->
-
-* [Things to Test](things_to_test)
 
 #### Useful Links
 
@@ -55,5 +52,4 @@ layout: default
   * Document your number of hours worked at the end.
 
 <!--
-* Starting Point: [Voting API Day 2](https://github.com/tiyd-rails-2016-01/voting_api_day_2)
 * Feedback: [Voting API Day 2 Feedback](feedback) -->

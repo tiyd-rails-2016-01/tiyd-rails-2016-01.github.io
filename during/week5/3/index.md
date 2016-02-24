@@ -27,6 +27,7 @@ layout: default
 * [Class Video]()
 * [Whiteboard - Retrospective and Gitflow](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/041/original/git_branch_2.jpg?1443636497)
 * [Whiteboard - Rails' Flavor of REST](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/042/original/REST.jpg?1443636537)
+* [Things to Test](../../things_to_test)
 
 #### Useful Links
 

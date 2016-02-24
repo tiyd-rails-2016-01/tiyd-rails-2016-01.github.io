@@ -11,8 +11,7 @@ layout: default
 * Agile Rituals
   * ON BOARD: Pair programming
   * Remote pairing
-* Example: Continue work on Monday's [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
-* Fixtures
+* Example: Continue work on [our first Rails app](https://github.com/tiyd-rails-2016-01/first_rails_app)
 * Seeds
 * Views and Controller Instance Variables
 * Callbacks

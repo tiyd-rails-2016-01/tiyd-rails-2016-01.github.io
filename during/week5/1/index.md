@@ -8,8 +8,6 @@ layout: default
 
 **Problem of the Day:** [My First Website](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/my_first_website)
 
-* Human Learning
-  * ON BOARD: Elaborate rather than review
 * Random Topics
   * Fat Models, Skinny Controllers
   * HTTP Status Codes
