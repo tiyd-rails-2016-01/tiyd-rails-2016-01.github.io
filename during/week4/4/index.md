@@ -22,12 +22,27 @@ layout: default
   * `json.array! @candidates, :id, :name, :party`
 * Non-ActiveRecord Models (don't `generate`!)
 * CORS
+* Router
+  * `rake routes`
+  * Level 1 - we know this.
+  * Level 2 - Naming addresses in a more custom way
+  * Level 3 - Putting `id`s (or other `params`) in paths
+* Different kinds of API auth
+  * Gems for accessing APIs
+  * Token Auth in params
+  * Token Auth in headers
+    * [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
+  * Basic Auth (not so good)
+  * OAuth - later
+* Testing Validations - not as important as I let on.
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Code from Homework Review](https://github.com/tiyd-rails-2016-01/voting_api_homework_review)
 * [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2016-01/first_rails_app)
+-->
 
 #### Useful Links
 
@@ -43,27 +58,6 @@ layout: default
 
 * Preview Reading: ...just the prework on HTML and CSS.  You're already ready for it.
 * Listening: [Ruby Rogues - Pair Programming](http://devchat.tv/ruby-rogues/026-rr-pair-programming)
-
-## Extra Mini-lecture
-
-* Router
-  * `rake routes`
-  * Level 1 - we know this.
-  * Level 2 - Naming addresses in a more custom way
-  * Level 3 - Putting `id`s (or other `params`) in paths
-* Different kinds of API auth
-  * Gems for accessing APIs
-  * Token Auth in params
-  * Token Auth in headers
-    * [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
-  * Basic Auth (not so good)
-  * OAuth - later
-* Testing Validations - not as important as I let on.
-
-#### Mini-lecture Notes
-
-* [Mini-lecture Video]()
-* [App about Routes (and unicorns)](https://github.com/tiyd-rails-2016-01/routes_app)
 
 #### Weekend Assignment - IN PAIRS
 

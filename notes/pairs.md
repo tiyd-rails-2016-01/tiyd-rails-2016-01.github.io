@@ -22,6 +22,11 @@ Damian - Lyly
 
 ## Week 4 - Build Your Own API
 
-...
+Daniel L - Daniel B
+Brian    - Kate
+Geoff    - Steven
+Marcia   - Damian - Jefferson
+Joseph   - Hugh
+Lyly     - Molly
+Anjana   - Kevin
 Jim
-Anjana
