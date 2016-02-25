@@ -25,8 +25,7 @@ layout: default
 * Different kinds of API auth
   * Gems for accessing APIs
   * Token Auth in params
-  * Token Auth in headers
-    * [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
+  * Token Auth in headers - [Article](https://www.codeschool.com/blog/2014/02/03/token-based-authentication-rails/)
   * Basic Auth (not so good)
   * OAuth - later
 
