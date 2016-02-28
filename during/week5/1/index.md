@@ -68,7 +68,7 @@ Websites that are "static":
 
 * [Headhunter Hair Styling](http://www.headhunterhairstyling.com/)
 * [Do Nothing for 2 Minutes](http://www.donothingfor2minutes.com/)
-* [Find the Invisible Cow](http://findtheinvisiblecow.com/)
+* [Find the Invisible Cow](http://findtheinvisiblecow.com/) (Down?)
 * [WeaveSilk](http://weavesilk.com/)
 
 Webapps that do processing on the server (and/or have a database):
