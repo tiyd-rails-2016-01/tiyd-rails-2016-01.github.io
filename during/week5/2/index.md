@@ -11,6 +11,9 @@ layout: default
 * Random Topics
   * `#shipit` and putting a bow on it
   * `rails new .`
+  * Fat Models, Skinny Controllers
+  * HTTP Status Codes
+  * Testing Validations - not as important as I let on.
 * Forms
   * Example: Add a student application form to the Plutonium Yard
   * `form`

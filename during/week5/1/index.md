@@ -10,10 +10,6 @@ layout: default
 
 * Human Learning:
   * ON BOARD: Elaborate rather than review
-* Random Topics
-  * Fat Models, Skinny Controllers
-  * HTTP Status Codes
-  * Testing Validations - not as important as I let on.
 * HTML
   * View source on `theironyard.com`
   * EXAMPLE: The Plutonium Yard, competitor to the Iron Yard
@@ -60,11 +56,8 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Whiteboard - Status Codes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/038/original/response_codes.jpg?1443457513)
+* [Class Video](https://youtu.be/N6o3TouuZMo)
 * [Whiteboard - CSS Selectors](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/039/original/css_selectors.jpg?1443457544)
--->
 
 #### Example Links
 
