@@ -32,6 +32,7 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/tieaM0tOCgA)
+* [Controller Tests from the HW](controller_tests.rb)
 * [Challenge Solution](challenge.rb)
 * [Our First Rails Project, Day 3](https://github.com/tiyd-rails-2016-01/first_rails_app)
 
