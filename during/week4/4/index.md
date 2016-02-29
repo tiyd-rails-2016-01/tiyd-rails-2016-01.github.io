@@ -29,13 +29,6 @@ layout: default
   * Basic Auth (not so good)
   * OAuth - later
 
-#### Did Not Yet Talk Through
-
-* Callbacks
-  * `before_create`, etc.
-* CORS
-* Testing Validations - not as important as I let on.
-
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/tieaM0tOCgA)
