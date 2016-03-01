@@ -13,7 +13,7 @@ layout: default
   * `rails new .`
   * Fat Models, Skinny Controllers
   * HTTP Status Codes
-  * Testing Validations - not as important as I let on.
+  * Testing Validations - not as important as I let on
 * Forms
   * Example: Add a student application form to the Plutonium Yard
   * `form`
@@ -21,19 +21,23 @@ layout: default
   * `select`
   * `button`
   * `checkbox`
-  * Rails helpers for making `form_tag` elements
-  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
-  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 * View Intro without models
-  * Example: A rails app that asks me for my time zone, then gives me the time.
+  * Example: A rails app that asks me for my time zone, then gives me the time
   * ERB
   * `strftime()`
+* Rails helpers for making `form_tag` elements
+  * Form, input, button, checkbox, textarea
+  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
+  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
-* [Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/time_zone)
+* [Time Zone Code from Class]()
 * [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
+* [International Coding](int.jpg)
+-->
 
 #### Useful Links
 

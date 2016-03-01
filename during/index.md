@@ -45,7 +45,7 @@ These two links will be used for turning in assignments throughout the class.  K
 ### Week 5 - HTML and Rails Views
 
 * M - [HTML and CSS](week5/1)
-* T - HTML Forms and ERB
+* T - [HTML Forms and ERB](week5/2)
 * W - REST and Scaffold
 * Th - Helpers, Partials, and Heroku
 
