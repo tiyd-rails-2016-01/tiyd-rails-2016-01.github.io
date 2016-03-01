@@ -34,7 +34,7 @@ layout: default
 
 * [Class Video](https://youtu.be/ED1in8N1Q-s)
 * [HTML and Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/html_example)
-* [Whiteboard - Request/Response]()
+* [Whiteboard - attributes, form elements, Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/020/original/3.1.16_forms.JPG?1456857851)
 * [International Coding](int.jpg)
 
 #### Useful Links
