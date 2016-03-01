@@ -32,12 +32,10 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Time Zone Code from Class]()
-* [Whiteboard - Request/Response](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/040/original/call_response.jpg?1443554806)
+* [Class Video](https://youtu.be/ED1in8N1Q-s)
+* [HTML and Time Zone Code from Class](https://github.com/tiyd-rails-2016-01/html_example)
+* [Whiteboard - Request/Response]()
 * [International Coding](int.jpg)
--->
 
 #### Useful Links
 
