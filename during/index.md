@@ -4,7 +4,7 @@ layout: default
 
 ## Daily Lesson Schedule
 
-These two links will be used for turning in assignments throughout the class.  Keep them around!
+These links will be used for turning in assignments throughout the class.  Keep them around!
 
 * [Homework Submission Form](http://goo.gl/forms/LlrLL85tFM)
 * [Challenge Submission Form](http://goo.gl/forms/lAlRZpME2o)
