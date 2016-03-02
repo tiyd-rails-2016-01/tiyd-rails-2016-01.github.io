@@ -8,26 +8,26 @@ layout: default
 
 **Problem of the Day:** [Albums Resource](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/albums_resource)
 
-* Agile Rituals
-  * ON BOARD: Estimation
 * Random Topics
-  * The "10 minutes ago" problem
   * `before_action` (similar to `before_create`)
-  * `ApplicationController`
+  * Writing private methods in `ApplicationController`
   * `rails-footnotes` gem
 * Scaffold Dissection
   * Remove `jbuilder` from Gemfile if you don't want an API.
 * `form_for` vs `form_tag`
 * Resources
 * REST
-* Estimation - GUEST SPEAKER: Mary McKee
+* Agile Rituals
+  * ON BOARD: Estimation
+  * Estimation - GUEST SPEAKER: Mary McKee
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
-* [Whiteboard - Retrospective and Gitflow](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/041/original/git_branch_2.jpg?1443636497)
 * [Whiteboard - Rails' Flavor of REST](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/042/original/REST.jpg?1443636537)
 * [Things to Test](../../things_to_test)
+-->
 
 #### Useful Links
 

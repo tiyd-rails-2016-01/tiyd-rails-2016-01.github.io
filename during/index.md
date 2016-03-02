@@ -46,7 +46,7 @@ These two links will be used for turning in assignments throughout the class.  K
 
 * M - [HTML and CSS](week5/1)
 * T - [HTML Forms and ERB](week5/2)
-* W - REST and Scaffold
+* W - [REST and Scaffold](week5/3)
 * Th - Helpers, Partials, and Heroku
 
 
