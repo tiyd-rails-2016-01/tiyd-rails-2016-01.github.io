@@ -24,6 +24,7 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/XcaqVqr46A8)
+* [Scaffold Example](https://github.com/tiyd-rails-2016-01/scaffold_example)
 * [Whiteboard - Rails' Flavor of REST](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/042/original/REST.jpg?1443636537)
 * [Things to Test](../../things_to_test)
 

@@ -21,12 +21,6 @@ layout: default
   * GitFlow
   * Pull Requests
   * Code Review on Pull Requests
-* Postgres - OPTIONAL
-  * `brew doctor` (and then whatever it suggests)
-  * `brew update`
-  * `brew install postgres` (look for permission errors on `/usr/local/`)
-  * `initdb /usr/local/var/postgres`
-  * Change database.yml for development
 * Heroku - GUEST SPEAKER: Ryan Daigle
   * Set up account
   * Create new Heroku project
@@ -43,9 +37,11 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Mini-lecture Video]()
 * [Code Built in Class](https://github.com/tiyd-rails-2016-01/wallet_example)
+-->
 
 #### Useful Links
 

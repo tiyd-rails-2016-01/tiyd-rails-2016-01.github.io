@@ -3,7 +3,7 @@
 * List of shortcuts I gave out too soon:
   *
 * Student Feedback:
-  * 
+  *
 
 # Other assignment ideas
 
@@ -15,3 +15,10 @@
 * Close a Github issue from the command line
 * Commuters volunteering for moving donations
 * Crowd-sourced developer assessment tool
+
+* Postgres - OPTIONAL
+  * `brew doctor` (and then whatever it suggests)
+  * `brew update`
+  * `brew install postgres` (look for permission errors on `/usr/local/`)
+  * `initdb /usr/local/var/postgres`
+  * Change database.yml for development
