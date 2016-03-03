@@ -32,7 +32,6 @@ layout: default
 * [Class Video - Mason](https://youtu.be/PpUbKEot2qw)
 * [Class Video - Ryan Part 1](https://youtu.be/FZPR4wup6OE)
 * [Class Video - Ryan Part 2](https://youtu.be/BT9TnkIVH_U)
-* [Mini-lecture Video]()
 
 #### Useful Links
 
@@ -56,6 +55,10 @@ layout: default
 * Helpers
   * `.html_safe`
   * XSS
+
+#### Lecture Notes
+
+* [Mini-lecture Video]()
 
 #### Weekend Assignment - IN PAIRS
 
