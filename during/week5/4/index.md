@@ -16,9 +16,9 @@ layout: default
 * Heroku - GUEST SPEAKER: Ryan Daigle
   * Set up account
   * Create new Heroku project
-  * Move `sqlite3` gem to development and test
-  * Add `pg` and `rails_12factor` gems to production
-  * Add `puma` gem to base of Gemfile
+  * Move `sqlite3` gem to development and test block
+  * Add `pg` gem to production block
+  * Add `puma` and `rails_12factor` gems to base of Gemfile
   * Create Procfile which says `web: bundle exec puma -C config/puma.rb`
   * Create `config/puma.rb` per [Heroku's instructions](https://devcenter.heroku.com/articles/deploying-rails-applications-with-the-puma-web-server)
   * `bundle install --without production`
