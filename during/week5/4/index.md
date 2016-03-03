@@ -6,14 +6,6 @@ layout: default
 
 **Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
 
-* Random Topics
-  * `||=`
-  * `config.action_controller.action_on_unpermitted_parameters = :raise`
-  * Do `form_for` vs `form_tag` again!
-* Partials
-* Helpers
-  * `.html_safe`
-  * XSS
 * Dev vs. Test vs. Production
 * Rails Servers (WEBrick vs. Mongrel vs. Puma)
 * Git
@@ -37,11 +29,10 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video - Mason](https://youtu.be/PpUbKEot2qw)
+* [Class Video - Ryan Part 1](https://youtu.be/FZPR4wup6OE)
+* [Class Video - Ryan Part 2](https://youtu.be/BT9TnkIVH_U)
 * [Mini-lecture Video]()
-* [Code Built in Class](https://github.com/tiyd-rails-2016-01/wallet_example)
--->
 
 #### Useful Links
 
@@ -53,6 +44,18 @@ layout: default
 
 * Preview Reading: [Syntactically Awesome Stylesheets](http://sass-lang.com/guide)
 * Listening: [Ruby Rogues - Agile Communication](https://devchat.tv/ruby-rogues/049-rr-agile-communication-with-angela-harms)
+
+#### Friday Mini-lecture
+
+* Redirects
+* Random Topics
+  * `||=`
+  * `config.action_controller.action_on_unpermitted_parameters = :raise`
+* Do `form_for` vs `form_tag` again!
+* Partials
+* Helpers
+  * `.html_safe`
+  * XSS
 
 #### Weekend Assignment - IN PAIRS
 
