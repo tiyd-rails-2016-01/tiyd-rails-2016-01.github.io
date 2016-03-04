@@ -48,18 +48,14 @@ layout: default
 #### Friday Mini-lecture
 
 * Redirects
-* Random Topics
-  * `||=`
-  * `config.action_controller.action_on_unpermitted_parameters = :raise`
+* `config.action_controller.action_on_unpermitted_parameters = :raise`
 * Do `form_for` vs `form_tag` again!
 * Partials
 * Helpers
-  * `.html_safe`
-  * XSS
 
 #### Lecture Notes
 
-* [Mini-lecture Video]()
+* [Mini-lecture Video](https://youtu.be/a6p20tBXs6s)
 
 #### Weekend Assignment - IN PAIRS
 

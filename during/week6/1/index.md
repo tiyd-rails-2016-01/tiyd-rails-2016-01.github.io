@@ -20,6 +20,9 @@ layout: default
   * Entitlement of the Software Developer Community
   * `Time.zone.now`
   * `config.time_zone = 'Eastern Time (US & Canada)'`
+  * `||=`
+  * `.html_safe`
+  * XSS
 * The Asset Pipeline
   * Example: Add photos to someone's Health Tracker
   * The `public` Folder
