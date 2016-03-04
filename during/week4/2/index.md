@@ -74,4 +74,4 @@ layout: default
   * Push to GitHub
   * Create an estimate for the number of hours you expect to need to complete this assignment tomorrow night
   * If you anticipate getting to hard or nightmare modes, read those modes before beginning work tonight and take those requirements into account in your models and migrations.
-<!-- * Feedback: [Voting API Day 1 Feedback](feedback) -->
+* Feedback: [Voting API Day 1 Feedback](feedback)

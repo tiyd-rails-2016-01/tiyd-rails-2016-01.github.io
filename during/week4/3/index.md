@@ -51,5 +51,4 @@ layout: default
   * In theory, your estimate should be better now that you've gotten part of the way through the project.
   * Document your number of hours worked at the end.
 
-<!--
-* Feedback: [Voting API Day 2 Feedback](feedback) -->
+* Feedback: [Voting API Day 2 Feedback](feedback)

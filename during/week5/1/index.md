@@ -95,4 +95,4 @@ Webapps that do processing on the server (and/or have a database):
 #### Assignment
 
 * Assignment: [CSS Reverse Engineering](https://github.com/tiyd-rails-2016-01/css_reverse_engineering)
-<!-- * Feedback: [CSS Reverse Engineering Feedback](feedback) -->
+* Feedback: [CSS Reverse Engineering Feedback](feedback)

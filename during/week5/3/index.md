@@ -44,4 +44,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Wallet](https://github.com/tiyd-rails-2016-01/wallet)
-<!-- * Feedback: [Wallet Feedback](feedback) -->
+* Feedback: [Wallet Feedback](feedback)

@@ -32,6 +32,7 @@ layout: default
 * [Class Video - Mason](https://youtu.be/PpUbKEot2qw)
 * [Class Video - Ryan Part 1](https://youtu.be/FZPR4wup6OE)
 * [Class Video - Ryan Part 2](https://youtu.be/BT9TnkIVH_U)
+* [Heroku Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/022/original/3.3.16_heroku.JPG?1457032729)
 
 #### Useful Links
 
