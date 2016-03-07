@@ -39,8 +39,10 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - Assets, etc](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/043/original/app_lib_vendor.jpg?1444071405)
+-->
 
 #### Useful Links
 
