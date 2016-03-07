@@ -4,8 +4,6 @@ layout: default
 
 ## Wk 5 - Thursday - Helpers/Partials, Heroku/Production
 
-**Challenge:** [Rails Environments](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_environments.md)
-
 * Dev vs. Test vs. Production
 * Rails Servers (WEBrick vs. Mongrel vs. Puma)
 * Git
