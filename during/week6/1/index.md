@@ -24,16 +24,17 @@ layout: default
   * The `lib` and `vendor` folders
 * SCSS
 * [Administrate](https://github.com/thoughtbot/administrate)
-* Accessibility
 * Bootstrap
+* Accessibility
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video - Part 1](https://youtu.be/KQpZzOyQSt4)
+* [Class Video - Part 2](https://youtu.be/ijiWkEg7ZAk)
+* [Class Video - Part 3](https://youtu.be/jKHEvHpAxmk)
 * [Module Example from HW](module.rb)
+* [Beefed up Health Tracker from Class](https://github.com/tiyd-rails-2016-01/health_tracker_with_gems)
 * [Whiteboard - Assets, etc](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/043/original/app_lib_vendor.jpg?1444071405)
--->
 
 #### Useful Links
 
