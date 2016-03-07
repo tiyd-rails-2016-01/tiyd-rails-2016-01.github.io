@@ -19,7 +19,7 @@ layout: default
   * Example: Add photos to someone's Health Tracker
   * The `public` Folder
   * `favicon.ico`
-  * `app/assets/images` and `asset(url)`
+  * `app/assets/images` and `asset_url()`
   * Consolidation of stylesheets to decrease load time
   * The `lib` and `vendor` folders
 * SCSS
