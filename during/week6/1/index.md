@@ -15,16 +15,6 @@ layout: default
 * Random Topics
   * How to use modules on this assignment!
   * `include` vs. `extend`
-  * Marketing yourself
-  * Networking at events
-  * Self Confidence vs. Arrogance
-  * Bragging vs. Marketing
-  * Entitlement of the Software Developer Community
-  * `Time.zone.now`
-  * `config.time_zone = 'Eastern Time (US & Canada)'`
-  * `||=`
-  * `.html_safe`
-  * XSS
 * The Asset Pipeline
   * Example: Add photos to someone's Health Tracker
   * The `public` Folder
@@ -41,6 +31,7 @@ layout: default
 
 <!--
 * [Class Video]()
+* [Module Example from HW](module.rb)
 * [Whiteboard - Assets, etc](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/043/original/app_lib_vendor.jpg?1444071405)
 -->
 

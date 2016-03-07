@@ -12,6 +12,16 @@ layout: default
   * Bootstrap Grid System
   * Nested Routes
   * Collection/Member Routes
+  * Marketing yourself
+  * Networking at events
+  * Self Confidence vs. Arrogance
+  * Bragging vs. Marketing
+  * Entitlement of the Software Developer Community
+  * `Time.zone.now`
+  * `config.time_zone = 'Eastern Time (US & Canada)'`
+  * `||=`
+  * `.html_safe`
+  * XSS
 * Session
 * Authentication
   * Build our own
