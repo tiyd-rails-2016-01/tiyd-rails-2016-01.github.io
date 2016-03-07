@@ -25,6 +25,7 @@ layout: default
 * SCSS
 * [Administrate](https://github.com/thoughtbot/administrate)
 * Bootstrap
+* Bootstrap Grid System
 * Accessibility
 
 #### Lecture Notes

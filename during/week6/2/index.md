@@ -9,7 +9,6 @@ layout: default
 **Problem of the Day:** [Menu Authentication](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/menu_authentication)
 
 * Random Topics
-  * Bootstrap Grid System
   * Nested Routes
   * Collection/Member Routes
   * Marketing yourself
