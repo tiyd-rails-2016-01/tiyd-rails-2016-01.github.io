@@ -11,16 +11,12 @@ layout: default
 * Random Topics
   * Nested Routes
   * Collection/Member Routes
+* Working in the Industry
   * Marketing yourself
   * Networking at events
   * Self Confidence vs. Arrogance
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
-  * `Time.zone.now`
-  * `config.time_zone = 'Eastern Time (US & Canada)'`
-  * `||=`
-  * `.html_safe`
-  * XSS
 * Session
 * Authentication
   * Build our own
@@ -29,8 +25,10 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard - form_for vs form_tag](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/048/original/form_tags.jpg?1444412714)
+-->
 
 #### Useful Links
 

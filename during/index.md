@@ -53,7 +53,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 ### Week 6 - Rails Features
 
 * M - [Asset Pipeline and SCSS](week6/1)
-* T - Session and Authentication
+* T - [Session and Authentication](week6/2)
 * W - Authorization and Integration Tests
 * Th - Multi-record Forms
 
