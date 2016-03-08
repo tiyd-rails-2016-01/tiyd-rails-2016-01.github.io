@@ -25,10 +25,9 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/qT6TbrN9M4g)
+* [Code Built in Class](https://github.com/tiyd-rails-2016-01/menu_example)
 * [Whiteboard - form_for vs form_tag](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/048/original/form_tags.jpg?1444412714)
--->
 
 #### Useful Links
 
