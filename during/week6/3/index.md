@@ -13,6 +13,14 @@ layout: default
   * Render vs. Redirect
   * Multi-tenancy
   * `.ruby-version`
+  * Nested Routes
+  * Collection/Member Routes
+* Working in the Industry
+  * Marketing yourself
+  * Networking at events
+  * Self Confidence vs. Arrogance
+  * Bragging vs. Marketing
+  * Entitlement of the Software Developer Community
 * HTTP Response Types (reminder)
 * Access vs. Authentication vs. Authorization
   * Example: Lock Gradebook teachers down to seeing only their classes.

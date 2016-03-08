@@ -8,15 +8,7 @@ layout: default
 
 **Problem of the Day:** [Menu Authentication](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/menu_authentication)
 
-* Random Topics
-  * Nested Routes
-  * Collection/Member Routes
-* Working in the Industry
-  * Marketing yourself
-  * Networking at events
-  * Self Confidence vs. Arrogance
-  * Bragging vs. Marketing
-  * Entitlement of the Software Developer Community
+* Security and Passwords
 * Session
 * Authentication
   * Build our own

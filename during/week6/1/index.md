@@ -12,7 +12,7 @@ layout: default
   * ON BOARD: Kill your baby ducks
   * [XKCD on Breaking Someone's Workflow](https://xkcd.com/1172/)
   * ON BOARD: Balance DB-first and UI-first
-* Random Topics
+* Modules!
   * How to use modules on this assignment!
   * `include` vs. `extend`
 * The Asset Pipeline
