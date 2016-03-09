@@ -54,7 +54,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 * M - [Asset Pipeline and SCSS](week6/1)
 * T - [Session and Authentication](week6/2)
-* W - Authorization and Integration Tests
+* W - [Authorization and Integration Tests](week6/3)
 * Th - Multi-record Forms
 
 

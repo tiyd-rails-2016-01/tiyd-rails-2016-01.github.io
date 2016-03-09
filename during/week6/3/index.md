@@ -10,7 +10,7 @@ layout: default
   * `BCrypt::Password.create("password", cost: 4)`
   * Don't set your root to be your login page
   * `flash` vs. `flash.now`
-  * Render vs. Redirect
+  * Again: Render vs. Redirect
   * Multi-tenancy
   * `.ruby-version`
   * Nested Routes
@@ -21,7 +21,6 @@ layout: default
   * Self Confidence vs. Arrogance
   * Bragging vs. Marketing
   * Entitlement of the Software Developer Community
-* HTTP Response Types (reminder)
 * Access vs. Authentication vs. Authorization
   * Example: Lock Gradebook teachers down to seeing only their classes.
 * Authorization Approaches
@@ -34,9 +33,11 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Example Integration Test from Class](login_logout_test.rb)
 * [Whiteboard - Authorization Approaches](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/046/original/page_control.jpg?1444247820)
+-->
 
 #### Useful Links
 
