@@ -29,11 +29,9 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Example Integration Test from Class](login_logout_test.rb)
+* [Class Video](https://youtu.be/EicINS5VJC0)
+* [Example Code from Class](https://github.com/tiyd-rails-2016-01/gradebook_day_2)
 * [Whiteboard - Authorization Approaches](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/046/original/page_control.jpg?1444247820)
--->
 
 #### Useful Links
 
