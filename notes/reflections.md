@@ -22,3 +22,9 @@
   * `brew install postgres` (look for permission errors on `/usr/local/`)
   * `initdb /usr/local/var/postgres`
   * Change database.yml for development
+
+
+  * Multi-tenancy
+  * `.ruby-version`
+  * Nested Routes
+  * Collection/Member Routes

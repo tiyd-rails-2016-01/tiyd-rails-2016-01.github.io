@@ -11,10 +11,6 @@ layout: default
   * Don't set your root to be your login page
   * `flash` vs. `flash.now`
   * Again: Render vs. Redirect
-  * Multi-tenancy
-  * `.ruby-version`
-  * Nested Routes
-  * Collection/Member Routes
 * Working in the Industry
   * Marketing yourself
   * Networking at events
