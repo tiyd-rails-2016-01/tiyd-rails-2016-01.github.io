@@ -41,3 +41,12 @@ Hugh    - Damian
 Kate    - Anjana
 Geoff   - Jim
 Molly   - Kevin
+
+## Week 6 - Survey Opossum
+
+Byron  - Mike   = Kate   - Jim
+Nicky  - Greg   = Lyly   - Jefferson - Hugh
+Andrew - Dennis = Joseph - Marcia
+Matt   - Evan   = Molly  - Damian    - Daniel L
+Alex   - Daniel = Kevin  - Daniel B  - Geoff
+Tori   - Jeremy = Brian  - Steven
