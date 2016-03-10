@@ -9,20 +9,13 @@ layout: default
 **Problem of the Day:** [Mass Grade Assignment](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/mass_grade_assignment)
 
 * `accepts_nested_attributes`
-* Scope
-  * `default_scope`
-  * `scope`
-  * Defining methods on associations
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Zoo Code from Today](https://github.com/tiyd-rails-2016-01/zoo_example)
-* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/047/original/nested_attributes.jpg?1444331523)
-* [Friday Mini-lecture Video]()
-* [Whiteboard - form_for vs form_tag](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/048/original/form_tags.jpg?1444412714)
--->
+* [Class Video](https://youtu.be/I82HiKk-R3I)
+* [Dogkeeper Code from Today](https://github.com/tiyd-rails-2016-01/dogkeeper)
+* [Whiteboard - Authorization](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/023/original/3.10.16_auth.JPG?1457629077)
+* [Whiteboard - accepts_nested_attributes_for](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/024/original/3.10.16_nested_ff.JPG?1457629091)
 
 #### Useful Links
 

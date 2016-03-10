@@ -46,4 +46,4 @@ layout: default
 
 * Assignment: Complete [Gradebook](https://github.com/tiyd-rails-2016-01/gradebook)
 * Starting Point: [Gradebook Day 2](https://github.com/tiyd-rails-2016-01/gradebook_day_2)
-<!-- * Feedback: [Gradebook Day 2 Feedback](feedback) -->
+* Feedback: [Gradebook Day 2 Feedback](feedback)

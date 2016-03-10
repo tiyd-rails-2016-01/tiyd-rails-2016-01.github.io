@@ -28,3 +28,8 @@
   * `.ruby-version`
   * Nested Routes
   * Collection/Member Routes
+
+* Scope
+  * `default_scope`
+  * `scope`
+  * Defining methods on associations
