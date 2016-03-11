@@ -57,5 +57,7 @@ Code for `config/application.rb`:
 #### Weekend Assignment
 
 * Assignment: [Gradebook Tickets](https://github.com/tiyd-rails-2016-01/gradebook_tickets)
+* Starting Point: [Grade Master](https://github.com/tiyd-rails-2016-01/grade_master)
+
 
 <!-- [Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow) -->
