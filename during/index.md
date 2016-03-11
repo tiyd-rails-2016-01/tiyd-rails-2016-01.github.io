@@ -60,10 +60,9 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 ### Week 7 - JavaScript
 
-* M - JavaScript Basics
-* T - jQuery and Unobtrusive JavaScript
-* W - AJAX
-* Th - jQuery in Detail
+* T - JavaScript Basics
+* W - jQuery and Unobtrusive JavaScript
+* Th - AJAX
 
 
 ### Week 8 - Web App Patterns

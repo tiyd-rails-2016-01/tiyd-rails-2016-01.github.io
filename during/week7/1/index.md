@@ -8,8 +8,6 @@ layout: default
 
 * Agile
   * ON BOARD: Be aware of technical debt
-* Random Topics
-  * `config.action_controller.action_on_unpermitted_parameters = :raise`
 * Javascript in `node`
   * Surprisingly similar to ruby
   * `var` keyword
@@ -60,9 +58,11 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Mini-lecture Video]()
 * [Example playground code](https://github.com/tiyd-rails-2016-01/javascript_playground)
+-->
 
 #### Useful Links
 
