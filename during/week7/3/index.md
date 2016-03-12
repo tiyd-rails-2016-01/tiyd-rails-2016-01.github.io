@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wk 7 - Wednesday - AJAX
+## Wk 7 - Thursday - AJAX
 
 **Challenge:** [Discuss Git Messes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_git_messes.md)
 

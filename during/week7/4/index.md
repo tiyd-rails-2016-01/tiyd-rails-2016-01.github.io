@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wk 7 - Thursday - jQuery in Detail
+## Wk 7 - Friday - jQuery in Detail
 
 **Challenge:** [Session](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_session.md)
 

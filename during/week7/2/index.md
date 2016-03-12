@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Wk 7 - Tuesday - jQuery and Unobtrusive JavaScript
+## Wk 7 - Wednesday - jQuery and Unobtrusive JavaScript
 
 **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
 
