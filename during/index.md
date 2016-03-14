@@ -60,7 +60,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 ### Week 7 - JavaScript
 
-* T - JavaScript Basics
+* T - [JavaScript Basics](week7/1)
 * W - jQuery and Unobtrusive JavaScript
 * Th - AJAX
 
