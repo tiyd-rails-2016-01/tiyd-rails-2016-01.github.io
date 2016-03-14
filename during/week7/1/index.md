@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 7 - Tuesday - JavaScript
 
-**Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md)
+<!-- **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md) -->
 
 * Agile
   * ON BOARD: Be aware of technical debt

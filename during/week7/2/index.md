@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 7 - Wednesday - jQuery and Unobtrusive JavaScript
 
-**Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md)
+<!-- **Challenge:** [Helpers](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_helpers.md) -->
 
 * Human Learning
   * [Autonomy/Mastery/Purpose](https://www.youtube.com/watch?v=u6XAPnuFjJc)
