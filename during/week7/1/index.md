@@ -6,6 +6,7 @@ layout: default
 
 <!-- **Challenge:** [Partials](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_partials.md) -->
 
+* Joint HW Review
 * Agile
   * ON BOARD: Be aware of technical debt
 * Javascript in `node`
