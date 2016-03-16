@@ -11,6 +11,7 @@ layout: default
   * [12 Questions](12questions.pdf)
   * Flipside: [What DHH looks for when hiring](https://medium.com/@christophelimpalair/why-the-founder-of-rails-automatically-rejects-80-of-software-engineer-applicants-4e2a4d255f58#.xl04lhyaw)
 * More JavaScript
+  * How to debug JavaScript
   * Load order
   * `javascript:void(0)`
   * `addEventListener()`
@@ -37,8 +38,10 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
+-->
 
 #### Useful Links
 

@@ -55,15 +55,11 @@ layout: default
   * `.cloneNode(true)`
   * `.appendChild(copy)`
   * `<script>` tags to run the JavaScript when the page loads.
-* How to debug JavaScript
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Mini-lecture Video]()
+* [Class Video](https://www.youtube.com/watch?v=wntrqXTMIWM)
 * [Example playground code](https://github.com/tiyd-rails-2016-01/javascript_playground)
--->
 
 #### Useful Links
 
@@ -79,4 +75,4 @@ layout: default
 
 * Assignment: [Add Javascript](https://github.com/tiyd-rails-2016-01/add_javascript)
 * Starting Point: [Coursyl App](https://github.com/tiyd-rails-2016-01/coursyl)
-<!-- * Feedback: [Add Javascript Feedback](feedback) -->
+* Feedback: [Add Javascript Feedback](feedback)
