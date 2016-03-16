@@ -35,6 +35,8 @@ layout: default
 * [Class Video]()
 * [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2016-01/vegetable_garden)
 * [Undoing Git Messes](git_messes)
+* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
+
 
 #### Useful Links
 

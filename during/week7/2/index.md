@@ -38,10 +38,8 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
--->
+* [Class Video](https://youtu.be/qQ6UrRaFwDg)
+* [Code created in class](https://github.com/tiyd-rails-2016-01/coursyl_with_some_jquery)
 
 #### Useful Links
 
