@@ -32,12 +32,10 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Vegetable Garden Code from Class](https://github.com/tiyd-rails-2016-01/vegetable_garden)
+* [Class Video](https://youtu.be/_EKMQngFXZ8)
+* [Holiday Code from Class](https://github.com/tiyd-rails-2016-01/holidays)
 * [Undoing Git Messes](git_messes)
 * [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/049/original/git_messes.jpg?1444853318)
--->
 
 #### Useful Links
 
@@ -53,3 +51,11 @@ layout: default
 
 * Assignment: [Auction Site with AJAX](https://github.com/tiyd-rails-2016-01/auction_ajax)
 <!-- * Feedback: [Auction Site Feedback](feedback) -->
+
+#### What I would have talked about with a fourth day this week
+
+* [jQuery in Detail](../4)
+
+#### Optional Weekend Assignment
+
+* Assignment: [Todo List](https://github.com/tiyd-rails-2016-01/todo_app)
