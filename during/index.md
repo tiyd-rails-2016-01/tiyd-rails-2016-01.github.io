@@ -63,7 +63,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 * T - [JavaScript Basics](week7/1)
 * W - [jQuery and Unobtrusive JavaScript](week7/2)
 * Th - [AJAX](week7/3)
-* F - Indices
+* F - [Indices](week8/1)
 
 
 ### Week 8 - Web App Patterns

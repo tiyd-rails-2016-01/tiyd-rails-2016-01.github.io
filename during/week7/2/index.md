@@ -40,6 +40,7 @@ layout: default
 
 * [Class Video](https://youtu.be/qQ6UrRaFwDg)
 * [Code created in class](https://github.com/tiyd-rails-2016-01/coursyl_with_some_jquery)
+* [Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/025/original/3.17.16_javascript.JPG?1458229541)
 
 #### Useful Links
 

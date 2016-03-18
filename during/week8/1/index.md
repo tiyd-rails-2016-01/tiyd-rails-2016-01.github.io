@@ -22,6 +22,7 @@ layout: default
 
 #### Lecture Notes
 
+* [Friday's Mini-lecture on Transactions and Indices](https://youtu.be/KBSkcxnHynI)
 * [Class Video]()
 * [Mini-lecture Video]()
 * [Primes Solution](primes.rb)
