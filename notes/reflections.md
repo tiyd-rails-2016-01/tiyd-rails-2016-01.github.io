@@ -33,3 +33,8 @@
   * `default_scope`
   * `scope`
   * Defining methods on associations
+
+
+* Single-field search bar queries (ala Google)
+* AREL
+* Caching

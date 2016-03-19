@@ -6,29 +6,27 @@ layout: default
 
 **Challenge:** [Primes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/hard_primes_challenge.rb)
 
-* Runtimes and Primes
-* Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
-* Memory Usage
-* Indices
-  * Example: Build Bank app with branches, clients, accounts, and expenses.
-  * Massive Seeds
-  * Database Indices
-  * Double indices
-* Transactions
-* Single-field search bar queries (ala Google)
-* AREL
-* Caching
-* DevOps - GUEST LECTURE: Chris Bailey
+* Friday
+  * Runtimes and Primes
+  * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
+  * Memory Usage
+  * Indices
+    * Example: Build Bank app with branches, clients, accounts, and expenses.
+    * Massive Seeds
+    * Database Indices
+    * Double indices
+  * Transactions
+* Monday
+  * DevOps - GUEST LECTURE: Chris Bailey
 
 #### Lecture Notes
 
 * [Friday's Mini-lecture on Transactions and Indices](https://youtu.be/KBSkcxnHynI)
-* [Class Video]()
-* [Mini-lecture Video]()
 * [Primes Solution](primes.rb)
-* [Whiteboard - Pseudocode for Primes](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/052/original/pseudo_prime.JPG?1445287966)
+* [Example Code](example_transation_and_index.rb)
 * [Whiteboard - Indices](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/053/original/index_binary_tree.JPG?1445287981)
-* [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
+
+* [Monday Class Video]()
 
 #### Useful Links
 

@@ -9,25 +9,29 @@ require 'minitest/pride'
 
 # WRITE YOUR CODE HERE.  Name your method `primes`.
 
-def primes(number)
-  array = []
-  i = 2
-  while array.length < number
-    stop = false
-    sqrt = Math.sqrt(i)
-    array.each do |j|
-      break if sqrt < j
-      if (i % j == 0)
-        stop = true
-        break
-      end
-    end
-    array << i unless stop
-    i = i+1
-  end
-  array
+require 'prime'
+
+def primes(n)
+  n < 0 ? [] : Prime.first(n)
 end
 
+# def primes(n)
+#   return [] if n < 1
+#   prime_numbers = [2]
+#   i = 3
+#   while prime_numbers.count < n
+#     prime = true
+#     3.step(Math.sqrt(i), 2) do |divisor|
+#       if i % divisor == 0
+#         prime = false
+#         break
+#       end
+#     end
+#     prime_numbers << i if prime
+#     i += 2
+#   end
+#   prime_numbers
+# end
 
 class PrimesChallenge < MiniTest::Test
   def test_one_prime
@@ -43,7 +47,7 @@ class PrimesChallenge < MiniTest::Test
   end
 
   def test_thousand_primes
-    first_thousand = primes(10000)
+    first_thousand = primes(1000)
     assert first_thousand.include?(6991)
     assert first_thousand.include?(7907)
     refute first_thousand.include?(1000)
