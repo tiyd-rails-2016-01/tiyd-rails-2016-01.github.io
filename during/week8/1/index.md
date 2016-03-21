@@ -28,6 +28,7 @@ layout: default
 
 * [Monday Class Video - Part I](https://youtu.be/wSroXhhgZd0)
 * [Monday Class Video - Part II](https://youtu.be/LpV7zWTsbRk)
+* [Good Solution to the Weekend Assignment](https://github.com/josephdepompeis/auction_ajax)
 
 #### Useful Links
 
