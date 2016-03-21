@@ -13,6 +13,7 @@ layout: default
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
   * Swap space
   * CSV Writing
+  * [Hype Cycle](hype_cycle.png) (because I'm a geek)
 * Background Processing
   * Example: Bank Report Generation
   * Review stacks vs. queues
