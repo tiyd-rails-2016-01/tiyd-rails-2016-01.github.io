@@ -68,7 +68,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 ### Week 8 - Web App Patterns
 
-* M - Indices and Runtime Optimizations
+* M - [DevOps](week8/1)
 * T - Background Processing
 * W - Mailers
 * Th - File Uploads and S3

@@ -10,12 +10,12 @@ layout: default
   * Runtimes and Primes
   * Computational Complexity (`O(n)`, `O(lg n)`, `O(n^2)`, etc)
   * Memory Usage
+  * Transactions
   * Indices
     * Example: Build Bank app with branches, clients, accounts, and expenses.
     * Massive Seeds
     * Database Indices
     * Double indices
-  * Transactions
 * Monday
   * DevOps - GUEST LECTURE: Chris Bailey
 
