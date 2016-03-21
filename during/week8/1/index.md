@@ -26,7 +26,8 @@ layout: default
 * [Example Code](example_transation_and_index.rb)
 * [Whiteboard - Indices](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/053/original/index_binary_tree.JPG?1445287981)
 
-* [Monday Class Video]()
+* [Monday Class Video - Part I](https://youtu.be/wSroXhhgZd0)
+* [Monday Class Video - Part II](https://youtu.be/LpV7zWTsbRk)
 
 #### Useful Links
 
