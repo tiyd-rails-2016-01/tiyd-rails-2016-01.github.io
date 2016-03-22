@@ -12,7 +12,6 @@ layout: default
   * Polymorphic associations
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
   * Swap space
-  * CSV Writing
   * [Hype Cycle](hype_cycle.png) (because I'm a geek)
 * Background Processing
   * Example: Bank Report Generation
@@ -37,11 +36,10 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/uMP_h7lOE9k)
+* [Challenge Solution from today](loops.rb)
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [Whiteboard - Stacks and Queues](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/054/original/stack_queue.JPG?1445448768)
--->
 
 #### Useful Links
 
