@@ -6,11 +6,8 @@ layout: default
 
 **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
 
-* Random Topics
-  * `pluck`
-  * Using `pluck` in select_tags
-  * `<%= f.select :teacher_id, Teacher.all.map {|t| [t.name , t.id]} %>`
-  * `<%= f.collection_select :teacher_id, Teacher.all, :id, :name %>`
+* Agile Rituals
+  * ON BOARD: Code review sessions
 * Mailer Steps
   * `rails g mailer MailerNameMailer action_name other_action_name`
   * Modify views and mailers as you see fit

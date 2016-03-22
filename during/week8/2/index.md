@@ -6,8 +6,6 @@ layout: default
 
 **Challenge:** [Double Loop](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/double_loop_challenge.rb)
 
-* Agile Rituals
-  * ON BOARD: Code review sessions
 * Random Topics
   * Polymorphic associations
   * AREL: `to_dos = ToDo.arel_table` followed by `where(to_dos[:title].matches("%#{search}%").or(to_dos[:title].matches("Default")))`
@@ -37,6 +35,7 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/uMP_h7lOE9k)
+* [HW Review Controller Code from today](sql.rb)
 * [Challenge Solution from today](loops.rb)
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
 * [Whiteboard - Stacks and Queues](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/054/original/stack_queue.JPG?1445448768)
