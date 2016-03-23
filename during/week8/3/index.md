@@ -22,10 +22,8 @@ layout: default
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
+* [Class Video](https://youtu.be/glxgyqay-44)
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
--->
 
 #### Useful Links
 
