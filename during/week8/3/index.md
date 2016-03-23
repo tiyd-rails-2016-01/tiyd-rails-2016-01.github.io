@@ -4,7 +4,9 @@ layout: default
 
 ## Wk 8 - Mailers
 
-**Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md)
+<!-- **Challenge:** [Javascript (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_javascript.md) -->
+
+**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
 
 * Agile Rituals
   * ON BOARD: Code review sessions

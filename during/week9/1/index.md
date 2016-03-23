@@ -4,8 +4,6 @@ layout: default
 
 ## Wk 9 - Monday - Large Team Development
 
-**Challenge:** [Discuss Rails](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_rails.md)
-
 * Homework Review
 * Documentation of Issues
 * Assignment of Bugs/Improvements
