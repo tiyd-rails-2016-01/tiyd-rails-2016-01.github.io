@@ -8,10 +8,11 @@ layout: default
 
 * Agile Rituals
   * ON BOARD: Code review sessions
+* Finish CSV generation
 * Mailer Steps
   * `rails g mailer MailerNameMailer action_name other_action_name`
   * Modify views and mailers as you see fit
-  * Add gmail style config to `environments/development.rb` per http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail
+  * Add gmail style config to `environments/development.rb` per [The Rails Guide](http://guides.rubyonrails.org/action_mailer_basics.html#action-mailer-configuration-for-gmail)
   * Somewhere in our code: `MailerNameMailer.other_action_name.deliver_now`
   * `.deliver_later`
   * Example: send yesterday's report instead of displaying it.
@@ -19,8 +20,10 @@ layout: default
 
 #### Lecture Notes
 
+<!--
 * [Class Video]()
 * [Bank app code from today](https://github.com/tiyd-rails-2016-01/bank_example)
+-->
 
 #### Useful Links
 

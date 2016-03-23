@@ -70,7 +70,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 * M - [DevOps](week8/1)
 * T - [Background Processing](week8/2)
-* W - Mailers
+* W - [Mailers](week8/3)
 * Th - File Uploads and S3
 
 
