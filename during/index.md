@@ -71,7 +71,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 * M - [DevOps](week8/1)
 * T - [Background Processing](week8/2)
 * W - [Mailers](week8/3)
-* Th - File Uploads and S3
+* Th - [File Uploads and S3](week8/4)
 
 
 ### Week 9 - Web App Patterns

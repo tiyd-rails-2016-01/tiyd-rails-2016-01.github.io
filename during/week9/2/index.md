@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 9 - Tuesday - oAuth and DevOps
 
-**Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
+
 
 * DevOps
   * Continuous Integration
