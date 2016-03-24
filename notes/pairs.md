@@ -50,3 +50,14 @@ Andrew - Dennis = Joseph - Marcia
 Matt   - Evan   = Molly  - Damian    - Daniel L
 Alex   - Daniel = Kevin  - Daniel B  - Geoff
 Tori   - Jeremy = Brian  - Steven
+
+## Week 8 - Gradebook Tickets
+
+Steven - Hugh
+Anjana - Marcia
+Kevin  - Daniel L
+Brian  - Jefferson
+Damian - Daniel B
+Molly  - Joseph
+Lyly   - Jim
+Kate   - Geoff

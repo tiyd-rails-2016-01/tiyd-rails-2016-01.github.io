@@ -4,8 +4,6 @@ layout: default
 
 ## Wk 9 - Tuesday - oAuth and DevOps
 
-
-
 * DevOps
   * Continuous Integration
   * Continuous Deployment

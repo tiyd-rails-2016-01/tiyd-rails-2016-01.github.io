@@ -39,10 +39,8 @@ Code for `config/application.rb`:
 
 #### Lecture Notes
 
-<!--
-* [Class Video]()
-* [Neonapster Code from Class](https://github.com/tiyd-rails-2016-01/neonapster)
--->
+* [Class Video](https://youtu.be/-cVIyoGVVfg)
+* [Bank Code from Class](https://github.com/tiyd-rails-2016-01/bank_example)
 
 #### Useful Links
 
