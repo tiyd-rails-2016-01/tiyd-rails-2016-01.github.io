@@ -4,8 +4,6 @@ layout: default
 
 ## Wk 8 - Thursday - File Storage and S3
 
-<!-- **Challenge:** [JQuery (in Tabula Railsa)](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/rails_jquery.md) -->
-
 **Challenge:** [Discuss Supporting Tech](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/discuss_supporting_technologies.md)
 
 * Uploading Files without Paperclip
@@ -59,6 +57,3 @@ Code for `config/application.rb`:
 
 * Assignment: [Gradebook Tickets](https://github.com/tiyd-rails-2016-01/gradebook_tickets)
 * Starting Point: [Grade Master](https://github.com/tiyd-rails-2016-01/grade_master)
-
-
-<!-- [Stack Undertow](https://github.com/tiyd-rails-2016-01/stack_undertow) -->
