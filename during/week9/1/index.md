@@ -4,6 +4,7 @@ layout: default
 
 ## Wk 9 - Monday - Large Team Development
 
+* Gitflow
 * Homework Review
 * Documentation of Issues
 * Assignment of Bugs/Improvements
