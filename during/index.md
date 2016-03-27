@@ -76,7 +76,7 @@ These links will be used for turning in assignments throughout the class.  Keep 
 
 ### Week 9 - Web App Patterns
 
-* M - Large Team Development
+* M - [Large Team Development](week9/1)
 * T - OAuth and DevOps
 * W - Visualizations with d3.js
 * Th - Non-Rails Frameworks
