@@ -10,10 +10,6 @@ layout: default
 * Assignment of Bugs/Improvements
 * Lunch Discussion - GUEST SPEAKER: SciMed Solutions
 
-#### Lecture Notes
-
-#### Useful Links
-
 #### Evening Reading
 
 * Preview Reading: [Understanding OAuth](http://lifehacker.com/5918086/understanding-oauth-what-happens-when-you-log-into-a-site-with-google-twitter-or-facebook)

@@ -4,14 +4,6 @@ layout: default
 
 ## Wk 9 - Tuesday - oAuth and DevOps
 
-* DevOps
-  * Continuous Integration
-  * Continuous Deployment
-  * Virtual Machines (like Emulators)
-  * Vagrant
-* The web
-  * Domain Names
-  * "The website is down!"
 * OAuth
 * Testing
   * RSpec
@@ -20,6 +12,7 @@ layout: default
   * Konacha
 * SimpleForm
 * Security
+* Ember - GUEST SPEAKERS: Thoughtbot
 
 #### Lecture Notes
 
