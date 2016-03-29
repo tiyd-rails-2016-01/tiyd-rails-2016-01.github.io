@@ -11,12 +11,10 @@ layout: default
   * Cucumber
   * Konacha
 * SimpleForm
-* Security
 * Ember - GUEST SPEAKERS: Thoughtbot
 
 #### Lecture Notes
 
-* [Class Video]()
 * [Testing and Continuous Integration Walkthrough - By David B.!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
 * [Instructions for Devise and OmniAuth - By Owen H.!](devise_and_omniauth)
 * [Instructions for Capybara - By Nate T.!](capybara)
