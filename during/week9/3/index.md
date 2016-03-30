@@ -4,7 +4,7 @@ layout: default
 
 ## Wk 9 - Wednesday - d3.js
 
-[Code Repository for the Day](https://github.com/tiyd-rails-2016-01/d3_lesson)
+[Code Repository for the Day](https://github.com/tiyd-rails-2015-08/d3_lesson)
 
 **Exercise 1:** Graph `deaths.csv` on an HTML page.  Use CSS as you see fit, but don't use any graphing libraries which you may have learned.
 
@@ -68,12 +68,15 @@ layout: default
   * `selection.transition()`
   * `my_transition.duration(zoomTime)`
 
+<!--
+
 #### Lecture Notes
 
 * [Class Video]()
 
 #### Useful Links
 
+-->
 
 #### Evening Reading
 
@@ -83,4 +86,4 @@ layout: default
 
 #### Assignment
 
-* Assignment: Begin [Ruby Koans](http://rubykoans.com/).  This will span two nights.
+* Assignment: Begin [Ruby Koans](http://rubykoans.com/)

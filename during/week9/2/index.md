@@ -15,6 +15,7 @@ layout: default
 
 #### Lecture Notes
 
+* [Guest Lecture Video](https://youtu.be/A8-At0Fpcms)
 * [Testing and Continuous Integration Walkthrough - By David B.!](https://gist.github.com/dbernheisel/6c58113b01114eb97c45)
 * [Instructions for Devise and OmniAuth - By Owen H.!](devise_and_omniauth)
 * [Instructions for Capybara - By Nate T.!](capybara)
