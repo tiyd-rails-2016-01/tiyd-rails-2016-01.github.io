@@ -71,6 +71,7 @@ layout: default
 #### Lecture Notes
 
 * [Class Video](https://youtu.be/ycZ-nROQ9Wc)
+* [Last Year's d3 Day](https://youtu.be/NcojjI04QVw) - I was less medicated.
 
 #### Evening Reading
 
