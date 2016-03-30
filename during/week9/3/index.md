@@ -68,15 +68,9 @@ layout: default
   * `selection.transition()`
   * `my_transition.duration(zoomTime)`
 
-<!--
-
 #### Lecture Notes
 
-* [Class Video]()
-
-#### Useful Links
-
--->
+* [Class Video](https://youtu.be/ycZ-nROQ9Wc)
 
 #### Evening Reading
 
