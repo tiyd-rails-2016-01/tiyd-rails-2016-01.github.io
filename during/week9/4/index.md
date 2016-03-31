@@ -20,9 +20,9 @@ layout: default
 
 #### Lecture Notes
 
-* [Class Video]()
-* [The Final Whiteboard]()
-* [The Final Mobile Whiteboard]()
+* [Class Video](https://youtu.be/tKcYcGoiRSY)
+* [The Final Whiteboard](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/027/original/3.31.16_rails_board.JPG?1459441176)
+* [The Final Whiteboard on Wheels](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/026/original/3.31.16_gitflow.JPG?1459441131)
 
 #### Useful Links
 
