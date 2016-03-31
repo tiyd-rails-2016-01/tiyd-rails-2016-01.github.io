@@ -79,4 +79,4 @@ These links will be used for turning in assignments throughout the class.  Keep 
 * M - [Large Team Development](week9/1)
 * T - [OAuth and Ember](week9/2)
 * W - [Visualizations with d3.js](week9/3)
-* Th - Non-Rails Frameworks
+* Th - [Non-Rails Frameworks](week9/4)

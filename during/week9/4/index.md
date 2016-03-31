@@ -21,11 +21,11 @@ layout: default
 #### Lecture Notes
 
 * [Class Video]()
-* [ONE WHITEBOARD TO RULE THEM ALL](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/064/original/one_whiteboard_to_rule_them_all.jpg?1446061483)
+* [The Final Whiteboard]()
+* [The Final Mobile Whiteboard]()
 
 #### Useful Links
 
-* [Administate](https://github.com/thoughtbot/administrate)
 * [State of the Developer Nation 2015](http://www.visionmobile.com/product/developer-economics-q1-2015-state-developer-nation/)
 * [So Much Rails to Learn](http://www.justinweiss.com/blog/2015/05/25/with-so-much-rails-to-learn/)
 * [Map of Rails knowledge](https://dgosxlrnzhofi.cloudfront.net/custom_page_images/64/page_images/Rails_Competencies.png)
