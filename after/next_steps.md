@@ -6,7 +6,9 @@ layout: default
 
 The inevitable question after class is "what do I do next?"  Obviously, working on a portfolio ([this](http://html5up.net/) might help, by the way), cleaning up your GitHub repos, and working on job search tasks like resumes and networking are at the top of the list.  Beyond that, though, it's important to think about what you want to learn next.
 
-One option is "more about Ruby."   There are a lot of references on the course website for this, and many many books.  Sandi Metz' POODR or Eloquent Ruby are excellent choices.  Thoughtbot also has a Junior-to-Senior training program online which is new, but promising: [Upcase](https://upcase.com/join).  That might be worth checking out.  Also, here are a few concepts which we never had time to get to in class.  If you liked our rabbit hole, check these out:
+One option is "more about Ruby."   There are a lot of references on the course website for this, and many many books.  Sandi Metz' POODR or Eloquent Ruby are excellent choices.  Thoughtbot also has a Junior-to-Senior training program online which is new, but promising: [Upcase](https://upcase.com/join).  That might be worth checking out.  If you didn't finish the Koans, please do; they're insightful.
+
+Also, here are a few concepts which we never had time to get to in class.  If you liked our particular Ruby rabbit hole, check these out:
 
 * How do Macros (like `has_many`) work?
   * [Video Tutorial](https://pragmaticstudio.com/blog/2015/4/14/ruby-macros)
