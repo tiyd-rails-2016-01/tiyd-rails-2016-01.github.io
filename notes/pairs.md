@@ -61,3 +61,12 @@ Damian - Daniel B
 Molly  - Joseph
 Lyly   - Jim
 Kate   - Geoff
+
+## Final Projects
+
+Kate - Jim - Jefferson - Kevin
+Damian
+Molly - Marcia
+Steven - Hugh - Brian
+Lyly - Joseph - Daniel L
+Geoff - Daniel B
