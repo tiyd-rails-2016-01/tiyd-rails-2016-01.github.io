@@ -42,8 +42,10 @@ layout: default
 * [The Asset Pipeline on Heroku](https://devcenter.heroku.com/articles/rails-4-asset-pipeline)
 * [Bootstrap](http://getbootstrap.com/)
 * [SCSS Guide](http://sass-lang.com/)
-* [5 Things I Didn't Know About Accessibility](http://www.scimedsolutions.com/articles/70-5-things-i-didn-t-know-about-web-accessibility)
 * [Administrate](https://github.com/thoughtbot/administrate)
+* [Accessibility - the Veil of Ignorance](http://mrmrs.io/writing/2016/03/23/the-veil-of-ignorance/)
+* [5 Things I Didn't Know About Accessibility](http://www.scimedsolutions.com/articles/70-5-things-i-didn-t-know-about-web-accessibility)
+* [How Blind Engineers Write Code](https://www.livecoding.tv/parham90/videos/z8MoB-how-do-blind-engineers-write-and-debug-code)
 * [Tota11y](http://khan.github.io/tota11y/)
 
 #### Evening Reading

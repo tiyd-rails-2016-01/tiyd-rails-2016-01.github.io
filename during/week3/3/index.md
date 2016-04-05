@@ -48,6 +48,7 @@ layout: default
 * [Ruby Weekly](http://rubyweekly.com/)
 * [Ruby Rogues](http://devchat.tv/ruby-rogues/)
 * [Most common jobs in america](http://www.npr.org/blogs/money/2015/02/05/382664837/map-the-most-common-job-in-every-state)
+* [How Susceptible are Jobs to Computerization?](http://www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_Employment.pdf)
 
 #### Evening Reading
 
