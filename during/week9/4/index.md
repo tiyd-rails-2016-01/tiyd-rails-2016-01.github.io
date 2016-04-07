@@ -40,4 +40,4 @@ layout: default
 
 #### Assignment
 
-* Assignment: Complete [Ruby Koans](http://rubykoans.com/).  Then practice any of the concepts from class that you think will be helpful during your final projects.
+* Assignment: Complete [Ruby Koans](http://rubykoans.com/).
