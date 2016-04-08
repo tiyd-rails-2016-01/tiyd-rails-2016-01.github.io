@@ -1,9 +1,7 @@
-# Reflections
+# Requested student topics
 
-* List of shortcuts I gave out too soon:
-  *
-* Student Feedback:
-  *
+* Quantum computing
+* has_many macro
 
 # Other assignment ideas
 
@@ -16,25 +14,20 @@
 * Commuters volunteering for moving donations
 * Crowd-sourced developer assessment tool
 
+# Missed topics
+
 * Postgres - OPTIONAL
   * `brew doctor` (and then whatever it suggests)
   * `brew update`
   * `brew install postgres` (look for permission errors on `/usr/local/`)
   * `initdb /usr/local/var/postgres`
   * Change database.yml for development
-
-
-  * Multi-tenancy
-  * `.ruby-version`
-  * Nested Routes
-  * Collection/Member Routes
-
+* Multi-tenancy
+* Nested Routes
+* Collection/Member Routes
 * Scope
   * `default_scope`
   * `scope`
   * Defining methods on associations
-
-
-* Single-field search bar queries (ala Google)
 * AREL
 * Caching
