@@ -28,6 +28,8 @@ Thus far, when students vote for five choices, we've never had a student who was
 
 After assigning groups, we then give two mentors to each group (typically instructors, but occasionally TAs or local professionals).  We also schedule the time of day for check-ins and stand-ups (see below) so that no mentor is double-booked for a particular time.
 
+Students are given assignments on the afternoon of pitch day (Friday of week 9), and are instructed to focus on planning over the weekend.  We ask them to create workflow diagrams, ERDs, and Trello boards (see below) TOGETHER as an entire group.  They can only begin coding once the planning is complete.  Some will get to coding over the weekend, and some will not.
+
 ### The Schedule
 
 When laying out the calendar for the final projects, we mark the following dates:
@@ -45,7 +47,7 @@ When laying out the calendar for the final projects, we mark the following dates
 
 Feature freeze means that students stop developing new features, and after that point, only fix bugs and work on design.  Code freeze is what it sounds like.  After that point, you should be working on your presentations, portfolios, and networking.  Feature freeze and code freeze are strong recommendations, but not enforced.  Students are adults, and can take their fates into their own hands if they choose.
 
-### Mentoring/Planning
+### Mentoring/Trello Boards
 
 Project mentors are primarily responsible for guiding students during check-ins (see below) and making sure that they create, adhere to, and update their project plan as necessary.
 
@@ -54,6 +56,24 @@ All groups are required to create two Trello boards.  The first board contains f
 The second Trello board is the "Current Sprint" board, and it consists of three columns: To-do (initially populated from the other board), In Progress, and Completed.
 
 ### Check-ins
+
+There are four standard check-ins over the course of the final project, and the first is different from the rest.
+
+Between Pitch Day and the Monday of week 10, students must perform project planning as described above.  The first check-in is mainly meant to validate the project plan, both for user story quality and for feature quantity.  Commonly, students ignore the properties of a good user story and just write down everything that they can think of which they need to do.
+
+At Durham, we make a big fuss out of internally consistent MVPs.  At each check-in, the application must be clean, have no known bugs, have no links or sections which do nothing, and accomplish something useful to the users.  In other words, they need to prioritize closure over having lots of features started.
+
+All check-ins after the first have the following agenda:
+
+* Students present their application as though it is Demo Day
+* Mentors comment on presentation quality
+* Mentors comment on functionality
+* Mentors comment on style (this grows in importance as time passes)
+* The group and its mentors rearrange the Trello boards for the next sprint
+
+When students present, each student must speak.  Mentors time the presentations, then ask students to guess at how long it took.  This helps students start to calibrate to what 5 minutes look like.
+
+Sometimes groups come to a check-in and they have not created an internally consistent MVP.  When it is just a few loose ends, this is not a problem.  However, when it is clear that many features have been started and not finished, next sprint planning may not be possible, so mentors may ask students to have a second check-in in 24 hours (during which no new features may be started).
 
 ### Daily Stand-ups
 
