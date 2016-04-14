@@ -26,18 +26,31 @@ After the discussion, the staff collects all the index cards and goes offsite.  
 
 Thus far, when students vote for five choices, we've never had a student who wasn't assigned to one of his/her choices.
 
+After assigning groups, we then give two mentors to each group (typically instructors, but occasionally TAs or local professionals).  We also schedule the time of day for check-ins and stand-ups (see below) so that no mentor is double-booked for a particular time.
+
 ### The Schedule
 
-* Monday, Thursday of week 10
-* Monday, Thursday of week 11
-* Monday of week 12
-* Feature freeze on Monday of week 12
-* Code freeze on Wednesday of week 12
+When laying out the calendar for the final projects, we mark the following dates:
+
+* Check-in: Monday of week 10
+* Check-in: Thursday of week 10
+* Check-in: Monday of week 11
+* Check-in: Thursday of week 11
+* Check-in: Monday of week 12
+* Feature freeze: Monday of week 12 (midnight that night)
+* Code freeze: Wednesday of week 12 (midnight that night)
+* Rehearsals: Wed/Thurs of week 12
+* Demo Day: Thurs/Fri of week 12
+* Graduation: Friday of week 12
+
+Feature freeze means that students stop developing new features, and after that point, only fix bugs and work on design.  Code freeze is what it sounds like.  After that point, you should be working on your presentations, portfolios, and networking.  Feature freeze and code freeze are strong recommendations, but not enforced.  Students are adults, and can take their fates into their own hands if they choose.
 
 ### Mentoring
 
 ### Daily Stand-ups
 
 ### Check-ins
+
+### Trouble
 
 ### Demo Day
