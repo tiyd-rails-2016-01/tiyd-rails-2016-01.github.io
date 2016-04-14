@@ -87,7 +87,13 @@ On non-check-in days, mentors typically attend the stand-ups.
 
 ### Trouble
 
+Groups can get into trouble during final projects in a number of ways.  Sometimes, there are personality conflicts or major life events.  Those are difficult to plan for, and have to be handled on an individual basis.
 
+Most commonly, though, groups get behind because of poor project management within the group, and this is the reason we provide such a rigorous final project structure.  That being said, there is still enough leeway for students to cause trouble for themselves.
+
+This slippage can be evident at the check-in after sprint 1, but groups will often recover by the end of sprint 2.  By the end of sprint 3, though, it may be clear that the groups are well behind schedule, and features have to be cut.  At this point, mentors can take a number of different actions.  On one extreme, groups can be given ultimatums; if the group does not accomplish X, Y, and Z over the weekend, the group will not present.  It is also possible to tell the group that they will not have a full five minutes to present on Demo Day (if they have not created enough functionality to justify it).
+
+The right course of action in these situations will depend on the culture of the campus.
 
 ### Demo Day
 
