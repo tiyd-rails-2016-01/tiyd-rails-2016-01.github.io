@@ -77,6 +77,20 @@ Sometimes groups come to a check-in and they have not created an internally cons
 
 ### Daily Stand-ups
 
+At the same time each day, groups are asked to hold stand-ups.  During these stand-ups, each person should talk for no more than 2 minutes, and the following three items should be covered:
+
+* What you did yesterday
+* What you are planning to do today
+* What roadblocks you have
+
+On non-check-in days, mentors typically attend the stand-ups.
+
 ### Trouble
 
+
+
 ### Demo Day
+
+When planning the order of presentations for Demo Day, we spread the best projects out.  With a break in the middle, we typically put the best at the very end and right before the break.
+
+Each group speaks for 5 minutes, and we leave no time for questions.  At the conclusion of the presentations, groups station themselves at tables (like in a science fair), and employers are free to visit any of the tables and ask whatever questions they have.
