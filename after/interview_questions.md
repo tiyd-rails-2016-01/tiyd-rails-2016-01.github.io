@@ -31,3 +31,12 @@ One last comment: if you're interviewing with five people in a row, make sure th
 * Have you had any trouble maintaining your company culture in the face of growth?
 * How many teams does the company have, and how are they organized?
 * How often do staff members move across team lines?
+
+## Development Methodology
+
+* What do deadlines look like?
+* What do iterations look like?
+* How many hours per week do developers work?
+* Do your developers do any pair programming?
+* How much emphasis is placed on testing?
+* What is your take on remote work?
