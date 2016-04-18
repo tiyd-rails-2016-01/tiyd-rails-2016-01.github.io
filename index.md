@@ -33,3 +33,4 @@ You'll need to complete all of these steps before January 24th.  If you have ANY
 * [Software development resources](/after/resources)
 * [HUGE list of free coding books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [My thoughts on next steps](/after/next_steps)
+* [Interview Questions (that YOU can ask)](/after/interview_questions)
