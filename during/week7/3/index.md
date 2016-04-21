@@ -50,7 +50,7 @@ layout: default
 #### Assignment
 
 * Assignment: [Auction Site with AJAX](https://github.com/tiyd-rails-2016-01/auction_ajax)
-<!-- * Feedback: [Auction Site Feedback](feedback) -->
+* Feedback: [Auction Site Feedback](feedback)
 
 #### What I would have talked about with a fourth day this week
 

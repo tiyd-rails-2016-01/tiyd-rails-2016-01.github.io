@@ -57,4 +57,4 @@ layout: default
 #### Weekend Assignment - IN PAIRS
 
 * Assignment: [Todo List](https://github.com/tiyd-rails-2016-01/todo_app)
-<!-- * Feedback: [Todo List Feedback](feedback) -->
+* Feedback: [Todo List Feedback](feedback)

@@ -6,10 +6,7 @@ layout: default
 
 **Challenge:** [Classes](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/classes_challenge.rb)
 
-<!-- **Challenge:** [Inheritance](https://github.com/masonfmatthews/rails_assignments/blob/master/challenges/inheritance_challenge.rb) -->
-
 **Problem of the Day:** [Employee and Department API](https://github.com/masonfmatthews/rails_assignments/blob/master/exercises/employee_and_department_api)
-
 
 * Efficiency
   * SQL versus Ruby solutions to the [Medium HW problems](https://github.com/tiyd-rails-2016-01/employee_reviews_with_db) from [last Wednesday night](https://github.com/tiyd-rails-2016-01/employee_reviews_solution)
@@ -64,7 +61,7 @@ layout: default
 
 * [Class Video](https://www.youtube.com/watch?v=sWXuocHcYiY)
 * [Mini-lecture Video](https://youtu.be/FXqEixZJN1k)
-* [Deparment and Employee with the Ruby Way vs the SQL Way](https://github.com/tiyd-rails-2016-01/employee_reviews_solution.git)
+* [Department and Employee with the Ruby Way vs the SQL Way](https://github.com/tiyd-rails-2016-01/employee_reviews_solution.git)
 * [Example Code from Class](api_call.rb)
 * [Whiteboard - The Internet and The Web](http://tiyd-rails.s3.amazonaws.com/pictures/uploaded_files/000/000/015/original/2.22.16_internet.JPG?1456177560)
 

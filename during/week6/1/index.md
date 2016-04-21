@@ -56,4 +56,4 @@ layout: default
 #### Assignment
 
 * Assignment: [Restaurant Menu](https://github.com/tiyd-rails-2016-01/restaurant_menu)
-<!-- * Feedback: [Restaurant Menu Feedback](feedback) -->
+* Feedback: [Restaurant Menu Feedback](feedback)

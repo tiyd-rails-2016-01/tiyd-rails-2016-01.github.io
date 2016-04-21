@@ -45,4 +45,4 @@ layout: default
   * Allowing students or parents to log in.
   * Limiting teachers to only view and edit their own students and student grades.
   * Those requirements can be handled tomorrow night.  If you feel like you'll make it to hard or nightmare modes, read those before you start coding and consider taking that future functionality into account in your data structure.
-<!-- * Feedback: [Gradebook Day 1 Feedback](feedback) -->
+* Feedback: [Gradebook Day 1 Feedback](feedback)
